@@ -264,18 +264,19 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/in
 
 
 #EXTINF:-1 tvg-id="HN01" tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan1.png" group-title="地方特色",湖南经视
-http://42.49.189.17:9008/tsfile/live/1000_1.m3u8?key=txiptv
+http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
 #EXTINF:-1 tvg-id="HN02" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" group-title="地方特色",湖南都市
-http://42.49.189.17:9008/tsfile/live/1001_1.m3u8?key=txiptv
+http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
 #EXTINF:-1 tvg-id="HN03" tvg-name="湖南爱晚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan3.png" group-title="地方特色",湖南爱晚
-http://42.49.189.17:9008/tsfile/live/1003_1.m3u8?key=txiptv
+http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
 #EXTINF:-1 tvg-id="HN05" tvg-name="湖南娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan5.png" group-title="地方特色",湖南娱乐
-http://42.49.189.17:9008/tsfile/live/1005_1.m3u8?key=txiptv
+http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 #EXTINF:-1 tvg-id="HN06" tvg-name="湖南电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan6.png" group-title="地方特色",湖南电影
-http://42.49.189.17:9008/tsfile/live/1002_1.m3u8?key=txiptv 
+http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
 #EXTINF:-1 tvg-id="HN07" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan7.png" group-title="地方特色",湖南电视剧
-http://42.49.189.17:9008/tsfile/live/1004_1.m3u8?key=txiptv
-
+http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
+#EXTINF:-1 tvg-id="HN04" tvg-name="湖南国际" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan4.png" group-title="地方特色",湖南国际
+http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
 
 #山西/6个频道
 #EXTINF:-1 tvg-id="Shanxi" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi.png" group-title="地方特色",山西卫视
