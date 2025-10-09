@@ -1,0 +1,57 @@
+{
+  "lives": [
+    {
+      "name": "冰茶",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://fy.188766.xyz/?ip=&mishitong=true&mima=mianfeidehaimaiqian&huikan=1&json=true",
+      "epg": "https://fy.188766.xyz/e.xml",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+       },
+{
+    "name": "jackTV",
+    "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+    "ua": "okhttp/3.8.1",
+    "epg": "https://epg.946985.filegear-sg.me/t.xml.gz"
+  },
+{
+    "name": "咪咕订阅源",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+    "ua": "okhttp/3.8.1",
+    "epg": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml"
+  },
+{
+    "name": "BXTV",
+    "url": "http://bxtv.3a.ink/live.m3u",
+    "ua": "okhttp/3.8.1",
+    "epg": "https://mytvsuperepg.860775.xyz/epg.xml"
+  },
+{
+    "name": "JUDY-Smart",
+    "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/logo-smart.m3u",
+    "ua": "okhttp/3.8.1",
+    "epg": "https://fy.188766.xyz/all.xml.gz"
+  }
+  ],
+  "headers": [
+    {
+      "host": "hlsztemgsplive.miguvideo.com",
+      "header": {
+        "User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+      }
+    }
+  ],
+  "proxy": [
+    "raw.githubusercontent.com"
+  ],
+  "hosts": [
+    "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
+    "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
+    "cdn9.163189.xyz=gcore.jsdelivr.net",
+    "cache.ott.fifalive.itv.cmvideo.cn=cache.ott.fifalive.itv.cmvideo.cn.e.cdn.chinamobile.com",
+    "studentlive.migucloud.com=base-v4v6-miguvideo.e.cdn.chinamobile.com"
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv"
+  ]
+}
