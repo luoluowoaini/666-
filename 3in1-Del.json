@@ -14,6 +14,12 @@
     "ua": "okhttp/3.8.1",
     "epg": "https://epg.iill.top/epg.xml"
   },
+    {
+    "name": "DIY-TV",
+    "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/112114diy.m3u",
+    "ua": "okhttp/3.8.1",
+    "epg": "https://daili.korice.eu.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml"
+  },
 {
     "name": "咪咕订阅源",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
@@ -55,4 +61,5 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
