@@ -12,7 +12,7 @@
     "name": "jackTV",
     "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
     "ua": "okhttp/3.8.1",
-    "epg": "https://epg.946985.filegear-sg.me/t.xml.gz"
+    "epg": "https://epg.iill.top/epg.xml"
   },
 {
     "name": "咪咕订阅源",
@@ -55,3 +55,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
