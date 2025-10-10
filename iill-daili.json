@@ -1,8 +1,12 @@
 {
   "proxy": {
-    "host": "192.168.10.110",
-    "port": 7898,
-    "protocol": "SOCKS5"
+    "host": "192.168.10.110",     // 代理服务器地址
+    "socks5_port": 7898,          // SOCKS5 代理端口
+    "http_port": 7899,            // HTTP 代理端口
+    "protocol": "SOCKS5",         // 默认使用 SOCKS5 协议
+    "fallback_protocol": "HTTP",  // 如果 SOCKS5 不可用，则回退为 HTTP 代理
+    "auto_switch": true,          // 启用自动代理切换
+    "check_interval": 5           // 自动切换检查间隔（秒）
   },
   "lives": [
     {
@@ -12,7 +16,10 @@
       "epg": "https://epg.iill.top/epg.xml",
       "ua": "okhttp/3.8.1",
       "timeout": 20,
-      "playerType": 1
+      "playerType": 1,
+      "headers": {
+        "Referer": "https://tv.iill.top/"
+      }
     },
     {
       "name": "Live「直播」",
