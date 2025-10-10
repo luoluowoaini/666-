@@ -1,0 +1,47 @@
+{
+  "proxy": {
+    "host": "192.168.10.110",
+    "port": 7898,
+    "protocol": "SOCKS5"
+  },
+  "lives": [
+    {
+      "name": "Gather「IPTV」",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Gather",
+      "epg": "https://epg.iill.top/epg.xml",
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "playerType": 1
+    },
+    {
+      "name": "Live「直播」",
+      "type": 0,
+      "url": "https://m.iill.top/Live.m3u",
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "playerType": 1
+    },
+    {
+      "name": "myTV「香港」",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/MyTV",
+      "epg": "https://epg.iill.top/epg.xml",
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "playerType": 1
+    },
+    {
+      "name": "Sport「体育」",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Sport",
+      "epg": "https://epg.iill.top/epg.xml",
+      "header": {
+        "Referer": "https://p.lioncdn.net/"
+      },
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "playerType": 1
+    }
+  ]
+}
