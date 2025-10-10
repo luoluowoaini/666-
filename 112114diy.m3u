@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://daili.korice.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" group-title="港澳台",Now新闻台
+https://yang-1989.eu.org/live/now-332
+#EXTINF:-1,tvg-id="NOW财经台" tvg-name="NOW财经台" tvg-logo="https://daili.korice.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now2.png" group-title="港澳台",Now财经台
+https://yang-1989.eu.org/live/now-333
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="港澳台",ViuTV
+https://yang-1989.eu.org/live/ViuTV
+#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTVSIX.png" group-title="港澳台",ViuTVsix
+https://yang-1989.eu.org/live/ViuTVsix
+#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://daili.korice.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/meiyady.png" group-title="港澳台",美亚电影台
+https://yang-1989.eu.org/live/Mei-Ah-Movie-Channel
+#EXTINF:-1,tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png" group-title="港澳台",Love Nature
+https://yang-1989.eu.org/live/Love-Nature
+#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png" group-title="港澳台",tvN
+https://yang-1989.eu.org/live/tvN
+#EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="港澳台",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳门莲花.png" group-title="港澳台",澳门莲花
+http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="地方台",广东体育
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="地方台",广东珠江
+http://r.jdshipin.com/sE5vO
+#EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="地方台",广州综合
+http://i.iill.top:12838/gztv/zhonghe
+#EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州新闻.png" group-title="地方台",广州新闻
+http://i.iill.top:12838/gztv/xinwen
+#EXTINF:-1,tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州法治.png" group-title="地方台",广州法治
+http://i.iill.top:12838/gztv/fazhi
+#EXTINF:-1,tvg-id="广州南国都市" tvg-name="广州南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州南国都市.png" group-title="地方台",广州南国都市
+http://i.iill.top:12838/gztv/shenghuo
+#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海五星体育.png" group-title="地方台",五星体育
+http://i.iill.top:12838/sh/wxty
+#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海第一财经.png" group-title="地方台",第一财经
+http://i.iill.top:12838/sh/dycj
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="港澳台",凤凰中文
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="港澳台",凤凰香港
+http://r.jdshipin.com/yDoTN
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://daili.korice.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="港澳台",翡翠台4K
+https://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://daili.korice.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="港澳台",翡翠台
+https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://daili.korice.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" group-title="港澳台",明珠台
+https://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1,tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="港澳台",TVB Plus
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://daili.korice.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="港澳台",无线新闻台
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1,tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" group-title="港澳台",Now新闻台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1,tvg-id="Sky Sports F1" tvg-name="Sky Sports F1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSF1.png" group-title="港澳台",Sky Sports F1
+http://fortv.cc:8080/clarencekingrh
+#EXTINF:-1,tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/REDBULLTV.png" group-title="港澳台",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻台.png" group-title="港澳台",娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1,tvg-id="TVB 星河" tvg-name="TVB 星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="港澳台",TVB 星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1,tvg-id="亚洲武侠" tvg-name="亚洲武侠" tvg-logo="https://daili.korice.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB15.png" group-title="港澳台",亚洲武侠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1,tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ASTROAOD.png" group-title="港澳台",Astro AOD
+http://php.jdshipin.com/TVOD/iptv.php?id=aod
+#EXTINF:-1,tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ASTROAEC.png" group-title="港澳台",Astro AEC
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1,tvg-id="Astro 全佳" tvg-name="Astro 全佳" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ASTRO全佳.png" group-title="港澳台",Astro 全佳
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1,tvg-id="Astro 欢喜台" tvg-name="Astro 欢喜台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ASTRO欢喜台.png" group-title="港澳台",Astro 欢喜台
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1,tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IQIYI.png" group-title="港澳台",iQIYI
+http://php.jdshipin.com/smt.php?id=Qiyi
+#EXTINF:-1,tvg-id="8TV" tvg-name="8TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/8TV.png" group-title="港澳台",8TV
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1,tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CH5.png" group-title="港澳台",Channel 5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1,tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CH8.png" group-title="港澳台",Channel 8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1,tvg-id="Channel u" tvg-name="Channel u" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHU.png" group-title="港澳台",Channel u
+http://cdn6.163189.xyz/163189/chu
