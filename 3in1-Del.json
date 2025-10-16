@@ -39,10 +39,10 @@
     "epg": "https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz"
   },
    {
-    "name": "JUDY-MytvSUPER",
-    "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u",
+    "name": "风云TV",
+    "url": "http://iptv.4666888.xyz/FYTV.m3u",
     "ua": "okhttp/3.8.1",
-    "epg": "https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz"
+    "epg": "https://fy.188766.xyz/e.xml"
   },
 {
     "name": "JUDY-Smart",
@@ -73,6 +73,7 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
 
 
