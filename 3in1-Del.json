@@ -32,6 +32,18 @@
     "ua": "okhttp/3.8.1",
     "epg": "https://mytvsuperepg.860775.xyz/epg.xml"
   },
+    {
+    "name": "JUDY-4GTV",
+    "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4GTV.m3u",
+    "ua": "Goiptv/8.8.8",
+    "epg": "https://fy.188766.xyz/e.xml"
+  },
+   {
+    "name": "JUDY-MytvSUPER",
+    "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u",
+    "ua": "Goiptv/8.8.8",
+    "epg": "https://fy.188766.xyz/e.xml"
+  },
 {
     "name": "JUDY-Smart",
     "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/logo-smart.m3u",
@@ -61,6 +73,7 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
 
 
