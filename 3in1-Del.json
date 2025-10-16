@@ -12,7 +12,7 @@
     "name": "jackTV",
     "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
     "ua": "okhttp/3.8.1",
-    "epg": "https://epg.iill.top/epg.xml"
+    "epg": "https://epg.946985.filegear-sg.me/t.xml.gz"
   },
     {
     "name": "DIY-TV",
@@ -41,7 +41,7 @@
    {
     "name": "JUDY-MytvSUPER",
     "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u",
-    "ua": "Goiptv/8.8.8",
+    "ua": "okhttp/3.8.1",
     "epg": "https://fy.188766.xyz/e.xml"
   },
 {
@@ -73,6 +73,7 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
 
 
