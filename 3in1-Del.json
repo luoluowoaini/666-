@@ -12,11 +12,12 @@
     "name": "jackTV",
     "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
     "ua": "okhttp/3.8.1",
-    "epg": "https://epg.946985.filegear-sg.me/t.xml.gz"
+    "epg": "https://epg.946985.filegear-sg.me/t.xml.gz,https://fy.188766.xyz/e.xml,https://mytvsuperepg.860775.xyz/epg.xml,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml"
   },
     {
     "name": "DIY-TV",
     "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/112114diy.m3u",
+    "epg": "https://epg.946985.filegear-sg.me/t.xml.gz,https://fy.188766.xyz/e.xml,https://mytvsuperepg.860775.xyz/epg.xml,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,",
     "ua": "okhttp/3.8.1"
   },
 {
@@ -66,6 +67,7 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
 
 
