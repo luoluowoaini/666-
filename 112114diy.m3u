@@ -53,13 +53,13 @@ http://r.jdshipin.com/CkuBd
 https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="Sky Sports F1" tvg-logo="https://daili.korice.eu.org/https://github.com/luoluowoaini/666-/blob/main/Sky-Sports-F1.png" group-title="港澳台",Sky Sports F1
 http://fortv.cc:8080/clarencekingrh
-#EXTINF:-1 tvg-id="Red Bull TV" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="港澳台",Red Bull TV
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-logo="https://daili.korice.eu.org/https://github.com/luoluowoaini/666-/blob/iill-logo-mytvsuper/RedBull.png" group-title="港澳台",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="港澳台",娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-id="TVB 星河" tvg-name="TVB星河" tvg-logo="https://daili.korice.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" group-title="港澳台",TVB 星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-id="亚洲武侠" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="港澳台",亚洲武侠
+#EXTINF:-1 tvg-id="亚洲武侠" tvg-logo="https://daili.korice.eu.org/https://github.com/luoluowoaini/666-/blob/iill-logo-mytvsuper/%E4%BA%9E%E6%B4%B2%E6%AD%A6%E4%BF%A0.png" group-title="港澳台",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-id="Astro AOD" tvg-name="ASTROAOD" tvg-logo="https://daili.korice.eu.org/https://github.com/luoluowoaini/666-/blob/main/Astro AOD.png" group-title="港澳台",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
