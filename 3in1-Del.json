@@ -17,8 +17,7 @@
     {
     "name": "DIY-TV",
     "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/112114diy.m3u",
-    "ua": "okhttp/3.8.1",
-    "epg": "https://fy.188766.xyz/e.xml"
+    "ua": "okhttp/3.8.1"
   },
 {
     "name": "咪咕订阅源",
@@ -37,12 +36,6 @@
     "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4GTV.m3u",
     "ua": "Goiptv/8.8.8",
     "epg": "https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz"
-  },
-   {
-    "name": "风云TV",
-    "url": "http://iptv.4666888.xyz/FYTV.m3u",
-    "ua": "okhttp/3.8.1",
-    "epg": "https://fy.188766.xyz/e.xml"
   },
 {
     "name": "JUDY-Smart",
@@ -73,6 +66,7 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
 
 
