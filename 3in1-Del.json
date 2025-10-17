@@ -34,7 +34,7 @@
   },
     {
     "name": "JUDY-4GTV",
-    "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4GTV.m3u",
+    "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/judy-4gtv.m3u",
     "ua": "Goiptv/8.8.8",
     "epg": "https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz"
   },
@@ -67,6 +67,7 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
 
 
