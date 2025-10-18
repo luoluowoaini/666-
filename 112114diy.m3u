@@ -93,49 +93,83 @@ http://cdn6.163189.xyz/163189/chu
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1,tvg-id="广东大湾区" tvg-name="广东大湾区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东大湾区.png" group-title="广东",广东大湾区
-http://m.061899.xyz/mg/gddwq
-#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png" group-title="广东",广东民生
-http://m.061899.xyz/mg/gdms
-#EXTINF:-1,tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东少儿.png" group-title="广东",广东少儿
-http://m.061899.xyz/mg/gdse
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="广东",广东体育
-http://m.061899.xyz/mg/gdty
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视",广东卫视
-http://m.061899.xyz/mg/gdws
-#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png" group-title="广东",广东新闻
-http://m.061899.xyz/mg/gdxw
-#EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东影视.png" group-title="广东",广东影视
-http://m.061899.xyz/mg/gdys
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="广东",广东珠江
+#TEST
+#TEST
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="TEST",广东珠江
 http://m.061899.xyz/mg/gdzj
-#EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东经济科教.png" group-title="广东",广东经济
-http://m.061899.xyz/mg/gdjjkj
-#EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东经济科教.png" group-title="广东",广东经济-1
-http://m.061899.xyz/mg/gdjj
-#EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东经济科教.png" group-title="广东",广东经济-2
-http://m.061899.xyz/mg/gdkj
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="TEST",广东体育
+http://m.061899.xyz/mg/gdty
+#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png" group-title="TEST",广东民生
+http://m.061899.xyz/mg/gdms
+#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png" group-title="TEST",广东新闻
+http://m.061899.xyz/mg/gdxw
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="TEST",重温经典
+http://m.061899.xyz/mg/cwjd
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="TEST",CCTV1
+http://m.061899.xyz/mg/cctv1
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="TEST",CCTV2
+http://m.061899.xyz/mg/cctv2
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="TEST",CCTV3
+http://m.061899.xyz/mg/cctv3
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="TEST",CCTV4
+http://m.061899.xyz/mg/cctv4
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="TEST",CCTV5
+http://m.061899.xyz/mg/cctv5
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="TEST",CCTV5+
+http://m.061899.xyz/mg/cctv5p
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="TEST",CCTV6
+http://m.061899.xyz/mg/cctv6
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="TEST",CCTV7
+http://m.061899.xyz/mg/cctv7
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="TEST",CCTV8
+http://m.061899.xyz/mg/cctv8
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="TEST",CCTV9
+http://m.061899.xyz/mg/cctv9
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="TEST",CCTV10
+http://m.061899.xyz/mg/cctv10
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="TEST",CCTV11
+http://m.061899.xyz/mg/cctv11
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="TEST",CCTV12
+http://m.061899.xyz/mg/cctv12
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="TEST",CCTV13
+http://m.061899.xyz/mg/cctv13
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="TEST",CCTV14
+http://m.061899.xyz/mg/cctv14
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="TEST",CCTV15
+http://m.061899.xyz/mg/cctv15
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="TEST",CCTV16
+http://m.061899.xyz/mg/cctv16
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="TEST",CCTV17
+http://m.061899.xyz/mg/cctv17
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="TEST",重温经典
+http://m.061899.xyz/mg/cwjd
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="TEST",凤凰中文
+http://m.061899.xyz/mg/fhzw
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="TEST",凤凰资讯
+http://m.061899.xyz/mg/fhzx
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="TEST",凤凰香港
+http://m.061899.xyz/mg/fhhk
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="TEST",广东珠江
+http://m.061899.xyz/mg/gdzj
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="TEST",广东体育
+http://m.061899.xyz/mg/gdty
+#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png" group-title="TEST",广东民生
+http://m.061899.xyz/mg/gdms
+#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png" group-title="TEST",广东新闻
+http://m.061899.xyz/mg/gdxw
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="TEST",CCTV1
+http://m.061899.xyz/mg/zjws
+#EXTINF:-1,tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/影迷电影.png" group-title="TEST",影迷电影
+http://m.061899.xyz/mg/ymdy
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="TEST",重温经典
+http://m.061899.xyz/mg/cwjd
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="TEST",凤凰中文
+http://m.061899.xyz/mg/fhzw
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="TEST",凤凰资讯
+http://m.061899.xyz/mg/fhzx
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="TEST",凤凰香港
+http://m.061899.xyz/mg/fhhk
 
-#EXTINF:-1,tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳都市.png" group-title="广东",深圳都市
-http://m.061899.xyz/mg/szds
-#EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="广东",广州综合
-http://m.061899.xyz/mg/gzzh
-#EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州新闻.png" group-title="广东",广州新闻
-http://m.061899.xyz/mg/gzxw
-#EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州影视.png" group-title="广东",广州影视
-http://m.061899.xyz/mg/gzys
-#EXTINF:-1,tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州法治.png" group-title="广东",广州法治
-http://m.061899.xyz/mg/gzfz
-#EXTINF:-1,tvg-id="广州南国都市" tvg-name="广州南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州南国都市.png" group-title="广东",广州南国都市
-http://m.061899.xyz/mg/gzng
 
 
 
