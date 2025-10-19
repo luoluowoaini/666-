@@ -17,33 +17,6 @@ https://yang-1989.eu.org/live/tvN
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="澳门莲花" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳门莲花.png" group-title="港澳台",澳门莲花
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="地方台",广东体育
-http://r.jdshipin.com/LiYdg
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="地方台",广东珠江
-http://r.jdshipin.com/sE5vO
-
-#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png" group-title="地方台",广东新闻
-http://m.061899.xyz/mg/gdxw
-#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png" group-title="地方台",广东民生
-http://m.061899.xyz/mg/gdms
-
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="地方台",广东体育[189]
-http://m.061899.xyz/mg/gdty
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="地方台",广东珠江[189]
-http://m.061899.xyz/mg/gdzj
-
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="地方台",广州综合
-http://i.iill.top:12838/gztv/zhonghe
-#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州新闻.png" group-title="地方台",广州新闻
-http://i.iill.top:12838/gztv/xinwen
-#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州法治.png" group-title="地方台",广州法治
-http://i.iill.top:12838/gztv/fazhi
-#EXTINF:-1 tvg-id="广州南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州南国都市.png" group-title="地方台",广州南国都市
-http://i.iill.top:12838/gztv/shenghuo
-#EXTINF:-1 tvg-id="上海五星体育" tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="地方台",五星体育
-http://i.iill.top:12838/sh/wxty
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一财经.png" group-title="地方台",第一财经
-http://i.iill.top:12838/sh/dycj
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="港澳台",凤凰中文
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="港澳台",凤凰资讯
@@ -76,9 +49,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
 #EXTINF:-1 tvg-id="Astro AEC" tvg-name="ASTROAEC" tvg-logo="https://daili.korice.eu.org/https://github.com/luoluowoaini/666-/blob/main/Astro AEC.png" group-title="港澳台",Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 tvg-id="Astro 全佳" tvg-logo="https://daili.korice.eu.org/https://github.com/luoluowoaini/666-/blob/main/Astro QJ.png" group-title="港澳台",Astro 全佳
+#EXTINF:-1 tvg-id="Astro QJ" tvg-logo="https://daili.korice.eu.org/https://github.com/luoluowoaini/666-/blob/main/Astro QJ.png" group-title="港澳台",Astro 全佳
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-id="Astro 欢喜台" tvg-logo="https://daili.korice.eu.org/https://github.com/luoluowoaini/666-/blob/main/Astro Hua Hee Dai.png" group-title="港澳台",Astro 欢喜台
+#EXTINF:-1 tvg-id="Astro Hua Hee Dai" tvg-logo="https://daili.korice.eu.org/https://github.com/luoluowoaini/666-/blob/main/Astro Hua Hee Dai.png" group-title="港澳台",Astro 欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 tvg-id="iQIYI" tvg-name="IQIYI" tvg-logo="https://daili.korice.eu.org/https://github.com/luoluowoaini/666-/blob/main/iQIYI.png" group-title="港澳台",iQIYI
 http://php.jdshipin.com/smt.php?id=Qiyi
@@ -90,6 +63,32 @@ http://cdn6.163189.xyz/163189/ch5
 http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 tvg-id="Channel u" tvg-name="CHANNELU" tvg-logo="https://daili.korice.eu.org/https://github.com/luoluowoaini/666-/blob/main/CHANNELUHD.png" group-title="港澳台",Channel u
 http://cdn6.163189.xyz/163189/chu
+
+
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="地方台",广东体育
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="地方台",广东珠江
+http://r.jdshipin.com/sE5v
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png" group-title="地方台",广东新闻
+http://m.061899.xyz/mg/gdxw
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png" group-title="地方台",广东民生
+http://m.061899.xyz/mg/gdms
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="地方台",广东体育[189]
+http://m.061899.xyz/mg/gdty
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="地方台",广东珠江[189]
+http://m.061899.xyz/mg/gdzj
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="地方台",广州综合
+http://i.iill.top:12838/gztv/zhonghe
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州新闻.png" group-title="地方台",广州新闻
+http://i.iill.top:12838/gztv/xinwen
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州法治.png" group-title="地方台",广州法治
+http://i.iill.top:12838/gztv/fazhi
+#EXTINF:-1 tvg-id="广州南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州南国都市.png" group-title="地方台",广州南国都市
+http://i.iill.top:12838/gztv/shenghuo
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="地方台",五星体育
+http://i.iill.top:12838/sh/wxty
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一财经.png" group-title="地方台",第一财经
+http://i.iill.top:12838/sh/dycj
 
 
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="TEST",广东珠江
