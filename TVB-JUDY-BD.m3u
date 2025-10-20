@@ -1,0 +1,500 @@
+#EXTM3U x-tvg-url="https://develop202.github.io/migu_video/playback.xml,https://fy.188766.xyz/e.xml,https://mytvsuperepg.860775.xyz/epg.xml,https://epg.946985.filegear-sg.me/t.xml.gz,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz"
+
+#JUDY TVB
+#TVB
+#myTV SUPER
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="🇭🇰TVB綜合其他",翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+https://mytv.passwdword.xyz/mytv265.php?id=J
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="🇭🇰TVB綜合其他",翡翠台 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
+https://mytv.passwdword.xyz/mytv265.php?id=JUHD
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="🇭🇰TVB綜合其他",TVB Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
+https://mytv.passwdword.xyz/mytv265.php?id=B
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="🇭🇰TVB新聞財經",無線新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
+https://mytv.passwdword.xyz/mytv265.php?id=C
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="🇭🇰TVB新聞財經",明珠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
+https://mytv.passwdword.xyz/mytv265.php?id=P
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPERFREE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="🇭🇰TVB戲劇電影",myTV SUPER FREE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
+https://mytv.passwdword.xyz/mytv265.php?id=CWIN
+#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="MYTVSUPER18台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable11.png" group-title="🇭🇰TVB戲劇電影",myTV SUPER 18台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
+https://mytv.passwdword.xyz/mytv265.php?id=C18
+#EXTINF:-1 tvg-id="myTV-28-AI" tvg-logo="https://www.mytvsuper.com/tc/scoopplus/thumbor/rzBSNjFIaLA8XDdRtwfpF_gXiHo=/200x0/filters:quality(80)/public/author/cover/202412/776c7bc4-e8ff-4585-a36d-3459bec286b8.png" group-title="🇭🇰TVB體育競技",28 AI 智慧賽馬
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b778a3241e5fa3bb97d1cb9b57f9e09:3b1f318259fcf0dccd04742cd679fd25
+https://mytv.passwdword.xyz/mytv265.php?id=C28
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黄金翡翠.png" group-title="🇭🇰TVB戲劇電影",黃金翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
+https://mytv.passwdword.xyz/mytv265.php?id=TVG
+#EXTINF:-1 tvg-id="ROCKEXTREME" tvg-name="ROCKEXTREME" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKEXTREME.png" group-title="🇭🇰TVB戲劇電影",ROCK Extreme
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
+https://mytv.passwdword.xyz/mytv265.php?id=RKEX
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="🇭🇰TVB戲劇電影",千禧經典台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
+https://mytv.passwdword.xyz/mytv265.php?id=CTVC
+#EXTINF:-1 tvg-id="華語劇台" tvg-name="华语剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华语剧.png" group-title="🇭🇰TVB戲劇電影",華語劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
+https://mytv.passwdword.xyz/mytv265.php?id=CDR3
+#EXTINF:-1 tvg-id="粵語片台" tvg-name="粤语片台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/粤语片.png" group-title="🇭🇰TVB戲劇電影",粵語片台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
+https://mytv.passwdword.xyz/mytv265.php?id=CCLM
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亚洲剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲剧.png" group-title="🇭🇰TVB戲劇電影",亞洲劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
+https://mytv.passwdword.xyz/mytv265.php?id=CTVS
+#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黄金华剧台" tvg-logo="https://epg.iill.top/logo/黄金华剧.png" group-title="🇭🇰TVB戲劇電影",黃金華劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
+https://mytv.passwdword.xyz/mytv265.php?id=TVO
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娱乐新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="🇭🇰TVB新聞財經",娛樂新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
+https://mytv.passwdword.xyz/mytv265.php?id=CTVE
+#EXTINF:-1 tvg-id="戲曲台" tvg-name="戏曲台" tvg-logo="https://epg.iill.top/logo/CCTV%E6%88%8F%E6%9B%B2.png" group-title="🇭🇰TVB戲劇電影",戲曲台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
+https://mytv.passwdword.xyz/mytv265.php?id=CCOC
+#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPERKIDSCHANNEL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SUPERKIDSCHANNEL.png" group-title="🇭🇰TVB兒童卡通",SUPER Kids Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
+https://mytv.passwdword.xyz/mytv265.php?id=KID
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZOOMOO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ZOOMOO.png" group-title="🇭🇰TVB兒童卡通",ZooMoo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
+https://mytv.passwdword.xyz/mytv265.php?id=ZOO
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKELODEON.png" group-title="🇭🇰TVB兒童卡通",Nickelodeon
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
+https://mytv.passwdword.xyz/mytv265.php?id=CNIKO
+#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="NICKJR." tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKJR..png" group-title="🇭🇰TVB兒童卡通",Nick Jr.
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
+https://mytv.passwdword.xyz/mytv265.php?id=CNIJR
+#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="🇭🇰TVB戲劇電影",美亞電影台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
+https://mytv.passwdword.xyz/mytv265.php?id=CMAM
+#EXTINF:-1 tvg-id="Thrill" tvg-name="THRILL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/THRILL.png" group-title="🇭🇰TVB戲劇電影",Thrill
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
+https://mytv.passwdword.xyz/mytv265.php?id=CTHR
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="🇭🇰TVB戲劇電影",天映經典頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
+https://mytv.passwdword.xyz/mytv265.php?id=CCCM
+#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中国电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国电影.png" group-title="🇭🇰TVB戲劇電影",中國電影頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cabb16d20e71b512f24e9ece0cb09396:2d43505980a22014ee1a476880982308
+https://mytv.passwdword.xyz/mytv265.php?id=CMC
+#EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="ROCKACTION" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKACTION.png" group-title="🇭🇰TVB戲劇電影",ROCK Action
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
+https://mytv.passwdword.xyz/mytv265.php?id=CRTX
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/KIX.png" group-title="🇭🇰TVB戲劇電影",KIX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
+https://mytv.passwdword.xyz/mytv265.php?id=CKIX
+#EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="LOVENATUREHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png" group-title="🇭🇰TVB紀實探索",Love Nature HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
+https://mytv.passwdword.xyz/mytv265.php?id=LNH
+#EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="LOVENATURE4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE4K.png" group-title="🇭🇰TVB紀實探索",Love Nature 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
+https://mytv.passwdword.xyz/mytv265.php?id=LN4
+#EXTINF:-1 tvg-id="Global-Trekker-HK" tvg-name="GLOBALTREKKER" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GLOBALTREKKER.png" group-title="🇭🇰TVB紀實探索",Global Trekker
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
+https://mytv.passwdword.xyz/mytv265.php?id=SMS
+#EXTINF:-1 tvg-id="Rock-Entertainment-HK" tvg-name="ROCK综艺娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCK综艺娱乐.png" group-title="🇭🇰TVB戲劇電影",ROCK 綜藝娛樂
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
+https://mytv.passwdword.xyz/mytv265.php?id=CRTE
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="🇭🇰TVB綜合其他",AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
+https://mytv.passwdword.xyz/mytv265.php?id=CAXN
+#EXTINF:-1 tvg-id="Animax-HK" tvg-name="ANIMAX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMAX.png" group-title="🇭🇰TVB戲劇電影",Animax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
+https://mytv.passwdword.xyz/mytv265.php?id=CANI
+#EXTINF:-1 tvg-id="tvN-HK" tvg-name="TVN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png" group-title="🇭🇰TVB戲劇電影",tvN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
+https://mytv.passwdword.xyz/mytv265.php?id=CJTV
+#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="无线卫星亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线卫星亚洲.png" group-title="🇭🇰TVB新聞財經",無線衛星亞洲台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
+https://mytv.passwdword.xyz/mytv265.php?id=CTS1
+#EXTINF:-1 tvg-id="創世電視" tvg-name="创世电视" tvg-logo="https://epg.iill.top/logo/%E5%88%9B%E4%B8%96%E7%94%B5%E8%A7%86.png" group-title="🇭🇰TVB綜合其他",創世電視
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
+https://mytv.passwdword.xyz/mytv265.php?id=CRE
+#EXTINF:-1 tvg-id="FashionBox" tvg-name="FASHIONBOX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FASHIONBOX.png" group-title="🇭🇰TVB生活旅遊",FashionBox
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
+https://mytv.passwdword.xyz/mytv265.php?id=FBX
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="MEZZOLIVEHD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/mezzolive.png" group-title="🇭🇰TVB音樂綜藝",Mezzo Live HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e46f2747a9cf6822a608786bbc21d400:d8778fcf92c949e949a6700828f5f67e
+https://mytv.passwdword.xyz/mytv265.php?id=CMEZ
+#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="东方卫视国际频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视国际.png" group-title="🇭🇰TVB綜合其他",東方衛視國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
+https://mytv.passwdword.xyz/mytv265.php?id=DTV
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="凤凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="🇭🇰TVB綜合其他",鳳凰衛視中文台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
+https://mytv.passwdword.xyz/mytv265.php?id=PCC
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="🇭🇰TVB新聞財經",鳳凰衛視資訊台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
+https://mytv.passwdword.xyz/mytv265.php?id=PIN
+#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="🇭🇰TVB綜合其他",鳳凰衛視香港台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
+https://mytv.passwdword.xyz/mytv265.php?id=PHK
+#EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="🇭🇰TVB戲劇電影",PopC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
+https://mytv.passwdword.xyz/mytv265.php?id=POPC
+#EXTINF:-1 tvg-id="中央電視台綜合頻道-港澳版" tvg-name="中央电视台综合频道(港澳版)" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="🇭🇰TVB綜合其他",中央電視台綜合頻道 (港澳版)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
+https://mytv.passwdword.xyz/mytv265.php?id=CC1
+#EXTINF:-1 tvg-id="中國環球電視網-記錄頻道" tvg-name="CGTN(中国环球电视网)记录频道" tvg-logo="https://epg.iill.top/logo/CGTN%E7%BA%AA%E5%BD%95.png" group-title="🇭🇰TVB綜合其他",CGTN (中國環球電視網)記錄頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b570ae67cb063428b158eb2f91c6d77c:c573dabca79a17f81755c0d4b33384bc
+https://mytv.passwdword.xyz/mytv265.php?id=CGD
+#EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="CGTN(中国环球电视网)英语频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="🇭🇰TVB綜合其他",CGTN (中國環球電視網)英語頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4331903278b673916cc6940a8b8d9e7e:02a409115819de9acd9e907b053e3aa8
+https://mytv.passwdword.xyz/mytv265.php?id=CGE
+#EXTINF:-1 tvg-id="神州新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/神州新闻.png" group-title="🇭🇰TVB新聞財經",神州新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ee6ed08925f4716c8d0943e7bdb3e5f:6f3c1e31b30ccac36d466f41489ceb27
+https://mytv.passwdword.xyz/mytv265.php?id=CMN1
+#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="无线卫星新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线卫星新闻.png" group-title="🇭🇰TVB新聞財經",無線衛星新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73aaeb9e84db423627018017059e0f9d:34148a56250459383f7ef7369073bf39
+https://mytv.passwdword.xyz/mytv265.php?id=CTSN
+#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亚洲新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲新闻.png" group-title="🇭🇰TVB新聞財經",亞洲新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddc7bb2603628134334919a0d7327d1d:a5fcd8bb852371faedd13b684f5adede
+https://mytv.passwdword.xyz/mytv265.php?id=CCNA
+#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半岛电视台英语频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/半岛电视台英语.png" group-title="🇭🇰TVB新聞財經",半島電視台英語頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80c76105d3ae35dfe25f939d1fb83383:6d76e7ba039773bced47d78e6de4fcf0
+https://mytv.passwdword.xyz/mytv265.php?id=CJAZ
+#EXTINF:-1 tvg-id="France-24-HK" tvg-name="FRANCE24" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FRANCE24.png" group-title="🇭🇰TVB新聞財經",France 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
+https://mytv.passwdword.xyz/mytv265.php?id=CF24
+#EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="🇭🇰TVB新聞財經",DW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bb557c09dfc01a27ab81778913f2a10:d00ca6eb9a83ffde846324109fb445ba
+https://mytv.passwdword.xyz/mytv265.php?id=CDW1
+#EXTINF:-1 tvg-id="NHK-HK" tvg-name="NHKWORLDJAPAN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLD.png" group-title="🇭🇰TVB新聞財經",NHK World-Japan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
+https://mytv.passwdword.xyz/mytv265.php?id=CNHK
+#EXTINF:-1 tvg-id="Arirang-HK" tvg-name="ARIRANGTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANGTV.png" group-title="🇭🇰TVB綜合其他",Arirang TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
+https://mytv.passwdword.xyz/mytv265.php?id=CARI
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-3" tvg-name="MYTVSUPER直播足球2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB體育競技",myTV SUPER 直播足球2台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=024f2733fb9afad23490149c601ce47c:034db34d56263c79c7f41448f2a6cfc1
+https://mytv.passwdword.xyz/mytv265.php?id=EVT2
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-3" tvg-name="MYTVSUPER直播足球3台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB體育競技",myTV SUPER 直播足球3台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
+https://mytv.passwdword.xyz/mytv265.php?id=EVT3
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-4" tvg-name="TVS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB體育競技",myTV SUPER 直播足球4台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
+https://mytv.passwdword.xyz/mytv265.php?id=EVT4
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-5" tvg-name="TVS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB體育競技",myTV SUPER 直播足球5台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
+https://mytv.passwdword.xyz/mytv265.php?id=EVT5
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-6" tvg-name="TVS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB體育競技",myTV SUPER 直播足球6台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
+https://mytv.passwdword.xyz/mytv265.php?id=EVT6
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-7" tvg-name="TVS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB體育競技",myTV SUPER 直播足球7台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a81a757b16a3d431d4365d81f07f07:292f2fdc2002e8346cd2c18af4a3a4bc
+https://mytv.passwdword.xyz/mytv265.php?id=EVT7
+#EXTINF:-1 tvg-id="SUPER-Sports" tvg-name="SUPERSPORTS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB體育競技",SUPER Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
+https://mytv.passwdword.xyz/mytv265.php?id=SSPT
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png" group-title="🇭🇰TVB體育競技",互動窗 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
+https://mytv.passwdword.xyz/mytv265.php?id=C3
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png" group-title="🇭🇰TVB體育競技",互動窗 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
+https://mytv.passwdword.xyz/mytv265.php?id=C2
+#EXTINF:-1 tvg-id="SUPER獎門人" tvg-name="SUPER奖门人" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB音樂綜藝",SUPER獎門人
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
+https://mytv.passwdword.xyz/mytv265.php?id=SVAR
+#EXTINF:-1 tvg-id="SUPER EYT" tvg-name="SUPEREYT" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB音樂綜藝",SUPER EYT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
+https://mytv.passwdword.xyz/mytv265.php?id=SEYT
+#EXTINF:-1 tvg-id="SUPER識食" tvg-name="SUPER识食" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB生活旅遊",SUPER識食
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
+https://mytv.passwdword.xyz/mytv265.php?id=SFOO
+#EXTINF:-1 tvg-id="SUPER識嘆" tvg-name="SUPER识叹" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB生活旅遊",SUPER識嘆
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
+https://mytv.passwdword.xyz/mytv265.php?id=STRA
+#EXTINF:-1 tvg-id="SUPER Music" tvg-name="SUPERMUSIC" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB音樂綜藝",SUPER Music
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
+https://mytv.passwdword.xyz/mytv265.php?id=SMUS
+#EXTINF:-1 tvg-id="SUPER金曲" tvg-name="SUPER金曲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB音樂綜藝",SUPER金曲
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
+https://mytv.passwdword.xyz/mytv265.php?id=SGOL
+#EXTINF:-1 tvg-id="SUPER煲劇" tvg-name="SUPER煲剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB電影戲劇",SUPER煲劇
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
+https://mytv.passwdword.xyz/mytv265.php?id=SSIT
+#EXTINF:-1 tvg-id="SUPER劇場" tvg-name="SUPER剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB電影戲劇",SUPER劇場
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
+https://mytv.passwdword.xyz/mytv265.php?id=STVM
+#EXTINF:-1 tvg-id="SUPER話當年" tvg-name="SUPER话当年" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="🇭🇰TVB生活旅遊",SUPER話當年
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
+https://mytv.passwdword.xyz/mytv265.php?id=SDOC
+#EXTINF:-1 tvg-id="中國中央電視台中文國際頻道" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="🇭🇰TVB綜合其他",中國中央電視台中文國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b2762e6912e2f37a1cad1df9af6dc6e:f4edc1240a3e852661c0607db463a6dd
+https://mytv.passwdword.xyz/mytv265.php?id=CC4
+#EXTINF:-1 tvg-id="中國中央電視台娛樂頻道" tvg-logo="https://epg.iill.top/logo/CCTV娱乐.png" group-title="🇭🇰TVB綜合其他",中國中央電視台娛樂頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e173591f7ab25dbc47f6c05abcbb92c7:21c5e4987d1e255d0e171280ad13d815
+https://mytv.passwdword.xyz/mytv265.php?id=CCE
+#EXTINF:-1 tvg-id="中國中央電視台戲曲頻道" tvg-logo="https://epg.iill.top/logo/CCTV戏曲.png" group-title="🇭🇰TVB電影戲劇",中國中央電視台戲曲頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=310ee76e894b8361fefdedf5c7b50983:f113fcca4a982e53ba2fc31e7fbf6e2c
+https://mytv.passwdword.xyz/mytv265.php?id=CCO
+#EXTINF:-1 tvg-id="雲南瀾湄國際衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南澜湄国际卫视.png" group-title="🇭🇰TVB綜合其他",雲南瀾湄國際衛視
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
+https://mytv.passwdword.xyz/mytv265.php?id=YNTV
+#EXTINF:-1 tvg-id="安徽廣播電視台國際頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png" group-title="🇭🇰TVB綜合其他",安徽廣播電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
+https://mytv.passwdword.xyz/mytv265.php?id=AHTV
+#EXTINF:-1 tvg-id="北京電視台國際頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="🇭🇰TVB綜合其他",北京電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8965a188153cee562c067ba66b0f0fb:c373bfab2e75b979beefbb6b370bcdc2
+https://mytv.passwdword.xyz/mytv265.php?id=BJTV
+#EXTINF:-1 tvg-id="廣西電視台國際頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangxi.png" group-title="🇭🇰TVB綜合其他",廣西電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853
+https://mytv.passwdword.xyz/mytv265.php?id=GXTV
+#EXTINF:-1 tvg-id="福建海峽衛視國際頻道" tvg-name="海峡卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Haixia.png" group-title="🇭🇰TVB綜合其他",福建海峽衛視國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb
+https://mytv.passwdword.xyz/mytv265.php?id=FJTV
+#EXTINF:-1 tvg-id="湖南電視台國際頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan4.png" group-title="🇭🇰TVB綜合其他",湖南電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a43885f5c495e3ce5b1162ecb5c35c03:e506caf7a71025850e8823c07a1b29dc
+https://mytv.passwdword.xyz/mytv265.php?id=HNTV
+#EXTINF:-1 tvg-id="江蘇電視台國際頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu6.png" group-title="🇭🇰TVB綜合其他",江蘇電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5287fd241995f7b097597c4349bea5b5:23398eb21eee12ddb9a9df1dd6373687
+https://mytv.passwdword.xyz/mytv265.php?id=JSTV
+#EXTINF:-1 tvg-id="廣東廣播電視台大灣區衛視頻道" tvg-name="大湾区卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong10.png" group-title="🇭🇰TVB綜合其他",廣東廣播電視台大灣區衛視頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
+https://mytv.passwdword.xyz/mytv265.php?id=GBTV
+#EXTINF:-1 tvg-id="浙江電視台國際頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang7.png" group-title="🇭🇰TVB綜合其他",浙江電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8799940a2a97f5eb997753983be48fe5:53c4b68330f10e5507d3c0647703031e
+https://mytv.passwdword.xyz/mytv265.php?id=ZJTV
+#EXTINF:-1 tvg-id="深圳衛視國際頻道" tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shenzhen7.png" group-title="🇭🇰TVB綜合其他",深圳衛視國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
+https://mytv.passwdword.xyz/mytv265.php?id=SZTV
+#EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-name="ACTIONHOLLYWOODMOVIES" tvg-logo="https://epg.iill.top/logo/ActionHollywoodMovies.png" group-title="🇭🇰TVB電影戲劇",Action Hollywood Movies
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=ACTM
+#EXTINF:-1 tvg-id="Rialto Classic Movies" tvg-name="RIALTOCLASSICMOVIES(RCM)" tvg-logo="https://epg.iill.top/logo/RCM.png" group-title="🇭🇰TVB電影戲劇",Rialto Classic Movies
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=RCM
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACESPORTSTARS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TraceSport.png" group-title="🇭🇰TVB體育競技",TRACE Sport Stars
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=TRSP
+#EXTINF:-1 tvg-id="Pet Club TV" tvg-name="PETCLUBTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PetClubTV.png" group-title="🇭🇰TVB生活旅遊",Pet Club TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=PETC
+#EXTINF:-1 tvg-id="Globetrotter" tvg-name="GLOBETROTTER" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GLOBETROTTER环游旅行家.png" group-title="🇭🇰TVB生活旅遊",Globetrotter
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=GLBT
+#EXTINF:-1 tvg-id="Docsville" tvg-name="DOCSVILLE" tvg-logo="https://epg.iill.top/logo/Docsville.png" group-title="🇭🇰TVB綜合其他",Docsville
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=DOCV
+#EXTINF:-1 tvg-id="Pulse Documentaries" tvg-name="PULSEDOCUMENTARIES" tvg-logo="https://epg.iill.top/logo/PulseDocumentaries.png" group-title="🇭🇰TVB綜合其他",Pulse Documentaries
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=PULS
+#EXTINF:-1 tvg-id="NOW 70s" tvg-name="NOW70S" tvg-logo="https://epg.iill.top/logo/NOW70s.png" group-title="🇭🇰TVB音樂綜藝",NOW 70s
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=NOW7
+#EXTINF:-1 tvg-id="NOW 80s" tvg-name="NOW 80s" tvg-logo="https://epg.iill.top/logo/NOW80s.png" group-title="🇭🇰TVB音樂綜藝",NOW 80s
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=NOW8
+#EXTINF:-1 tvg-id="NOW 90s00s" tvg-name="NOW 90s00s" tvg-logo="https://epg.iill.top/logo/NOW90s00s.png" group-title="🇭🇰TVB音樂綜藝",NOW 90s00s
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=NOW9
+#EXTINF:-1 tvg-id="NOW ROCK" tvg-name="NOWROCK" tvg-logo="https://epg.iill.top/logo/NOWROCK.png" group-title="🇭🇰TVB音樂綜藝",NOW ROCK
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=NOWR
+#EXTINF:-1 tvg-id="Concerto" tvg-name="CONCERTO" tvg-logo="https://epg.iill.top/logo/Concerto.png" group-title="🇭🇰TVB音樂綜藝",Concerto
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=CONC
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACEURBAN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TraceUrban.png" group-title="🇭🇰TVB音樂綜藝",TRACE Urban
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=TRUR
+#EXTINF:-1 tvg-id="NewsWorld" tvg-name="NewsWorld" tvg-logo="https://epg.iill.top/logo/NewsWorld.png" group-title="🇭🇰TVB新聞財經",NewsWorld
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mytv.passwdword.xyz/mytv265.php?id=NSWD
