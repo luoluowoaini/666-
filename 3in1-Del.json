@@ -17,9 +17,8 @@
     {
     "name": "DIY-TV",
     "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/112114diy.m3u",
-    "epg": "https://develop202.github.io/migu_video/playback.xml,https://fy.188766.xyz/e.xml,https://mytvsuperepg.860775.xyz/epg.xml,https://epg.946985.filegear-sg.me/t.xml.gz,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz",
-    "ua": "okhttp/3.8.1"
-  },
+     "epg": "https://fy.188766.xyz/e.xml,https://mytvsuperepg.860775.xyz/epg.xml,https://epg.946985.filegear-sg.me/t.xml.gz,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz,https://epg.iill.top/epg.xml"
+},
 {
     "name": "咪咕订阅源",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
@@ -74,6 +73,7 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
 
 
