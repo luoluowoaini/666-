@@ -12,21 +12,12 @@
       "name": "jackTV",
       "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
       "ua": "okhttp/3.8.1",
-      "epg": "https://epg.946985.filegear-sg.me/t.xml.gz," +
-             "https://fy.188766.xyz/e.xml," +
-             "https://mytvsuperepg.860775.xyz/epg.xml," +
-             "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml"
+      "epg": "https://epg.946985.filegear-sg.me/t.xml.gz,https://fy.188766.xyz/e.xml,https://mytvsuperepg.860775.xyz/epg.xml,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml"
     },
     {
       "name": "DIY-TV",
       "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/112114diy.m3u",
-      "epg": "https://fy.188766.xyz/e.xml," +
-             "https://mytvsuperepg.860775.xyz/epg.xml," +
-             "https://epg.946985.filegear-sg.me/t.xml.gz," +
-             "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml," +
-             "https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz," +
-             "https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz," +
-             "https://epg.iill.top/epg.xml"
+      "epg": "https://fy.188766.xyz/e.xml,https://mytvsuperepg.860775.xyz/epg.xml,https://epg.946985.filegear-sg.me/t.xml.gz,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz,https://epg.iill.top/epg.xml"
     },
     {
       "name": "咪咕订阅源",
@@ -44,25 +35,13 @@
       "name": "JUDY-4GTV",
       "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/judy-4gtv.m3u",
       "ua": "Goiptv/8.8.8",
-      "epg": "https://develop202.github.io/migu_video/playback.xml," +
-             "https://fy.188766.xyz/e.xml," +
-             "https://mytvsuperepg.860775.xyz/epg.xml," +
-             "https://epg.946985.filegear-sg.me/t.xml.gz," +
-             "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml," +
-             "https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz," +
-             "https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz"
+      "epg": "https://develop202.github.io/migu_video/playback.xml,https://fy.188766.xyz/e.xml,https://mytvsuperepg.860775.xyz/epg.xml,https://epg.946985.filegear-sg.me/t.xml.gz,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz"
     },
     {
       "name": "JUDY-TVB",
       "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u",
       "ua": "okhttp/3.8.1",
-      "epg": "https://develop202.github.io/migu_video/playback.xml," +
-             "https://fy.188766.xyz/e.xml," +
-             "https://mytvsuperepg.860775.xyz/epg.xml," +
-             "https://epg.946985.filegear-sg.me/t.xml.gz," +
-             "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml," +
-             "https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz," +
-             "https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz"
+      "epg": "https://develop202.github.io/migu_video/playback.xml,https://fy.188766.xyz/e.xml,https://mytvsuperepg.860775.xyz/epg.xml,https://epg.946985.filegear-sg.me/t.xml.gz,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz"
     },
     {
       "name": "JUDY-Smart",
