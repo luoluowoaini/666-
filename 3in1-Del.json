@@ -38,6 +38,14 @@
       "epg": "https://develop202.github.io/migu_video/playback.xml,https://fy.188766.xyz/e.xml,https://mytvsuperepg.860775.xyz/epg.xml,https://epg.946985.filegear-sg.me/t.xml.gz,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz"
     },
     {
+  "name": "JUDY-TVB-BD-PROXY",
+  "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/TVB-JUDY-BD.m3u",
+  "ua": "okhttp/3.8.1",
+  "epg": "https://mytvsuperepg.860775.xyz/epg.xml",
+  "http_proxy": "http://judy:judy520@tw-ty-line1-4-7.sudatech.store:21364",
+  "https_proxy": "http://judy:judy520@tw-ty-line1-4-7.sudatech.store:21364"
+},
+    {
       "name": "JUDY-TVB",
       "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u",
       "ua": "okhttp/3.8.1",
@@ -72,3 +80,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
