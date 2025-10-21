@@ -1,4 +1,6 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml,https://mytvsuperepg.860775.xyz/epg.xml,https://epg.946985.filegear-sg.me/t.xml.gz,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz,https://daili.korice.eu.org/https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz,https://epg.iill.top/epg.xml.gz"
+
+
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="港澳台",Now新闻台
 https://yang-1989.eu.org/live/now-332
 #EXTINF:-1 tvg-id="NOW财经台" tvg-name="NOW财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW财经.png" group-title="港澳台",Now财经台
