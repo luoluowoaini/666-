@@ -17,7 +17,7 @@
     {
       "name": "DIY-TV-gh",
       "url": "https://gh-proxy.com/raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/112114diy.m3u",
-      "epg": "https://fy.188766.xyz/e.xml"
+      "epg": ""
     },
     {
       "name": "DIY-TV-fast",
@@ -77,6 +77,7 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
 
 
