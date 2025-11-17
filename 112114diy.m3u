@@ -556,7 +556,6 @@ https://vhr.dpdns.org/20001/live/wxty/stream.m3u8
 
 #smt
 #SMT
-
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="SMT",香港|翡翠台
 http://217.116.172.49/Smart.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="SMT",香港|翡翠台 backup
@@ -1639,7 +1638,6 @@ http://217.116.172.49/Smart.php?id=bstbs_japan
 http://217.116.172.49/Smart.php?id=nhkosaka_japan
 #EXTINF:-1 tvg-name="NHKWORLD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLD.png" group-title="SMT",日本|NHK World
 http://217.116.172.49/Smart.php?id=nhkworld_japan
-
 
 
 
