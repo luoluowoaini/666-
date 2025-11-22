@@ -620,28 +620,689 @@ http://bxtv.3a.ink/migu.php?id=959986618
 #EXTINF:-1 svg-id="环球旅游" svg-name="环球旅游" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/200/202509251348_1758698362959_H32_1080.webp" group-title="咪咕-纪实",环球旅游
 http://bxtv.3a.ink/migu.php?id=958475356
 
-#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TVBPLUS.png" group-title="咪咕-BXTV港台",TVB Plus
+#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TVBPLUS.png" group-title="咪咕-BXTV港台",TVB Plus
 http://bxtv.3a.ink/api.php?id=tvbp
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="咪咕-BXTV港台",明珠台
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="咪咕-BXTV港台",明珠台
 http://bxtv.3a.ink/api.php?id=mz
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/无线新闻台.png" group-title="咪咕-BXTV港台",無線新聞台
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/无线新闻台.png" group-title="咪咕-BXTV港台",無線新聞台
 http://bxtv.3a.ink/api.php?id=wxxw
-#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/美亚电影台.png" group-title="咪咕-BXTV港台",美亞電影台
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/美亚电影台.png" group-title="咪咕-BXTV港台",美亞電影台
 http://bxtv.3a.ink/api.php?id=meiya
-#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/千禧经典台.png" group-title="咪咕-BXTV港台",千禧經典台
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/千禧经典台.png" group-title="咪咕-BXTV港台",千禧經典台
 http://bxtv.3a.ink/api.php?id=qxjd
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="咪咕-BXTV港台",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="咪咕-BXTV港台",翡翠台
 http://bxtv.3a.ink/api.php?id=fct
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视中文台.png" group-title="咪咕-BXTV港台",鳳凰衛視中文台
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视中文台.png" group-title="咪咕-BXTV港台",鳳凰衛視中文台
 http://bxtv.3a.ink/api.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视资讯台.png" group-title="咪咕-BXTV港台",鳳凰衛視資訊台
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视资讯台.png" group-title="咪咕-BXTV港台",鳳凰衛視資訊台
 http://bxtv.3a.ink/api.php?id=fhzx
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/凤凰卫视香港台.png" group-title="咪咕-BXTV港台",鳳凰衛視香港台
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/凤凰卫视香港台.png" group-title="咪咕-BXTV港台",鳳凰衛視香港台
 http://bxtv.3a.ink/api.php?id=fhhk
-#EXTINF:-1 tvg-name="POPC" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/POPC.png" group-title="咪咕-BXTV港台",POPC
+#EXTINF:-1 tvg-name="POPC" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/POPC.png" group-title="咪咕-BXTV港台",POPC
 http://bxtv.3a.ink/api.php?id=popc
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/中天新闻台.png" group-title="咪咕-BXTV港台",中天新聞台
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/中天新闻台.png" group-title="咪咕-BXTV港台",中天新聞台
 http://bxtv.3a.ink/api.php?id=ztxw
+
+
+#smt
+#tzh911
+#911
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="香港🇭🇰",翡翠台
+https://tzh911.qzz.io/play-smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="香港🇭🇰",翡翠台
+https://tzh911.qzz.io/play-smt.php?id=Jade_xue
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="香港🇭🇰",明珠台
+https://tzh911.qzz.io/play-smt.php?id=pearl_twn
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="香港🇭🇰",无线新闻
+https://tzh911.qzz.io/play-smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港🇭🇰",TVBPLUS
+https://tzh911.qzz.io/play-smt.php?id=j2_twn
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="香港🇭🇰",VIUTV
+https://tzh911.qzz.io/play-smt.php?id=viu1_twn
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="香港🇭🇰",VIUTV
+https://tzh911.qzz.io/play-smt.php?id=viusix_twn
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="香港🇭🇰",RTHK31
+https://tzh911.qzz.io/play-smt.php?id=rhk31_twn
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="香港🇭🇰",RTHK32
+https://tzh911.qzz.io/play-smt.php?id=rhk32_twn
+#EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/HOYTV.png" group-title="香港🇭🇰",HOYTV
+https://tzh911.qzz.io/play-smt.php?id=hoycaijing_twn
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="香港🇭🇰",凤凰中文
+https://tzh911.qzz.io/play-smt.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="香港🇭🇰",凤凰资讯
+https://tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="香港🇭🇰",凤凰香港
+https://tzh911.qzz.io/play-smt.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视.png" group-title="台湾🇹🇼",台视
+#台湾
+https://tzh911.qzz.io/play-smt.php?id=ttv_taiwan
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视新闻.png" group-title="台湾🇹🇼",台视新闻
+https://tzh911.qzz.io/play-smt.php?id=ttvnews_twn
+#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视综合.png" group-title="台湾🇹🇼",台视综合
+https://tzh911.qzz.io/play-smt.php?id=ttvzhonghe
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华视.png" group-title="台湾🇹🇼",华视
+https://tzh911.qzz.io/play-smt.php?id=ctshd_twn
+#EXTINF:-1 tvg-name="公视儿少台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公视.png" group-title="台湾🇹🇼",公视儿少台
+https://tzh911.qzz.io/play-smt.php?id=ctv_taiwan
+#EXTINF:-1 tvg-name="公视台语台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公视台语.png" group-title="台湾🇹🇼",公视台语台
+https://tzh911.qzz.io/play-smt.php?id=ctv2_twn
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视新闻.png" group-title="台湾🇹🇼",中视新闻
+https://tzh911.qzz.io/play-smt.php?id=zhongshinews_twn
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视.png" group-title="台湾🇹🇼",中视
+https://tzh911.qzz.io/play-smt.php?id=zhongshihd_twn
+#EXTINF:-1 tvg-name="中天综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天综合.png" group-title="台湾🇹🇼",中天综合台
+https://tzh911.qzz.io/play-smt.php?id=ctizhonghe
+#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天娱乐.png" group-title="台湾🇹🇼",中天娱乐台
+https://tzh911.qzz.io/play-smt.php?id=ctient
+#EXTINF:-1 tvg-name="中天亚洲精采台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天亚洲.png" group-title="台湾🇹🇼",中天亚洲精采台
+https://tzh911.qzz.io/play-smt.php?id=ctiasia_twn
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/中天新闻台.png" group-title="台湾🇹🇼",中天新闻台
+https://tzh911.qzz.io/play-smt.php?id=ctinews
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/东森新闻台.png" group-title="台湾🇹🇼",东森新闻台
+https://tzh911.qzz.io/play-smt.php?id=ettvnews
+#EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/东森财经新闻台.png" group-title="台湾🇹🇼",东森财经新闻台
+https://tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn
+#EXTINF:-1 tvg-name="东森综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森综合.png" group-title="台湾🇹🇼",东森综合台
+https://tzh911.qzz.io/play-smt.php?id=ettvzhonghe
+#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森戏剧.png" group-title="台湾🇹🇼",东森戏剧台
+https://tzh911.qzz.io/play-smt.php?id=ettvdrama
+#EXTINF:-1 tvg-name="东森电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="台湾🇹🇼",东森电影台
+https://tzh911.qzz.io/play-smt.php?id=ettvmovie
+#EXTINF:-1 tvg-name="东森洋片台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森洋片.png" group-title="台湾🇹🇼",东森洋片台
+https://tzh911.qzz.io/play-smt.php?id=ettvwestern
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森超视.png" group-title="台湾🇹🇼",东森超视
+https://tzh911.qzz.io/play-smt.php?id=ettvsuper
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TVBS.png" group-title="台湾🇹🇼",TVBS
+https://tzh911.qzz.io/play-smt.php?id=tvbs
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TVBS新闻台.png" group-title="台湾🇹🇼",TVBS新闻台
+https://tzh911.qzz.io/play-smt.php?id=tvbs_n
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TVBS欢乐台.png" group-title="台湾🇹🇼",TVBS欢乐台
+https://tzh911.qzz.io/play-smt.php?id=tvbshuanle_twn
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视.png" group-title="台湾🇹🇼",民视
+https://tzh911.qzz.io/play-smt.php?id=ftvhd_taiwan
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视新闻.png" group-title="台湾🇹🇼",民视新闻台
+https://tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/民视台湾台.png" group-title="台湾🇹🇼",民视台湾台
+https://tzh911.qzz.io/play-smt.php?id=ftvtaiwan_twn
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大第一.png" group-title="台湾🇹🇼",八大第一台
+https://tzh911.qzz.io/play-smt.php?id=badafirst
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大综合.png" group-title="台湾🇹🇼",八大综合台
+https://tzh911.qzz.io/play-smt.php?id=badazhonghe
+#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大戏剧.png" group-title="台湾🇹🇼",八大戏剧台
+https://tzh911.qzz.io/play-smt.php?id=badadrama
+#EXTINF:-1 tvg-name="八大娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大娱乐.png" group-title="台湾🇹🇼",八大娱乐台
+https://tzh911.qzz.io/play-smt.php?id=badaentertain
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来体育.png" group-title="台湾🇹🇼",纬来体育台
+https://tzh911.qzz.io/play-smt.php?id=videolandsport
+#EXTINF:-1 tvg-name="纬来精彩台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来精彩.png" group-title="台湾🇹🇼",纬来精彩台
+https://tzh911.qzz.io/play-smt.php?id=videolandspecial_twn
+#EXTINF:-1 tvg-name="纬来日本台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来日本.png" group-title="台湾🇹🇼",纬来日本台
+https://tzh911.qzz.io/play-smt.php?id=videolandjapan
+#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="台湾🇹🇼",纬来电影台
+https://tzh911.qzz.io/play-smt.php?id=videolandmovie
+#EXTINF:-1 tvg-name="纬来综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来综合.png" group-title="台湾🇹🇼",纬来综合台
+https://tzh911.qzz.io/play-smt.php?id=videolandzonghe
+#EXTINF:-1 tvg-name="纬来育乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来育乐.png" group-title="台湾🇹🇼",纬来育乐台
+https://tzh911.qzz.io/play-smt.php?id=videolandyule
+#EXTINF:-1 tvg-name="爱尔达综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达综合.png" group-title="台湾🇹🇼",爱尔达综合台
+https://tzh911.qzz.io/play-smt.php?id=eltazonghe_twn
+#EXTINF:-1 tvg-name="爱尔达影剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达影剧.png" group-title="台湾🇹🇼",爱尔达影剧台
+https://tzh911.qzz.io/play-smt.php?id=eltayingju_twn
+#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育1.png" group-title="台湾🇹🇼",爱尔达体育1台
+https://tzh911.qzz.io/play-smt.php?id=eltasport_twn
+#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育2.png" group-title="台湾🇹🇼",爱尔达体育2台
+https://tzh911.qzz.io/play-smt.php?id=eltasport2_twn
+#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育3.png" group-title="台湾🇹🇼",爱尔达体育3台
+https://tzh911.qzz.io/play-smt.php?id=eltasport3_twn
+#EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/非凡新闻台.png" group-title="台湾🇹🇼",非凡新闻台
+https://tzh911.qzz.io/play-smt.php?id=feifannews_twn
+#EXTINF:-1 tvg-name="年代新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/年代新闻.png" group-title="台湾🇹🇼",年代新闻台
+https://tzh911.qzz.io/play-smt.php?id=niandainews_twn
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="台湾🇹🇼",龙华戏剧
+https://tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="台湾🇹🇼",龙华偶像
+https://tzh911.qzz.io/play-smt.php?id=lunghuaidol_twn
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="台湾🇹🇼",龙华电影
+https://tzh911.qzz.io/play-smt.php?id=xingwei_movie
+#EXTINF:-1 tvg-name="龙华洋片台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/龙华洋片台.png" group-title="台湾🇹🇼",龙华洋片台
+https://tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn
+#EXTINF:-1 tvg-name="龙华经典台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/龙华经典台.png" group-title="台湾🇹🇼",龙华经典台
+https://tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn
+#EXTINF:-1 tvg-name="KLT靖天国际台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天国际.png" group-title="台湾🇹🇼",KLT靖天国际台HD
+https://tzh911.qzz.io/play-smt.php?id=jingtianintl_twn
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/靖天卡通台.png" group-title="台湾🇹🇼",靖天卡通台
+https://tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn
+#EXTINF:-1 tvg-name="大爱电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大爱电视.png" group-title="台湾🇹🇼",大爱电视
+https://tzh911.qzz.io/play-smt.php?id=daai_twn
+#EXTINF:-1 tvg-name="大爱二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大爱二.png" group-title="台湾🇹🇼",大爱二台
+https://tzh911.qzz.io/play-smt.php?id=daai2_twn
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/EYE旅游.png" group-title="台湾🇹🇼",EYE旅游台
+https://tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/EYE戏剧.png" group-title="台湾🇹🇼",EYE戏剧台
+https://tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn
+#EXTINF:-1 tvg-name="亚洲美食频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/亚洲美食频道.png" group-title="台湾🇹🇼",亚洲美食频道
+https://tzh911.qzz.io/play-smt.php?id=afc_twn
+#EXTINF:-1 tvg-name="美食星球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美食星球.png" group-title="台湾🇹🇼",美食星球HD
+https://tzh911.qzz.io/play-smt.php?id=foodplanet_twn
+#EXTINF:-1 tvg-name="TLC旅游生活频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC旅游生活.png" group-title="台湾🇹🇼",TLC旅游生活频道
+https://tzh911.qzz.io/play-smt.php?id=tlc_twn
+#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/亚洲旅游台.png" group-title="台湾🇹🇼",亚洲旅游台
+https://tzh911.qzz.io/play-smt.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="ARIRANG" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANG.png" group-title="台湾🇹🇼",ARIRANG
+https://tzh911.qzz.io/play-smt.php?id=arirang_twn
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="台湾🇹🇼",AXN
+https://tzh911.qzz.io/play-smt.php?id=axn_twn
+#EXTINF:-1 tvg-name="MTVLIVE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MTVLIVE.png" group-title="台湾🇹🇼",MTVLIVE
+https://tzh911.qzz.io/play-smt.php?id=mtvhd_twn
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO.png" group-title="台湾🇹🇼",HBO
+https://tzh911.qzz.io/play-smt.php?id=hbohd_twn
+#EXTINF:-1 tvg-name="HITS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HITS.png" group-title="台湾🇹🇼",HITS
+https://tzh911.qzz.io/play-smt.php?id=hbohit_twn
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CINEMAX.png" group-title="台湾🇹🇼",CINEMAX
+https://tzh911.qzz.io/play-smt.php?id=cinemax_twn
+#EXTINF:-1 tvg-name="好莱坞电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好莱坞电影.png" group-title="台湾🇹🇼",好莱坞电影台
+https://tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卫视电影.png" group-title="台湾🇹🇼",卫视电影台
+https://tzh911.qzz.io/play-smt.php?id=weishimovie_twn
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙祥时代.png" group-title="台湾🇹🇼",龙祥时代
+https://tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="台湾🇹🇼",美亚电影
+https://tzh911.qzz.io/play-smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华艺综合.png" group-title="台湾🇹🇼",华艺综合
+https://tzh911.qzz.io/play-smt.php?id=weishichinese_twn
+#EXTINF:-1 tvg-name="博斯运动一台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/博斯运动一台.png" group-title="台湾🇹🇼",博斯运动一台
+https://tzh911.qzz.io/play-smt.php?id=bosisport1_twn
+#EXTINF:-1 tvg-name="博斯运动二台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/博斯运动二台.png" group-title="台湾🇹🇼",博斯运动二台
+https://tzh911.qzz.io/play-smt.php?id=bosisport2_twn
+#EXTINF:-1 tvg-name="博斯高球一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯高球.png" group-title="台湾🇹🇼",博斯高球一台
+https://tzh911.qzz.io/play-smt.php?id=bosigolf1_twn
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯高球二.png" group-title="台湾🇹🇼",博斯高球二台
+https://tzh911.qzz.io/play-smt.php?id=bosigolf2_twn
+#EXTINF:-1 tvg-name="博斯网球台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/博斯网球台.png" group-title="台湾🇹🇼",博斯网球台
+https://tzh911.qzz.io/play-smt.php?id=bositennis_twn
+#EXTINF:-1 tvg-name="博斯无限台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/博斯无限台.png" group-title="台湾🇹🇼",博斯无限台
+https://tzh911.qzz.io/play-smt.php?id=bosiunlimited_twn
+#EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/好消息2台.png" group-title="台湾🇹🇼",好消息2台
+https://tzh911.qzz.io/play-smt.php?id=good2_twn
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视🇨🇳",CCTV1
+#央视
+https://tzh911.qzz.io/play-smt.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视🇨🇳",CCTV2
+https://tzh911.qzz.io/play-smt.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视🇨🇳",CCTV3
+https://tzh911.qzz.io/play-smt.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视🇨🇳",CCTV4
+https://tzh911.qzz.io/play-smt.php?id=Cctv4
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视🇨🇳",CCTV5
+https://tzh911.qzz.io/play-smt.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视🇨🇳",CCTV5+
+https://tzh911.qzz.io/play-smt.php?id=cctv5plus
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视🇨🇳",CCTV6
+https://tzh911.qzz.io/play-smt.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视🇨🇳",CCTV7
+https://tzh911.qzz.io/play-smt.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视🇨🇳",CCTV8
+https://tzh911.qzz.io/play-smt.php?id=cctv8hd
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视🇨🇳",CCTV9
+https://tzh911.qzz.io/play-smt.php?id=cctv9hd
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视🇨🇳",CCTV10
+https://tzh911.qzz.io/play-smt.php?id=cctv10hd
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视🇨🇳",CCTV11
+https://tzh911.qzz.io/play-smt.php?id=cctv11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视🇨🇳",CCTV12
+https://tzh911.qzz.io/play-smt.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视🇨🇳",CCTV13
+https://tzh911.qzz.io/play-smt.php?id=cctv13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视🇨🇳",CCTV14
+https://tzh911.qzz.io/play-smt.php?id=cctv14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视🇨🇳",CCTV15
+https://tzh911.qzz.io/play-smt.php?id=cctv15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视🇨🇳",CCTV16
+https://tzh911.qzz.io/play-smt.php?id=cctv16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视🇨🇳",CCTV17
+https://tzh911.qzz.io/play-smt.php?id=cctv17
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视🇨🇳",湖南卫视
+#卫视
+https://tzh911.qzz.io/play-smt.php?id=hunan_twn
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视🇨🇳",浙江卫视
+https://tzh911.qzz.io/play-smt.php?id=zhejiang_twn
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视🇨🇳",江苏卫视
+https://tzh911.qzz.io/play-smt.php?id=jiangsu_twn
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视🇨🇳",东方卫视
+https://tzh911.qzz.io/play-smt.php?id=dongfangweishi_twn
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视🇨🇳",北京卫视
+https://tzh911.qzz.io/play-smt.php?id=beijing
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视🇨🇳",深圳卫视
+https://tzh911.qzz.io/play-smt.php?id=shenzhen
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视🇨🇳",广东卫视
+https://tzh911.qzz.io/play-smt.php?id=guangdongweishi_twn
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="卫视🇨🇳",大湾区卫视
+https://tzh911.qzz.io/play-smt.php?id=nanfang_twn
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/珠江.png" group-title="卫视🇨🇳",珠江台
+https://tzh911.qzz.io/play-smt.php?id=zhujiang
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视🇨🇳",东南卫视
+https://tzh911.qzz.io/play-smt.php?id=fujian
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视🇨🇳",广西卫视
+https://tzh911.qzz.io/play-smt.php?id=guangxi
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视🇨🇳",湖北卫视
+https://tzh911.qzz.io/play-smt.php?id=hubei
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视🇨🇳",四川卫视
+https://tzh911.qzz.io/play-smt.php?id=sichuan_twn
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="卫视🇨🇳",CGTN
+https://tzh911.qzz.io/play-smt.php?id=CGTN
+#EXTINF:-1 tvg-name="天映马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="电影🎬",天映马来西亚
+##电影
+https://tzh911.qzz.io/play-smt.php?id=Celestial
+#EXTINF:-1 tvg-name="天映印度尼西亚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="电影🎬",天映印度尼西亚
+https://tzh911.qzz.io/play-smt.php?id=Celestialindo
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="电影🎬",天映经典
+https://tzh911.qzz.io/play-smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="ANIMAX" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/ANIMAX.png" group-title="电影🎬",Animax
+https://tzh911.qzz.io/play-smt.php?id=Animax
+#EXTINF:-1 tvg-name="MOVIESNOW" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/moviesnow.png" group-title="电影🎬",Movies Now
+https://tzh911.qzz.io/play-smt.php?id=moviesnow_raj
+#EXTINF:-1 tvg-name="STARMOVIES" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/STARMOVIES.png" group-title="电影🎬",Star Movies
+https://tzh911.qzz.io/play-smt.php?id=starmovies_raj
+#EXTINF:-1 tvg-name="HITS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HITS.png" group-title="电影🎬",Hits
+https://tzh911.qzz.io/play-smt.php?id=Hits
+#EXTINF:-1 tvg-name="HITSMOVIE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Hits Movie.png" group-title="电影🎬",Hits Movie
+https://tzh911.qzz.io/play-smt.php?id=Hitsmovie
+#EXTINF:-1 tvg-name="WARNERTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WARNERTV.png" group-title="电影🎬",Warner TV
+https://tzh911.qzz.io/play-smt.php?id=WarnerTV
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO.png" group-title="电影🎬",HBO
+https://tzh911.qzz.io/play-smt.php?id=Hbo
+#EXTINF:-1 tvg-name="HBOSIGNATURE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/HBOSIGNATURE.png" group-title="电影🎬",HBO Signature
+https://tzh911.qzz.io/play-smt.php?id=Hbosignature
+#EXTINF:-1 tvg-name="HBOFAMILY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOFAMILY.png" group-title="电影🎬",HBO Family
+https://tzh911.qzz.io/play-smt.php?id=Hbofamily
+#EXTINF:-1 tvg-name="HBOHITS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOHITS.png" group-title="电影🎬",HBO Hits
+https://tzh911.qzz.io/play-smt.php?id=Hbohitshd
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CINEMAX.png" group-title="电影🎬",Cinemax
+https://tzh911.qzz.io/play-smt.php?id=Cinemax
+#EXTINF:-1 tvg-name="DREAMWORKS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DREAMWORKS.png" group-title="电影🎬",DreamWorks
+https://tzh911.qzz.io/play-smt.php?id=Dreamworks
+#EXTINF:-1 tvg-name="卫视电影台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/卫视电影台.png" group-title="电影🎬",卫视电影台
+https://tzh911.qzz.io/play-smt.php?id=Weishimovie
+#EXTINF:-1 tvg-name="THRILL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/THRILL.png" group-title="电影🎬",Thrill
+https://tzh911.qzz.io/play-smt.php?id=Thrill
+#EXTINF:-1 tvg-name="ONE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ONE.png" group-title="电影🎬",ONE
+https://tzh911.qzz.io/play-smt.php?id=One
+#EXTINF:-1 tvg-name="TVNMOVIESHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/TVNMOVIESHD.png" group-title="电影🎬",TVN Movies HD
+https://tzh911.qzz.io/play-smt.php?id=Tvnmovie
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="电影🎬",AXN
+https://tzh911.qzz.io/play-smt.php?id=Axn
+#EXTINF:-1 tvg-name="W" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Paramountnetwork.png" group-title="电影🎬",Paramountnetwork
+https://tzh911.qzz.io/play-smt.php?id=Paramountnetwork
+#EXTINF:-1 tvg-name="KPLUS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/KPLUS.png" group-title="电影🎬",KPLUS
+https://tzh911.qzz.io/play-smt.php?id=Kplus
+#EXTINF:-1 tvg-name="ROCKACTION" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/ROCKACTION.png" group-title="电影🎬",Rock Action
+https://tzh911.qzz.io/play-smt.php?id=Rockaction
+#EXTINF:-1 tvg-name="ROCKENTERTAINMENT" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKENTERTAINMENT.png" group-title="电影🎬",Rock Entertainment
+https://tzh911.qzz.io/play-smt.php?id=Rockentertain
+#EXTINF:-1 tvg-name="NATIONALGEOGRAPHICHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/National Geographic HD.png" group-title="纪录📚",National Geographic HD
+#记录
+https://tzh911.qzz.io/play-smt.php?id=natgeohd_twn
+#EXTINF:-1 tvg-name="NATIONALGEOGRAPHIC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATIONALGEOGRAPHICWILD.png" group-title="纪录📚",National Geographic Wild
+https://tzh911.qzz.io/play-smt.php?id=natgeowild_twn
+#EXTINF:-1 tvg-name="LoveNarure" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/LoveNarure.png" group-title="纪录📚",LoveNarure
+https://tzh911.qzz.io/play-smt.php?id=Natgeowild
+#EXTINF:-1 tvg-name="ANIMALPLANET" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/ANIMALPLANET.png" group-title="纪录📚",Animal Planet
+https://tzh911.qzz.io/play-smt.php?id=animalplanet_twn
+#EXTINF:-1 tvg-name="ANIMALPLANET" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/ANIMALPLANET.png" group-title="纪录📚",Animal Planet
+https://tzh911.qzz.io/play-smt.php?id=AnimalPlanet
+#EXTINF:-1 tvg-name="DISCOVERYASIA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERYASIA.png" group-title="纪录📚",Discovery Asia
+https://tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/DISCOVERY.png" group-title="纪录📚",Discovery
+https://tzh911.qzz.io/play-smt.php?id=discoveryhd_twn
+#EXTINF:-1 tvg-name="CRIMEINVESTIGATION" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/CRIMEINVESTIGATION.png" group-title="纪录📚",CI (Crime Investigation)
+https://tzh911.qzz.io/play-smt.php?id=ci_twn
+#EXTINF:-1 tvg-name="NATIONALGEOGRAPHIC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATIONALGEOGRAPHIC.png" group-title="纪录📚",National Geographic
+https://tzh911.qzz.io/play-smt.php?id=Natgeo
+#EXTINF:-1 tvg-name="FASHIONTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/FASHIONTV.png" group-title="纪录📚",Fashion TV
+https://tzh911.qzz.io/play-smt.php?id=fashiontv_twn
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HISTORY.png" group-title="纪录📚",History
+https://tzh911.qzz.io/play-smt.php?id=History
+#EXTINF:-1 tvg-name="BBCEARTH" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png" group-title="纪录📚",BBC Earth 1
+https://tzh911.qzz.io/play-smt.php?id=bbcearth_twn
+#EXTINF:-1 tvg-name="BBCLIFESTYLE" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/BBCLIFESTYLE.png" group-title="纪录📚",BBC Lifestyle
+https://tzh911.qzz.io/play-smt.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC.png" group-title="纪录📚",TLC
+https://tzh911.qzz.io/play-smt.php?id=Tlc
+#EXTINF:-1 tvg-name="ASIANFOODNETWORKHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ASIANFOODNETWORK亚洲美食.png" group-title="纪录📚",Asian Food Network HD
+https://tzh911.qzz.io/play-smt.php?id=Foodnetwork
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HGTV.png" group-title="纪录📚",HGTV
+https://tzh911.qzz.io/play-smt.php?id=HGTV
+#EXTINF:-1 tvg-name="SKYNEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/SKYNEWS.png" group-title="新闻📰",Sky News
+#新闻
+https://tzh911.qzz.io/play-smt.php?id=skynews_twn
+#EXTINF:-1 tvg-name="ABCNEWSLIVE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ABCNEWS.png" group-title="新闻📰",ABC News Live
+https://tzh911.qzz.io/play-smt.php?id=abcnews_glo
+#EXTINF:-1 tvg-name="CBSSPORTSNETWORKHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CBSSPORTSNETWORK.png" group-title="新闻📰",CBS Sports Network HD
+https://tzh911.qzz.io/play-smt.php?id=cbshd_glo
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/CBSN.png" group-title="新闻📰",CBSN
+https://tzh911.qzz.io/play-smt.php?id=cbsn_glo
+#EXTINF:-1 tvg-name="FRANCE24" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FRANCE24.png" group-title="新闻📰",France 24
+https://tzh911.qzz.io/play-smt.php?id=france24_twn
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/DW.png" group-title="新闻📰",DW
+https://tzh911.qzz.io/play-smt.php?id=dw_twn
+#EXTINF:-1 tvg-name="NHKWORLD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLD.png" group-title="新闻📰",NHK World
+https://tzh911.qzz.io/play-smt.php?id=nhkworld_japan
+#EXTINF:-1 tvg-name="FOXNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="新闻📰",Fox News
+https://tzh911.qzz.io/play-smt.php?id=foxnews_twn
+#EXTINF:-1 tvg-name="CNNINTERNATIONAL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="新闻📰",CNN International 1
+https://tzh911.qzz.io/play-smt.php?id=Cnn
+#EXTINF:-1 tvg-name="CNNINTERNATIONAL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="新闻📰",CNN International 2
+https://tzh911.qzz.io/play-smt.php?id=cnn_twn
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/CNBC.png" group-title="新闻📰",CNBC
+https://tzh911.qzz.io/play-smt.php?id=cnbc_twn
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNA.png" group-title="新闻📰",CNA
+https://tzh911.qzz.io/play-smt.php?id=cna
+#EXTINF:-1 tvg-name="BBCWORLDNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="新闻📰",BBC World News 1
+https://tzh911.qzz.io/play-smt.php?id=bbcnews_twn
+#EXTINF:-1 tvg-name="BBCWORLDNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="新闻📰",BBC World News 2
+https://tzh911.qzz.io/play-smt.php?id=Bbcnews
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/BLOOMBERG.png" group-title="新闻📰",Bloomberg
+https://tzh911.qzz.io/play-smt.php?id=bloomberg_twn
+#EXTINF:-1 tvg-name="ALJAZEERA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ALJAZEERA.png" group-title="新闻📰",Al Jazeera
+https://tzh911.qzz.io/play-smt.php?id=aljazeera_twn
+#EXTINF:-1 tvg-name="HOREE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/HOREE.png" group-title="儿童👶",HOREE
+#儿童
+https://tzh911.qzz.io/play-smt.php?id=Babytv
+#EXTINF:-1 tvg-name="DUNIAANAK" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Dunia anak.png" group-title="儿童👶",Dunia anak
+https://tzh911.qzz.io/play-smt.php?id=Cbeebies
+#EXTINF:-1 tvg-name="ANIPLUS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Aniplus.png" group-title="儿童👶",Aniplus
+https://tzh911.qzz.io/play-smt.php?id=KidsTV
+#EXTINF:-1 tvg-name="CN卡通频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CN卡通频道.png" group-title="儿童👶",CN卡通频道
+https://tzh911.qzz.io/play-smt.php?id=momo1_twn
+#EXTINF:-1 tvg-name="MOONBUG" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MOONBUG.png" group-title="儿童👶",MOONBUG
+https://tzh911.qzz.io/play-smt.php?id=MiaoMi
+#EXTINF:-1 tvg-name="CARTOONNETWORK" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Cartoon Network.png" group-title="儿童👶",Cartoon Network
+https://tzh911.qzz.io/play-smt.php?id=Cn
+#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Nickelodeon.png" group-title="儿童👶",Nickelodeon
+https://tzh911.qzz.io/play-smt.php?id=Nickelodeon
+#EXTINF:-1 tvg-name="NICKJR." tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Nick Jr..png" group-title="儿童👶",Nick Jr.
+https://tzh911.qzz.io/play-smt.php?id=Nickjr
+#EXTINF:-1 tvg-name="ASTROPREMIERLEAGUE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Premier League.png" group-title="体育🇲🇾",ASTRO Premier League
+#体育
+https://tzh911.qzz.io/play-smt.php?id=go_assp1
+#EXTINF:-1 tvg-name="ASTROPREMIERLEAGUE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Premier League(Backup).png" group-title="体育🇲🇾",ASTRO Premier League(Backup)
+https://tzh911.qzz.io/play-smt.php?id=go_assp1x
+#EXTINF:-1 tvg-name="ASTROPREMIERLEAGUE2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Premier League 2.png" group-title="体育🇲🇾",ASTRO Premier League 2
+https://tzh911.qzz.io/play-smt.php?id=go_assp2
+#EXTINF:-1 tvg-name="ASTROGRANDSTAND" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Grandstand.png" group-title="体育🇲🇾",ASTRO Grandstand
+https://tzh911.qzz.io/play-smt.php?id=go_assp3
+#EXTINF:-1 tvg-name="ASTROFOOTBALL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Football.png" group-title="体育🇲🇾",ASTRO Football
+https://tzh911.qzz.io/play-smt.php?id=go_assp4
+#EXTINF:-1 tvg-name="ASTROSPORTSPLUS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Sports Plus.png" group-title="体育🇲🇾",ASTRO Sports Plus
+https://tzh911.qzz.io/play-smt.php?id=go_sportsplus
+#EXTINF:-1 tvg-name="ASTROBADMINTON" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Badminton.png" group-title="体育🇲🇾",ASTRO Badminton
+https://tzh911.qzz.io/play-smt.php?id=go_badminton1
+#EXTINF:-1 tvg-name="ASTROBADMINTON" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Badminton 2.png" group-title="体育🇲🇾",ASTRO Badminton 2
+https://tzh911.qzz.io/play-smt.php?id=go_badminton2
+#EXTINF:-1 tvg-name="WSPORT" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/W Sport.png" group-title="体育🇲🇾",W Sport
+https://tzh911.qzz.io/play-smt.php?id=go_assp5
+#EXTINF:-1 tvg-name="SUPERSPORTS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SuperSports 1.png" group-title="体育🇲🇾",SuperSports 1
+https://tzh911.qzz.io/play-smt.php?id=Assp1
+#EXTINF:-1 tvg-name="SUPERSPORTS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SuperSports 2.png" group-title="体育🇲🇾",SuperSports 2
+https://tzh911.qzz.io/play-smt.php?id=Assp2
+#EXTINF:-1 tvg-name="SUPERSPORTS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SuperSports 3.png" group-title="体育🇲🇾",SuperSports 3
+https://tzh911.qzz.io/play-smt.php?id=Assp3
+#EXTINF:-1 tvg-name="SUPERSPORTS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SuperSports 4.png" group-title="体育🇲🇾",SuperSports 4
+https://tzh911.qzz.io/play-smt.php?id=Assp4
+#EXTINF:-1 tvg-name="WWENETWORK" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/WWE Network.png" group-title="体育🇲🇾",WWE Network
+https://tzh911.qzz.io/play-smt.php?id=Wwe
+#EXTINF:-1 tvg-name="FIGHTSPORTS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Fight Sports.png" group-title="体育🇲🇾",Fight Sports
+https://tzh911.qzz.io/play-smt.php?id=Fs
+#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NBA TV.png" group-title="体育🇲🇾",NBA TV
+https://tzh911.qzz.io/play-smt.php?id=Nba
+#EXTINF:-1 tvg-name="ASTRO_CRICKET" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Cricket.png" group-title="体育🇲🇾",ASTRO Cricket
+https://tzh911.qzz.io/play-smt.php?id=Acricket
+#EXTINF:-1 tvg-name="ASTRO_CRICKET" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Cricket(Backup).png" group-title="体育🇲🇾",ASTRO Cricket(Backup)
+https://tzh911.qzz.io/play-smt.php?id=tiankongcricket
+#EXTINF:-1 tvg-name="ASTRO_GOLF" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Golf.png" group-title="体育🇲🇾",ASTRO Golf
+https://tzh911.qzz.io/play-smt.php?id=Agolf
+#EXTINF:-1 tvg-name="TNTSPORTS1HD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNT Sports 1 HD.png" group-title="体育🇲🇾",TNT Sports 1 HD
+https://tzh911.qzz.io/play-smt.php?id=6fac0aaead
+#EXTINF:-1 tvg-name="TNTSPORTS2HD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNT Sports 2 HD.png" group-title="体育🇲🇾",TNT Sports 2 HD
+https://tzh911.qzz.io/play-smt.php?id=d9a76a79cc
+#EXTINF:-1 tvg-name="TNTSPORTS3HD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNT Sports 3 HD.png" group-title="体育🇲🇾",TNT Sports 3 HD
+https://tzh911.qzz.io/play-smt.php?id=5fea4d73db
+#EXTINF:-1 tvg-name="TNTSPORTS4HD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNT Sports 4 HD.png" group-title="体育🇲🇾",TNT Sports 4 HD
+https://tzh911.qzz.io/play-smt.php?id=tntsport4
+#EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sony Ten 1.png" group-title="体育🇲🇾",Sony Ten 1
+https://tzh911.qzz.io/play-smt.php?id=ten1_raj
+#EXTINF:-1 tvg-name="Sony Ten 2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sony Ten 2.png" group-title="体育🇲🇾",Sony Ten 2
+https://tzh911.qzz.io/play-smt.php?id=ten2_raj
+#EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sony Ten 3.png" group-title="体育🇲🇾",Sony Ten 3
+https://tzh911.qzz.io/play-smt.php?id=ten3_raj
+#EXTINF:-1 tvg-name="SPOTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SPOTV.png" group-title="体育🇲🇾",SPOTV
+https://tzh911.qzz.io/play-smt.php?id=go_spotv
+#EXTINF:-1 tvg-name="SPOTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SPOTV 2.png" group-title="体育🇲🇾",SPOTV 2
+https://tzh911.qzz.io/play-smt.php?id=go_spotv2
+#EXTINF:-1 tvg-name="SKYSPF1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SkySp F1.png" group-title="体育🇲🇾",SkySp F1
+https://tzh911.qzz.io/play-smt.php?id=tiankongf1
+#EXTINF:-1 tvg-name="SKYSPMAINEVHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SkySpMainEv.png" group-title="体育🇲🇾",SkySpMainEv
+https://tzh911.qzz.io/play-smt.php?id=tiankongmain
+#EXTINF:-1 tvg-name="SKYSPNEWSHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SkySp News HD.png" group-title="体育🇲🇾",SkySp News HD
+https://tzh911.qzz.io/play-smt.php?id=tiankongnews
+#EXTINF:-1 tvg-name="SKYSPMIXHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SkySp Mix HD.png" group-title="体育🇲🇾",SkySp Mix HD
+https://tzh911.qzz.io/play-smt.php?id=tiankongmix
+#EXTINF:-1 tvg-name="PREMIERSPORTS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/PREMIER SPORTS.png" group-title="体育🇲🇾",PREMIER SPORTS
+https://tzh911.qzz.io/play-smt.php?id=Rugbypasstv
+#EXTINF:-1 tvg-name="RTM Sports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTM Sports.png" group-title="体育🇲🇾",RTM Sports
+https://tzh911.qzz.io/play-smt.php?id=Rtmsport
+#EXTINF:-1 tvg-name="Bola Arena" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Bola Arena.png" group-title="体育🇲🇾",Bola Arena
+https://tzh911.qzz.io/play-smt.php?id=Arena
+#EXTINF:-1 tvg-name="ASTRO_ARENA2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Arena 2.png" group-title="体育🇲🇾",ASTRO Arena 2
+https://tzh911.qzz.io/play-smt.php?id=Arena2
+#EXTINF:-1 tvg-name="ASTROARENABOLA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Arena bola.png" group-title="体育🇲🇾",ASTRO Arena bola
+https://tzh911.qzz.io/play-smt.php?id=Bolaarena1
+#EXTINF:-1 tvg-name="ASTRO2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Arena bola 2.png" group-title="体育🇲🇾",ASTRO Arena bola 2
+https://tzh911.qzz.io/play-smt.php?id=Bolaarena2
+#EXTINF:-1 tvg-name="BEINSPORTS1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 1.png" group-title="体育🇲🇾",beIN Sports 1
+https://tzh911.qzz.io/play-smt.php?id=Astrobein1
+#EXTINF:-1 tvg-name="BEINSPORTS2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 2.png" group-title="体育🇲🇾",beIN Sports 2
+https://tzh911.qzz.io/play-smt.php?id=Astrobein2
+#EXTINF:-1 tvg-name="BEINSPORTS3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 3.png" group-title="体育🇲🇾",beIN Sports 3
+https://tzh911.qzz.io/play-smt.php?id=Astrobein3
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV1.png" group-title="马来西亚🇲🇾",TV1
+#马来西亚
+https://tzh911.qzz.io/play-smt.php?id=TV1
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV1.png" group-title="马来西亚🇲🇾",TV1
+https://tzh911.qzz.io/play-smt.php?id=TV1_backup
+#EXTINF:-1 tvg-name="TV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV2.png" group-title="马来西亚🇲🇾",TV2
+https://tzh911.qzz.io/play-smt.php?id=TV2
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV3.png" group-title="马来西亚🇲🇾",TV3
+https://tzh911.qzz.io/play-smt.php?id=TV3
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV3.png" group-title="马来西亚🇲🇾",TV3
+https://tzh911.qzz.io/play-smt.php?id=TV3_mega
+#EXTINF:-1 tvg-name="NTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NTV7.png" group-title="马来西亚🇲🇾",NTV7
+https://tzh911.qzz.io/play-smt.php?id=NTV7
+#EXTINF:-1 tvg-name="8TV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/8TV.png" group-title="马来西亚🇲🇾",8TV
+https://tzh911.qzz.io/play-smt.php?id=TV8
+#EXTINF:-1 tvg-name="TV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV9.png" group-title="马来西亚🇲🇾",TV9
+https://tzh911.qzz.io/play-smt.php?id=TV9
+#EXTINF:-1 tvg-name="ASTRO_RIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Ria.png" group-title="马来西亚🇲🇾",Astro Ria
+https://tzh911.qzz.io/play-smt.php?id=Ria-0
+#EXTINF:-1 tvg-name="ASTRO_RIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Ria.png" group-title="马来西亚🇲🇾",Astro Ria
+https://tzh911.qzz.io/play-smt.php?id=Ria_backup
+#EXTINF:-1 tvg-name="TVALHIJRAHHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV Alhijrah.png" group-title="马来西亚🇲🇾",TV Alhijrah
+https://tzh911.qzz.io/play-smt.php?id=Alhijrah
+#EXTINF:-1 tvg-name="TVALHIJRAHHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV Alhijrah.png" group-title="马来西亚🇲🇾",TV Alhijrah
+https://tzh911.qzz.io/play-smt.php?id=Alhijrah_backup
+#EXTINF:-1 tvg-name="ASTRO_PRIMA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Prima.png" group-title="马来西亚🇲🇾",Astro Prima
+https://tzh911.qzz.io/play-smt.php?id=Prima-0
+#EXTINF:-1 tvg-name="ASTRO_PRIMA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Prima.png" group-title="马来西亚🇲🇾",Astro Prima
+https://tzh911.qzz.io/play-smt.php?id=AAprima1
+#EXTINF:-1 tvg-name="ASTRO_PRIMA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Prima.png" group-title="马来西亚🇲🇾",Astro Prima
+https://tzh911.qzz.io/play-smt.php?id=AAprima
+#EXTINF:-1 tvg-name="ASTRO_CITRA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Citra.png" group-title="马来西亚🇲🇾",Astro Citra
+https://tzh911.qzz.io/play-smt.php?id=AAcitra
+#EXTINF:-1 tvg-name="ASTRO_CITRA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Citra.png" group-title="马来西亚🇲🇾",Astro Citra
+https://tzh911.qzz.io/play-smt.php?id=AAcitra1
+#EXTINF:-1 tvg-name="CHANNEL5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 5.png" group-title="新加坡🇸🇬",Channel 5
+#新加坡
+https://tzh911.qzz.io/play-smt.php?id=Channel5HD
+#EXTINF:-1 tvg-name="CHANNEL8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 8.png" group-title="新加坡🇸🇬",Channel 8
+https://tzh911.qzz.io/play-smt.php?id=Channel8HD
+#EXTINF:-1 tvg-name="CHANNELU" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel U.png" group-title="新加坡🇸🇬",Channel U
+https://tzh911.qzz.io/play-smt.php?id=ChannelU
+#EXTINF:-1 tvg-name="SURIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Suria.png" group-title="新加坡🇸🇬",Suria
+https://tzh911.qzz.io/play-smt.php?id=Suria
+#EXTINF:-1 tvg-name="VASANTHAM" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Vasantham.png" group-title="新加坡🇸🇬",Vasantham
+https://tzh911.qzz.io/play-smt.php?id=Vasantham
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CNA.png" group-title="新加坡🇸🇬",CNA
+https://tzh911.qzz.io/play-smt.php?id=cna_twn
+#EXTINF:-1 tvg-name="CHANNEL5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Channel 5.png" group-title="新加坡🇸🇬",Mewatch Channel 5
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_ch5
+#EXTINF:-1 tvg-name="CHANNEL8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Channel 8.png" group-title="新加坡🇸🇬",Mewatch Channel 8
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_ch8
+#EXTINF:-1 tvg-name="CHANNELU" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Channel U.png" group-title="新加坡🇸🇬",Mewatch Channel U
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_chU
+#EXTINF:-1 tvg-name="SURIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Suria.png" group-title="新加坡🇸🇬",Mewatch Suria
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_Suria
+#EXTINF:-1 tvg-name="VASANTHAM" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Vasantham.png" group-title="新加坡🇸🇬",Mewatch Vasantham
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_Vasantham
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch CNA.png" group-title="新加坡🇸🇬",Mewatch CNA
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_cna
+#EXTINF:-1 tvg-name="TVRI" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TVRI.png" group-title="印尼🇮🇩",TVRI
+#印尼
+https://tzh911.qzz.io/play-smt.php?id=TVRI
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RCTI.png" group-title="印尼🇮🇩",RCTI
+https://tzh911.qzz.io/play-smt.php?id=Rcti
+#EXTINF:-1 tvg-name="KOMPASTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Kompas TV.png" group-title="印尼🇮🇩",Kompas TV
+https://tzh911.qzz.io/play-smt.php?id=Kompass
+#EXTINF:-1 tvg-name="BERITASATU" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BeritaSatu.png" group-title="印尼🇮🇩",BeritaSatu
+https://tzh911.qzz.io/play-smt.php?id=BeritaSatu_eko
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Indosiar.png" group-title="印尼🇮🇩",Indosiar
+https://tzh911.qzz.io/play-smt.php?id=Indosiar
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ANTV.png" group-title="印尼🇮🇩",ANTV
+https://tzh911.qzz.io/play-smt.php?id=Antv
+#EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MNCTV.png" group-title="印尼🇮🇩",MNCTV
+https://tzh911.qzz.io/play-smt.php?id=Mnctv
+#EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Trans7.png" group-title="印尼🇮🇩",Trans7
+https://tzh911.qzz.io/play-smt.php?id=Trans7_eko
+#EXTINF:-1 tvg-name="TRANSTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Trans TV.png" group-title="印尼🇮🇩",Trans TV
+https://tzh911.qzz.io/play-smt.php?id=Transtv
+#EXTINF:-1 tvg-name="JTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/JTV.png" group-title="印尼🇮🇩",JTV
+https://tzh911.qzz.io/play-smt.php?id=JTV_eko
+#EXTINF:-1 tvg-name="METROTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Metro TV.png" group-title="印尼🇮🇩",Metro TV
+https://tzh911.qzz.io/play-smt.php?id=metrotv_eko
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SCTV.png" group-title="印尼🇮🇩",SCTV
+https://tzh911.qzz.io/play-smt.php?id=SCTV
+#EXTINF:-1 tvg-name="TVONE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/tvOne.png" group-title="印尼🇮🇩",tvOne
+https://tzh911.qzz.io/play-smt.php?id=Tvone
+#EXTINF:-1 tvg-name="TV Muhammadiyah" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV Muhammadiyah.png" group-title="印尼🇮🇩",TV Muhammadiyah
+https://tzh911.qzz.io/play-smt.php?id=TVMU_eko
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/GTV.png" group-title="印尼🇮🇩",GTV
+https://tzh911.qzz.io/play-smt.php?id=Gtv
+#EXTINF:-1 tvg-name="BRTVINTERNATIONAL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTV.png" group-title="印尼🇮🇩",RTV
+https://tzh911.qzz.io/play-smt.php?id=Rtv
+#EXTINF:-1 tvg-name="JAKTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Jak TV.png" group-title="印尼🇮🇩",Jak TV
+https://tzh911.qzz.io/play-smt.php?id=JakTV
+#EXTINF:-1 tvg-name="INEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/iNews TV.png" group-title="印尼🇮🇩",iNews TV
+https://tzh911.qzz.io/play-smt.php?id=Inewstv
+#EXTINF:-1 tvg-name="DAAITV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/DAAI TV Indonesia.png" group-title="印尼🇮🇩",DAAI TV Indonesia
+https://tzh911.qzz.io/play-smt.php?id=DaaiTV
+#EXTINF:-1 tvg-name="NET." tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NET..png" group-title="印尼🇮🇩",NET.
+https://tzh911.qzz.io/play-smt.php?id=NetTV
+#EXTINF:-1 tvg-name="EWTNCATHOLIC" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/EWTN Catholic TV.png" group-title="印尼🇮🇩",EWTN Catholic TV
+https://tzh911.qzz.io/play-smt.php?id=Ewtn
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Al-Qur'an Al-Kareem TV.png" group-title="印尼🇮🇩",Al-Qur'an Al-Kareem TV
+https://tzh911.qzz.io/play-smt.php?id=AlQuran
+#EXTINF:-1 tvg-name="ASTRO_CITRA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Citra Drama.png" group-title="印尼🇮🇩",Citra Drama
+https://tzh911.qzz.io/play-smt.php?id=TawafTV
+#EXTINF:-1 tvg-name="VISIONPRIME" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Vision Prime.png" group-title="印尼🇮🇩",Vision Prime
+https://tzh911.qzz.io/play-smt.php?id=VisionPrime
+#EXTINF:-1 tvg-name="MTATV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MTATV.png" group-title="印尼🇮🇩",MTATV
+https://tzh911.qzz.io/play-smt.php?id=MuslimTV
+#EXTINF:-1 tvg-name="MUSIKINDONESIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Musik Indonesia.png" group-title="印尼🇮🇩",Musik Indonesia
+https://tzh911.qzz.io/play-smt.php?id=MusicTV
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ATV.png" group-title="印尼🇮🇩",ATV
+https://tzh911.qzz.io/play-smt.php?id=Lifestyle
+#EXTINF:-1 tvg-name="ENTERTAINMENT" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Entertainment TV.png" group-title="印尼🇮🇩",Entertainment TV
+https://tzh911.qzz.io/play-smt.php?id=Entertain
+#EXTINF:-1 tvg-name="SUNTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sun TV.png" group-title="印度🇮🇳",Sun TV
+#印度
+https://tzh911.qzz.io/play-smt.php?id=Suntv
+#EXTINF:-1 tvg-name="STARVIJAY" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Star Vijay.png" group-title="印度🇮🇳",Star Vijay
+https://tzh911.qzz.io/play-smt.php?id=Starvijay
+#EXTINF:-1 tvg-name="COLORSTAMIL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Colors Tamil.png" group-title="印度🇮🇳",Colors Tamil
+https://tzh911.qzz.io/play-smt.php?id=Colorstam
+#EXTINF:-1 tvg-name="SUNMUSIC" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sun Music.png" group-title="印度🇮🇳",Sun Music
+https://tzh911.qzz.io/play-smt.php?id=Sunmusic
+#EXTINF:-1 tvg-name="SUNLIFE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sun Life.png" group-title="印度🇮🇳",Sun Life
+https://tzh911.qzz.io/play-smt.php?id=Sunlife
+#EXTINF:-1 tvg-name="ZEETAMIL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Zee Tamil.png" group-title="印度🇮🇳",Zee Tamil
+https://tzh911.qzz.io/play-smt.php?id=Zeetamil
+#EXTINF:-1 tvg-name="ZEEBUSINESS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Zee Business.png" group-title="印度🇮🇳",Zee Business
+https://tzh911.qzz.io/play-smt.php?id=Zeebusiness
+#EXTINF:-1 tvg-name="NEWS18TAMILNADU" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/News18 Tamil Nadu.png" group-title="印度🇮🇳",News18 Tamil Nadu
+https://tzh911.qzz.io/play-smt.php?id=news18tamil_raj
+#EXTINF:-1 tvg-name="ADITHYATV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Adithya TV.png" group-title="印度🇮🇳",Adithya TV
+https://tzh911.qzz.io/play-smt.php?id=Adithya
+#EXTINF:-1 tvg-name="Channel 3 HD Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 3 HD Thailand.png" group-title="泰国🇹🇭",Channel 3 HD Thailand
+#泰国🇹🇭
+https://tzh911.qzz.io/play-smt.php?id=ch3_pat
+#EXTINF:-1 tvg-name="MY" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Royal Thai Army TV 5 HD Thailand.png" group-title="泰国🇹🇭",Royal Thai Army TV 5 HD Thailand
+https://tzh911.qzz.io/play-smt.php?id=ch5_pat
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BBTV Channel 7 HD Thailand.png" group-title="泰国🇹🇭",BBTV Channel 7 HD Thailand
+https://tzh911.qzz.io/play-smt.php?id=ch7_pat
+#EXTINF:-1 tvg-name="MCOT HD (Channel 30) Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MCOT HD (Channel 30) Thailand.png" group-title="泰国🇹🇭",MCOT HD (Channel 30) Thailand
+https://tzh911.qzz.io/play-smt.php?id=mcot_pat
+#EXTINF:-1 tvg-name="PPTV HD (Channel 36) Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/PPTV HD (Channel 36) Thailand.png" group-title="泰国🇹🇭",PPTV HD (Channel 36) Thailand
+https://tzh911.qzz.io/play-smt.php?id=pptv_pat
+#EXTINF:-1 tvg-name="W" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Thai TV Global Network (TGN).png" group-title="泰国🇹🇭",Thai TV Global Network (TGN)
+https://tzh911.qzz.io/play-smt.php?id=thaithai_pat
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Amarin TV HD (Channel 34) Thailand.png" group-title="泰国🇹🇭",Amarin TV HD (Channel 34) Thailand
+https://tzh911.qzz.io/play-smt.php?id=amarin_pat
+#EXTINF:-1 tvg-name="CHANNEL8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 8 Thailand.png" group-title="泰国🇹🇭",Channel 8 Thailand
+https://tzh911.qzz.io/play-smt.php?id=ch8_pat
+#EXTINF:-1 tvg-name="ONE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/One 31 Thailand.png" group-title="泰国🇹🇭",One 31 Thailand
+https://tzh911.qzz.io/play-smt.php?id=gmmone_pat
+#EXTINF:-1 tvg-name="Mono 29 Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mono 29 Thailand.png" group-title="泰国🇹🇭",Mono 29 Thailand
+https://tzh911.qzz.io/play-smt.php?id=mono_pat
+#EXTINF:-1 tvg-name="Thairath TV HD (Channel 32) Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Thairath TV HD (Channel 32) Thailand.png" group-title="泰国🇹🇭",Thairath TV HD (Channel 32) Thailand
+https://tzh911.qzz.io/play-smt.php?id=thairath_pat
+#EXTINF:-1 tvg-name="Thai PBS HD Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Thai PBS HD Thailand.png" group-title="泰国🇹🇭",Thai PBS HD Thailand
+https://tzh911.qzz.io/play-smt.php?id=tpbs_pat
+#EXTINF:-1 tvg-name="W" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Workpoint TV (Channel 23) Thailand.png" group-title="泰国🇹🇭",Workpoint TV (Channel 23) Thailand
+https://tzh911.qzz.io/play-smt.php?id=workpoint_pat
+#EXTINF:-1 tvg-name="GMM 25 Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/GMM 25 Thailand.png" group-title="泰国🇹🇭",GMM 25 Thailand
+https://tzh911.qzz.io/play-smt.php?id=gmmchannel_pat
+#EXTINF:-1 tvg-name="IONTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Nation TV (Channel 22) Thailand.png" group-title="泰国🇹🇭",Nation TV (Channel 22) Thailand
+https://tzh911.qzz.io/play-smt.php?id=nation_pat
+#EXTINF:-1 tvg-name="TNN 24 Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNN 24 Thailand.png" group-title="泰国🇹🇭",TNN 24 Thailand
+https://tzh911.qzz.io/play-smt.php?id=tnn24_pat
+#EXTINF:-1 tvg-name="NBT2HD (National Broadcasting Services of Thailand)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NBT2HD (National Broadcasting Services of Thailand).png" group-title="泰国🇹🇭",NBT2HD (National Broadcasting Services of Thailand)
+https://tzh911.qzz.io/play-smt.php?id=nbt_pat
+#EXTINF:-1 tvg-name="W" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/News18 Thailand.png" group-title="泰国🇹🇭",News18 Thailand
+https://tzh911.qzz.io/play-smt.php?id=new_pat
+#EXTINF:-1 tvg-name="TPTV (Parliament TV Thailand)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TPTV (Parliament TV Thailand).png" group-title="泰国🇹🇭",TPTV (Parliament TV Thailand)
+https://tzh911.qzz.io/play-smt.php?id=tptv_pat
+#EXTINF:-1 tvg-id="BBC One S East HD" tvg-name="BBCONENEANDCHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BBC-One.png" group-title="英国🇬🇧",BBC One
+#英国 英国🇬🇧
+https://tzh911.qzz.io/play-smt.php?id=bbc1_antik
+#EXTINF:-1 tvg-id="BBC Two HD" tvg-name="BBCTWOWALHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BBC-Two.png" group-title="英国🇬🇧",BBC Two
+https://tzh911.qzz.io/play-smt.php?id=bbc2_antik
+#EXTINF:-1 tvg-name="CBBCHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CBBCHD.png" group-title="英国🇬🇧",CBBC
+https://tzh911.qzz.io/play-smt.php?id=cbbc_antik
+#EXTINF:-1 tvg-name="MORE4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MORE4.png" group-title="英国🇬🇧",More4
+https://tzh911.qzz.io/play-smt.php?id=more4_antik
+#EXTINF:-1 tvg-name="FreeSports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/FreeSports.png" group-title="英国🇬🇧",FreeSports
+https://tzh911.qzz.io/play-smt.php?id=freesports_antik
+#EXTINF:-1 tvg-name="Pick" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Pick.png" group-title="英国🇬🇧",Pick
+https://tzh911.qzz.io/play-smt.php?id=picktv_antik
+#EXTINF:-1 tvg-id="ITV1 HD" tvg-name="ITV1HD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ITV-1.png" group-title="英国🇬🇧",ITV 1
+https://tzh911.qzz.io/play-smt.php?id=itv1_antik
+#EXTINF:-1 tvg-id="ITV1 HD" tvg-name="ITV2HD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ITV-1.png" group-title="英国🇬🇧",ITV 2
+https://tzh911.qzz.io/play-smt.php?id=itv2_antik
+#EXTINF:-1 tvg-name="EURONEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/EURONEWS.png" group-title="英国🇬🇧",Euronews
+https://tzh911.qzz.io/play-smt.php?id=euronews_antik
+#EXTINF:-1 tvg-name="CHANNEL4+1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 4 +1.png" group-title="英国🇬🇧",Channel 4 +1
+https://tzh911.qzz.io/play-smt.php?id=channel4_antik
+#EXTINF:-1 tvg-name="BBCWORLDNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="英国🇬🇧",BBC World News
+https://tzh911.qzz.io/play-smt.php?id=bbcworldnews_antik
 
 
 
