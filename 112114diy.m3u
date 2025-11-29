@@ -104,6 +104,10 @@ http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
 #EXTINF:-1 tvg-name="NOWSPORTS英超1台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超1台.png" group-title="冰雪📺",Now Sports 英超1台[英语]
 http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
 
+#EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="冰雪📺",NOW爆谷台[BEE]
+https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
+#EXTINF:-1 tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="冰雪📺",NOW爆谷星影台[BEE]
+https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
 
 #juli
 #juli
