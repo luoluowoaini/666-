@@ -1208,6 +1208,9 @@ https://live.catvod.com/live.php?id=bbcworldnews_antik
 
 
 #YSP
+
+#YSP
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV1.png" group-title="YSP央視",CCTV1
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&livepid=600001859&defn=fhd
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV2.png" group-title="YSP央視",CCTV2
