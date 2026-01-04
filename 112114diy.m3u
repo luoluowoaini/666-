@@ -112,21 +112,41 @@ http://iptv.4666888.xyz/iptv2A.php?id=40
 #EXTINF:-1 tvg-logo="https://pic7s.xyxza.com/images/146643.png" group-title="风云台湾",邵氏电影
 http://iptv.4666888.xyz/iptv2A.php?id=39
 
-#Juli字幕版
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="Juli字幕版",翡翠台
+
+#推流源
+#推流源
+
+#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="推流源",Now爆谷台
+https://tuiliu.go-iptv.ggff.net/baogutai/stream.m3u8
+#EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="推流源",Now爆谷星影台
+https://tuiliu.go-iptv.ggff.net/xingyingtai/stream.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="推流源",翡翠台字幕
 http://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="Juli字幕版",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="推流源",明珠台字幕
 http://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="Juli字幕版",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="推流源",翡翠台4K(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBPlus.png" group-title="Juli字幕版",TVBPLUS
+#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBPlus.png" group-title="推流源",TVB PLUS(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="Juli字幕版",翡翠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="推流源",明珠台(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 tvg-id="TVBJADE(HD)" tvg-name="TVBJADE(HD)" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="推流源",华丽翡翠台(多音轨字幕)
 https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="Juli字幕版",翡翠台
+#EXTINF:-1 tvg-id="TVBJADE(HD)" tvg-name="TVBJADE(HD)" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="推流源",华丽翡翠台(新加坡)
 https://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/aod.png" group-title="Juli字幕版",AOD
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB星河.png" group-title="推流源",TVB星河(多音轨字幕)
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Astro AOD.png" group-title="推流源",Astro AOD(多音轨字幕)
 https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Astro AEC.png" group-title="推流源",Astro AEC(多音轨字幕)
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Astro QJ.png" group-title="推流源",Astro QJ(多音轨字幕)
+https://o11.163189.xyz/stream/live/qj/
+#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/爱奇艺.png" group-title="推流源",爱奇艺
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/千禧经典台.png" group-title="推流源",千禧经典台
+https://o11.163189.xyz/stream/live/tvbc/
+
 
 #iill
 #iill
