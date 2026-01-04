@@ -1,20 +1,21 @@
-#EXTM3U url-tvg="https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz,https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz,https://epg.946985.filegear-sg.me/t.xml.gz,https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz,https://epg.iill.top/epg.xml.gz" x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz,https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz,https://epg.946985.filegear-sg.me/t.xml.gz,https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz,https://epg.iill.top/epg.xml.gz"
-
+#EXTM3U
 
 #风云TV
 #风云
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/CCTV1综合.png" group-title="风云央卫",CCTV1综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/CCTV1综合.png" group-title="风云央卫",CCTV1综合
 http://iptv.4666888.xyz/iptv2A.php?id=7
-#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/CCTV2财经.png" group-title="风云央卫",CCTV2财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/CCTV2财经.png" group-title="风云央卫",CCTV2财经
 http://iptv.4666888.xyz/iptv2A.php?id=8
-#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/CCTV3综艺.png" group-title="风云央卫",CCTV3综艺
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/CCTV3综艺.png" group-title="风云央卫",CCTV3综艺
 http://iptv.4666888.xyz/iptv2A.php?id=9
-#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/CCTV4中文国际.png" group-title="风云央卫",CCTV4中文国际
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/CCTV4中文国际.png" group-title="风云央卫",CCTV4中文国际
 http://iptv.4666888.xyz/iptv2A.php?id=10
-#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/CCTV13新闻.png" group-title="风云央卫",CCTV13新闻
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/CCTV13新闻.png" group-title="风云央卫",CCTV13新闻
 http://iptv.4666888.xyz/iptv2A.php?id=11
-#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/CCTV14少儿.png" group-title="风云央卫",CCTV14少儿
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/CCTV14少儿.png" group-title="风云央卫",CCTV14少儿
 http://iptv.4666888.xyz/iptv2A.php?id=12
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV16.png" group-title="风云央卫",CCTV16
+http://iptv.4666888.xyz/iptv2A.php?id=32
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/广东卫视.png" group-title="风云央卫",广东卫视
 http://iptv.4666888.xyz/iptv2A.php?id=18
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/广东珠江.png" group-title="风云央卫",广东珠江
@@ -31,6 +32,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=15
 http://iptv.4666888.xyz/iptv2A.php?id=16
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/青海卫视.png" group-title="风云央卫",青海卫视
 http://iptv.4666888.xyz/iptv2A.php?id=17
+
 #EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SPOTV.png" group-title="风云体育",SPOTV
 http://iptv.4666888.xyz/iptv2A.php?id=2
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SPOTV 2.png" group-title="风云体育",SPOTV2
@@ -39,38 +41,38 @@ http://iptv.4666888.xyz/iptv2A.php?id=1
 http://iptv.4666888.xyz/iptv2A.php?id=4
 #EXTINF:-1 tvg-id="TNTSPORTS1HD" tvg-name="TNTSPORTS1HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNT Sports 1 HD.png" group-title="风云体育",TNTSPORTS1HD
 http://iptv.4666888.xyz/iptv2A.php?id=3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/main/WWE.png" group-title="风云体育",WWWE
+#EXTINF:-1 tvg-id="WWENETWORK" tvg-name="WWENETWORK" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/main/WWE.png" group-title="风云体育",WWENETWORK
 http://iptv.4666888.xyz/iptv2A.php?id=5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/博斯运动1.png" group-title="风云体育",博斯运动1
+#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/博斯运动1.png" group-title="风云体育",博斯运动一台
 http://iptv.4666888.xyz/iptv2A.php?id=6
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/凤凰中文.png" group-title="风云港澳",凤凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB翡翠.png" group-title="风云港澳",TVB翡翠台
 http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB翡翠.png" group-title="风云港澳",TVB翡翠(马来)
+#EXTINF:-1 tvg-id="TVBJADE(HD)" tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB翡翠.png" group-title="风云港澳",TVBJADE(HD)
 http://iptv.4666888.xyz/iptv2A.php?id=28
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB明珠.png" group-title="风云港澳",TVB明珠
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB明珠.png" group-title="风云港澳",明珠台
 http://iptv.4666888.xyz/iptv2A.php?id=29
 #EXTINF:-1 tvg-id="TVBJ" tvg-name="TVBJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="风云港澳",TVBJ
 http://iptv.4666888.xyz/iptv2A.php?id=26
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB1.png" group-title="风云港澳",TVB1
+#EXTINF:-1 tvg-id="翡翠一台(TVB1)" tvg-name="翡翠一台(TVB1)" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB1.png" group-title="风云港澳",翡翠一台(TVB1)
 http://iptv.4666888.xyz/iptv2A.php?id=25
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/千禧经典台.png" group-title="风云港澳",千禧经典台
 http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="风云港澳",HOY TV
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOYTV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="风云港澳",HOY TV
 http://iptv.4666888.xyz/iptv2A.php?id=35
-#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="风云港澳",HOY 資訊台
+#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY资讯台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="风云港澳",HOY 資訊台
 http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTHK31.png" group-title="风云港澳",RTHK31
 http://iptv.4666888.xyz/iptv2A.php?id=23
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="风云港澳",TVB娱乐新闻
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="风云港澳",娱乐新闻台
 http://iptv.4666888.xyz/iptv2A.php?id=36
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV16.png" group-title="风云港澳",CCTV16
-http://iptv.4666888.xyz/iptv2A.php?id=32
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB翡翠.png" group-title="风云港澳",TVB翡翠剧集
+#EXTINF:-1 tvg-id="TVB翡翠剧集台(TVBDRAMA)" tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB翡翠.png" group-title="风云港澳",TVB翡翠剧集台(TVBDRAMA)
 http://iptv.4666888.xyz/iptv2A.php?id=33
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/澳视澳门.png" group-title="风云港澳",澳视澳门
 http://iptv.4666888.xyz/iptv2A.php?id=41
+
+
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBS新闻.png" group-title="风云台湾",TVBS新闻
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/非凡新闻台.png" group-title="风云台湾",非凡新闻台
@@ -79,7 +81,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=44
 http://iptv.4666888.xyz/iptv2A.php?id=55
 #EXTINF:-1 tvg-id="华艺中文台" tvg-name="华艺中文台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/华艺综合.png" group-title="风云台湾",华艺中文台
 http://iptv.4666888.xyz/iptv2A.php?id=37
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/爱奇艺.png" group-title="风云台湾",爱奇艺
+#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/爱奇艺.png" group-title="风云台湾",爱奇艺
 http://iptv.4666888.xyz/iptv2A.php?id=21
 #EXTINF:-1 tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/靖洋戏剧台.png" group-title="风云台湾",靖洋戏剧台
 http://iptv.4666888.xyz/iptv2A.php?id=42
@@ -126,7 +128,8 @@ https://o11.163189.xyz/stream/live/jade/
 #EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/aod.png" group-title="Juli字幕版",AOD
 https://o11.163189.xyz/stream/live/aod/
 
-
+#iill
+#iill
 #iill
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="港澳台iill",Now新闻台
 https://yang-1989.eu.org/live/now-332
@@ -144,7 +147,7 @@ https://yang-1989.eu.org/live/Love-Nature
 https://yang-1989.eu.org/live/tvN
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="港澳台iill",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="澳门莲花" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳门莲花.png" group-title="港澳台iill",澳门莲花
+#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳门莲花.png" group-title="港澳台iill",澳门莲花
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="港澳台iill",凤凰中文
 http://r.jdshipin.com/cCCzW
@@ -164,25 +167,25 @@ http://r.jdshipin.com/ndGgS
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="港澳台iill",Now新闻台
 https://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="Sky Sports F1" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/main/Sky-Sports-F1.png" group-title="港澳台iill",Sky Sports F1
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-name="SKYSPF1" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/main/Sky-Sports-F1.png" group-title="港澳台iill",Sky Sports F1
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
-#EXTINF:-1 tvg-id="Red Bull TV" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/iill-logo-mytvsuper/RedBull.png" group-title="港澳台iill",Red Bull TV
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/iill-logo-mytvsuper/RedBull.png" group-title="港澳台iill",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="港澳台iill",娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-id="TVB 星河" tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" group-title="港澳台iill",TVB 星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-id="亚洲武侠" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/iill-logo-mytvsuper/%E4%BA%9E%E6%B4%B2%E6%AD%A6%E4%BF%A0.png" group-title="港澳台iill",亚洲武侠
+#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/iill-logo-mytvsuper/%E4%BA%9E%E6%B4%B2%E6%AD%A6%E4%BF%A0.png" group-title="港澳台iill",TVB功夫台
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-id="Astro AOD" tvg-name="ASTROAOD" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/main/Astro AOD.png" group-title="港澳台iill",Astro AOD
+#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/main/Astro AOD.png" group-title="港澳台iill",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-id="Astro AEC" tvg-name="ASTROAEC" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/main/Astro AEC.png" group-title="港澳台iill",Astro AEC
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/main/Astro AEC.png" group-title="港澳台iill",Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 tvg-id="Astro QJ" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/main/Astro QJ.png" group-title="港澳台iill",Astro 全佳
+#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/main/Astro QJ.png" group-title="港澳台iill",Astro 全佳
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-id="Astro Hua Hee Dai" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/main/Astro Hua Hee Dai.png" group-title="港澳台iill",Astro 欢喜台
+#EXTINF:-1 tvg-id="HUAHEEDAI" tvg-name="HUAHEEDAI" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/main/Astro Hua Hee Dai.png" group-title="港澳台iill",Astro 欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/main/iQIYI.png" group-title="港澳台iill",iQIYI
+#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/main/iQIYI.png" group-title="港澳台iill",iQIYI
 http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://gh-proxy.com/https://github.com/luoluowoaini/666-/blob/main/8TV.png" group-title="港澳台iill",8TV
 http://cdn6.163189.xyz/163189/8tv
@@ -194,8 +197,8 @@ http://cdn6.163189.xyz/163189/ch8
 http://cdn6.163189.xyz/163189/chu
 
 
-
 #冰雪电视
+#BXTV
 #BXTV
 #EXTINF:-1 tvg-id="MYTVSUPER18台" tvg-name="MYTVSUPER18台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/MYTVSUPER18台.png" group-title="冰雪📺",myTV SUPER 18台
 http://bxtv.3a.ink/api.php?id=18
@@ -223,12 +226,8 @@ http://bxtv.3a.ink/api.php?id=popc
 http://bxtv.3a.ink/api.php?id=ztxw
 
 
-
-
 #juli
 #juli
-#juli
-
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",翡翠台
@@ -279,7 +278,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=as
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-id="澳视综艺" tvg-name="澳视综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/澳视综艺.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",澳视综艺
 http://cdn6.163189.xyz/163189/amzy
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/澳门莲花.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",澳门莲花
+#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/澳门莲花.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",澳门莲花
 http://cdn6.163189.xyz/163189/amlh
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
@@ -319,19 +318,19 @@ http://php.jdshipin.com/smt.php?id=inews_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",娱乐新闻台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",天映频道
+#EXTINF:-1 tvg-id="天映频道马来西亚" tvg-name="天映频道马来西亚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",天映频道
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",天映经典
 http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/AOD.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-id="ASTRO_AEC" tvg-name="ASTRO_AEC" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/AEC.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",AEC
+#EXTINF:-1 tvg-id="ASTRO_AEC" tvg-name="AEC" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/AEC.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",AEC
 http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/爱奇艺.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",爱奇艺
+#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/爱奇艺.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",IQIYI
 http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/QJ.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-id="HUA HEE DAI" tvg-name="HUA HEE DAI" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/ASTRO欢喜台.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",ASTRO欢喜台
+#EXTINF:-1 tvg-id="HUAHEEDAI" tvg-name="HUAHEEDAI" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/ASTRO欢喜台.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",ASTRO欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/8TV.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",八度空间
 http://php.jdshipin.com/smt.php?id=TV8
@@ -353,9 +352,9 @@ https://cdn6.163189.xyz/163189/fct4k
 https://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",明珠台
 https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB1.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",TVB1
+#EXTINF:-1 tvg-id="翡翠一台(TVB1)" tvg-name="翡翠一台(TVB1)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB1.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",翡翠一台(TVB1)
 https://6.cdn.loc.cc/163189.php?id=tvb1
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/翡翠剧集台.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",翡翠剧集台
+#EXTINF:-1 tvg-id="TVB翡翠剧集台(TVBDRAMA)" tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/翡翠剧集台.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",TVB翡翠剧集台(TVBDRAMA)
 https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="🇭🇰🇲🇴🇹🇼DIY-JuLi",CCTV13
 https://cdn3.163189.xyz/163189/cctv13
@@ -369,29 +368,27 @@ https://cdn3.163189.xyz/163189/dycj
 https://cdn3.163189.xyz/163189/wxty
 
 
-
 #地方台
-#EXTINF:-1 tvg-id="南国都市4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="地方台",南国都市[官网]
+#地方台
+#地方台
+#EXTINF:-1 tvg-id="广州南国都市4K" tvg-name="广州南国都市4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="地方台",南国都市[官网]
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州新闻.png" group-title="地方台",广州新闻[官网]
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
-#EXTINF:-1 tvg-id="广州综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="地方台",广州综合[官网]
+#EXTINF:-1 tvg-id="广州综合台" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="地方台",广州综合[官网]
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
-
-#EXTINF:-1 tvg-id="南国都市4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="地方台",南国都市[腾讯]
+#EXTINF:-1 tvg-id="广州南国都市4K" tvg-name="广州南国都市4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="地方台",南国都市[腾讯]
 https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=e93eb85173edb8a0c70fd1438c7bd7d7&txTime=193108637cb
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州新闻.png" group-title="地方台",广州新闻[腾讯]
 https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=c53d0e4d014632321a8e0efd6abecda4&txTime=193108637cb
-#EXTINF:-1 tvg-id="广州综合台" tvg-name="广州综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="地方台",广州综合[腾讯]
+#EXTINF:-1 tvg-id="广州综合台" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="地方台",广州综合[腾讯]
 https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
-
-#EXTINF:-1 tvg-id="广州综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="地方台",广州综合[Juli]
+#EXTINF:-1 tvg-id="广州综合台" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="地方台",广州综合[Juli]
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州新闻.png" group-title="地方台",广州新闻[Juli]
 http://php.jdshipin.com:8880/gztv.php?id=xinwen
-#EXTINF:-1 tvg-id="南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="地方台",南国都市[Juli]
+#EXTINF:-1 tvg-id="广州南国都市4K" tvg-name="广州南国都市4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="地方台",南国都市[Juli]
 http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="地方台",广东体育[iill]
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="地方台",广东珠江[iill]
@@ -404,154 +401,135 @@ http://m.061899.xyz/mg/gdms
 http://m.061899.xyz/mg/gdty
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="地方台",广东珠江[189]
 http://m.061899.xyz/mg/gdzj
-
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="地方台",重温经典
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="地方台",重温经典
 http://m.061899.xyz/mg/cwjd
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="地方台",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="地方台",凤凰中文
 http://m.061899.xyz/mg/fhzw
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="地方台",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="地方台",凤凰资讯
 http://m.061899.xyz/mg/fhzx
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="地方台",凤凰香港
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="地方台",凤凰香港
 http://m.061899.xyz/mg/fhhk
-#EXTINF:-1,tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/影迷电影.png" group-title="地方台",影迷电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/影迷电影.png" group-title="地方台",影迷电影
 http://m.061899.xyz/mg/ymdy
+
 
 
 #央视
 #CCTV
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="CCTV",CCTV1
+#央视
+#CCTV
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="CCTV",CCTV1
 http://m.061899.xyz/mg/cctv1
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="CCTV",CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="CCTV",CCTV2
 http://m.061899.xyz/mg/cctv2
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="CCTV",CCTV3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="CCTV",CCTV3
 http://m.061899.xyz/mg/cctv3
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="CCTV",CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="CCTV",CCTV4
 http://m.061899.xyz/mg/cctv4
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="CCTV",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="CCTV",CCTV5
 http://m.061899.xyz/mg/cctv5
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="CCTV",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="CCTV",CCTV5+
 http://m.061899.xyz/mg/cctv5p
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="CCTV",CCTV6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="CCTV",CCTV6
 http://m.061899.xyz/mg/cctv6
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="CCTV",CCTV7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="CCTV",CCTV7
 http://m.061899.xyz/mg/cctv7
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="CCTV",CCTV8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="CCTV",CCTV8
 http://m.061899.xyz/mg/cctv8
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="CCTV",CCTV9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="CCTV",CCTV9
 http://m.061899.xyz/mg/cctv9
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="CCTV",CCTV10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="CCTV",CCTV10
 http://m.061899.xyz/mg/cctv10
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="CCTV",CCTV11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="CCTV",CCTV11
 http://m.061899.xyz/mg/cctv11
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="CCTV",CCTV12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="CCTV",CCTV12
 http://m.061899.xyz/mg/cctv12
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="CCTV",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="CCTV",CCTV13
 http://m.061899.xyz/mg/cctv13
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="CCTV",CCTV14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="CCTV",CCTV14
 http://m.061899.xyz/mg/cctv14
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="CCTV",CCTV15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="CCTV",CCTV15
 http://m.061899.xyz/mg/cctv15
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="CCTV",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="CCTV",CCTV16
 http://m.061899.xyz/mg/cctv16
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="CCTV",CCTV17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="CCTV",CCTV17
 http://m.061899.xyz/mg/cctv17
 
-
 #卫视
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视",河北卫视
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视",河北卫视
 http://m.061899.xyz/mg/hbws
-#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视",云南卫视
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视",云南卫视
 http://m.061899.xyz/mg/ynws
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视",北京卫视
 http://m.061899.xyz/mg/bjws
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视",浙江卫视
 http://m.061899.xyz/mg/zjws
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视",河南卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视",河南卫视
 http://m.061899.xyz/mg/hnws
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视",东方卫视
 http://m.061899.xyz/mg/dfws
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视",江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视",江苏卫视
 http://m.061899.xyz/mg/jsws
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视",山东卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视",山东卫视
 http://m.061899.xyz/mg/sdws
-
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视",广东卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视",广东卫视
 http://m.061899.xyz/mg/gdws
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视",四川卫视
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视",四川卫视
 http://m.061899.xyz/mg/scws
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视",重庆卫视
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视",重庆卫视
 http://m.061899.xyz/mg/cqws
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://m.061899.xyz/mg/hljws
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视",吉林卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视",吉林卫视
 http://m.061899.xyz/mg/jlws
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视",青海卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视",青海卫视
 http://m.061899.xyz/mg/qhws
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="卫视",西藏卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="卫视",西藏卫视
 http://m.061899.xyz/mg/xzws
-
 
 #nowtv
 #nowtv测试
-#EXTINF:-1 tvg-id="NOWSPORTSPREMIERLEAGUETV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports Premier League TV.png" group-title="🇭🇰nowtv测试",Now Sports Premier League TV
+#EXTINF:-1 tvg-id="Now Sports 英超TV" tvg-name="Now Sports 英超TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports Premier League TV.png" group-title="🇭🇰nowtv测试",Now Sports Premier League TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
-
-#EXTINF:-1 tvg-id="NOWSPORTS1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 1.png" group-title="🇭🇰nowtv测试",Now Sports 1
+#EXTINF:-1 tvg-id="NOWSPORTS1" tvg-name="NOWSPORTS1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 1.png" group-title="🇭🇰nowtv测试",Now Sports 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
-
-#EXTINF:-1 tvg-id="NOWSPORTS2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 2.png" group-title="🇭🇰nowtv测试",Now Sports 2
+#EXTINF:-1 tvg-id="NOWSPORTS2" tvg-name="NOWSPORTS2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 2.png" group-title="🇭🇰nowtv测试",Now Sports 2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
-
-#EXTINF:-1 tvg-id="NOWSPORTS3" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 3.png" group-title="🇭🇰nowtv测试",Now Sports 3
+#EXTINF:-1 tvg-id="NOWSPORTS3" tvg-name="NOWSPORTS3" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 3.png" group-title="🇭🇰nowtv测试",Now Sports 3
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
-
-#EXTINF:-1 tvg-id="NOWSPORTS4" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 4.png" group-title="🇭🇰nowtv测试",Now Sports 4
+#EXTINF:-1 tvg-id="NOWSPORTS4" tvg-name="NOWSPORTS4" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 4.png" group-title="🇭🇰nowtv测试",Now Sports 4
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
-
-#EXTINF:-1 tvg-id="NOWSPORTS5" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 5.png" group-title="🇭🇰nowtv测试",Now Sports 5
+#EXTINF:-1 tvg-id="NOWSPORTS5" tvg-name="NOWSPORTS5" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 5.png" group-title="🇭🇰nowtv测试",Now Sports 5
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
-
-#EXTINF:-1 tvg-id="NOWSPORTS6" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 6.png" group-title="🇭🇰nowtv测试",Now Sports 6
+#EXTINF:-1 tvg-id="NOWSPORTS6" tvg-name="NOWSPORTS6" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 6.png" group-title="🇭🇰nowtv测试",Now Sports 6
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
-
-#EXTINF:-1 tvg-id="NOWSPORTS7" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 7.png" group-title="🇭🇰nowtv测试",Now Sports 7
+#EXTINF:-1 tvg-id="NOWSPORTS7" tvg-name="NOWSPORTS7" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 7.png" group-title="🇭🇰nowtv测试",Now Sports 7
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
-
-#EXTINF:-1 tvg-id="NOWSPORTS4K1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/NowSports4K1.png" group-title="🇭🇰nowtv测试",Now Sports 4K 1
+#EXTINF:-1 tvg-id="NOWSPORTS4K1" tvg-name="NOWSPORTS4K1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/NowSports4K1.png" group-title="🇭🇰nowtv测试",Now Sports 4K 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
 
-
-#EXTINF:-1,tvg-id="NOWSPORTS英超1台" tvg-name="NOWSPORTS英超1台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超1台.png" group-title="🇭🇰nowtv测试",Now Sports 英超1台[英语]
+#EXTINF:-1 tvg-id="Now Sports 英超TV1" tvg-name="Now Sports 英超TV1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超1台.png" group-title="🇭🇰nowtv测试",Now Sports 英超1台[英语]
 http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
-
-#EXTINF:-1,tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="🇭🇰nowtv测试",NOW爆谷台[HK]
+#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="🇭🇰nowtv测试",NOW爆谷台[HK]
 http://rihou.cc:555/tv/[Hk]Now爆谷
-#EXTINF:-1,tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="🇭🇰nowtv测试",NOW爆谷星影台[HK]
+#EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="🇭🇰nowtv测试",NOW爆谷星影台[HK]
 http://rihou.cc:555/tv/[Hk]Now星影
-
-#EXTINF:-1,tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="🇭🇰nowtv测试",NOW爆谷星影台[BX]
+#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="🇭🇰nowtv测试",NOW爆谷星影台[BX]
 http://rihou.cc:555/tv/[Bx]Now星影
-#EXTINF:-1,tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="🇭🇰nowtv测试",NOW爆谷台[BX]
+#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="🇭🇰nowtv测试",NOW爆谷台[BX]
 http://rihou.cc:555/tv/[Bx]Now爆谷
-
-#EXTINF:-1,tvg-id="NOWSPORTS英超1台" tvg-name="NOWSPORTS英超1台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超1台.png" group-title="🇭🇰🇲🇴🇹🇼测试",Now Sports 英超1台[ALX]
+#EXTINF:-1 tvg-id="Now Sports 英超 TV1" tvg-name="Now Sports 英超 TV1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超1台.png" group-title="🇭🇰nowtv测试",Now Sports 英超1台[ALX]
 https://7pal.short.gy/nowhkp1
-#EXTINF:-1,tvg-id="NOWSPORTS英超2台" tvg-name="NOWSPORTS英超2台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超2台.png" group-title="🇭🇰🇲🇴🇹🇼测试",Now Sports 英超2台[ALX]
+#EXTINF:-1 tvg-id="Now Sports 英超 TV2" tvg-name="Now Sports 英超 TV2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超2台.png" group-title="🇭🇰nowtv测试",Now Sports 英超2台[ALX]
 https://7pal.short.gy/nowhkp2
-#EXTINF:-1,tvg-id="NOWSPORTS英超3台" tvg-name="NOWSPORTS英超3台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超3台.png" group-title="🇭🇰🇲🇴🇹🇼测试",Now Sports 英超3台[ALX]
+#EXTINF:-1 tvg-id="Now Sports 英超 TV3" tvg-name="Now Sports 英超 TV3" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超3台.png" group-title="🇭🇰nowtv测试",Now Sports 英超3台[ALX]
 https://7pal.short.gy/nowhkp3
-
-#EXTINF:-1 tvg-id="NOWSPORTS4K1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/NowSports4K1.png" group-title="🇭🇰🇲🇴🇹🇼测试",Now Sports 4K 1[ALX]
+#EXTINF:-1 tvg-id="now体育4k" tvg-name="now体育4k" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/NowSports4K1.png" group-title="🇭🇰nowtv测试",Now Sports 4K 1[ALX]
 https://7pal.short.gy/nowsport4k
 
-
-
-
-
 #SMT
 #SMT
-#EXTM3U x-tvg-url="http://192.168.2.1:5678/t.xml.gz"
-
 #香港
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Catvod香港🇭🇰",翡翠台
 https://live.catvod.com/live.php?id=jade_twn
@@ -583,7 +561,7 @@ https://live.catvod.com/live.php?id=hkphoenix_twn
 #台湾
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视.png" group-title="Catvod台湾🇹🇼",台视
 https://live.catvod.com/live.php?id=ttv_taiwan
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视新闻.png" group-title="Catvod台湾🇹🇼",台视新闻
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视新闻.png" group-title="Catvod台湾🇹🇼",台视新闻
 https://live.catvod.com/live.php?id=ttvnews_twn
 #EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视综合.png" group-title="Catvod台湾🇹🇼",台视综合
 https://live.catvod.com/live.php?id=ttvzhonghe
@@ -683,9 +661,9 @@ https://live.catvod.com/live.php?id=jingtiancartoon_twn
 https://live.catvod.com/live.php?id=daai_twn
 #EXTINF:-1 tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大爱二.png" group-title="Catvod台湾🇹🇼",大爱二台
 https://live.catvod.com/live.php?id=daai2_twn
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/EYE旅游.png" group-title="Catvod台湾🇹🇼",EYE旅游台
+#EXTINF:-1 tvg-id="EYETV旅游台HD" tvg-name="EYETV旅游台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/EYE旅游.png" group-title="Catvod台湾🇹🇼",EYETV旅游台HD
 https://live.catvod.com/live.php?id=eyetvtravel_twn
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/EYE戏剧.png" group-title="Catvod台湾🇹🇼",EYE戏剧台
+#EXTINF:-1 tvg-id="EYETV戏剧台HD" tvg-name="EYETV戏剧台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/EYE戏剧.png" group-title="Catvod台湾🇹🇼",EYE戏剧台
 https://live.catvod.com/live.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-id="亚洲美食频道" tvg-name="亚洲美食频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/亚洲美食频道.png" group-title="Catvod台湾🇹🇼",亚洲美食频道
 https://live.catvod.com/live.php?id=afc_twn
@@ -773,7 +751,7 @@ https://live.catvod.com/live.php?id=shenzhen
 https://live.catvod.com/live.php?id=guangdongweishi_twn
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="Catvod卫视🇨🇳",大湾区卫视
 https://live.catvod.com/live.php?id=nanfang_twn
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/珠江.png" group-title="Catvod卫视🇨🇳",珠江台
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="珠江台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/珠江.png" group-title="Catvod卫视🇨🇳",珠江台
 https://live.catvod.com/live.php?id=zhujiang
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="Catvod卫视🇨🇳",东南卫视
 https://live.catvod.com/live.php?id=fujian
@@ -799,7 +777,7 @@ https://live.catvod.com/live.php?id=hollywoodmovies_twn
 https://live.catvod.com/live.php?id=weishimovie_twn
 #EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙祥时代.png" group-title="Catvod电影🎬",龙祥时代
 https://live.catvod.com/live.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-id="美亚电影台HD" tvg-name="美亚电影台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="Catvod电影🎬",美亚电影台
+#EXTINF:-1 tvg-id="美亚电影台HD" tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="Catvod电影🎬",美亚电影台
 https://live.catvod.com/live.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="Catvod电影🎬",CCTV6
 https://live.catvod.com/live.php?id=cctv6
@@ -813,11 +791,11 @@ https://live.catvod.com/live.php?id=Celestial2
 https://live.catvod.com/live.php?id=Animax
 #EXTINF:-1 tvg-id="MOVIESNOW" tvg-name="MOVIESNOW" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/moviesnow.png" group-title="Catvod电影🎬",Movies Now
 https://live.catvod.com/live.php?id=moviesnow_raj
-#EXTINF:-1 tvg-id="STARMOVIES" tvg-name="STARMOVIES" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/STARMOVIES.png" group-title="Catvod电影🎬",Star Movies
+#EXTINF:-1 tvg-id="STARMOVIES" tvg-name="STAR" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/STARMOVIES.png" group-title="Catvod电影🎬",Star Movies
 https://live.catvod.com/live.php?id=starmovies_raj
 #EXTINF:-1 tvg-id="HITS" tvg-name="HITS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HITS.png" group-title="Catvod电影🎬",Hits
 https://live.catvod.com/live.php?id=Hits
-#EXTINF:-1 tvg-id="HITSMOVIE" tvg-name="HITSMOVIE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Hits Movie.png" group-title="Catvod电影🎬",Hits Movie
+#EXTINF:-1 tvg-id="HITSMOVIE" tvg-name="HITSMOVIESHD新加坡" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Hits Movie.png" group-title="Catvod电影🎬",Hits Movie
 https://live.catvod.com/live.php?id=Hitsmovie
 #EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WARNERTV.png" group-title="Catvod电影🎬",Warner TV
 https://live.catvod.com/live.php?id=WarnerTV
@@ -843,7 +821,7 @@ https://live.catvod.com/live.php?id=One
 https://live.catvod.com/live.php?id=Tvnmovie
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="Catvod电影🎬",AXN
 https://live.catvod.com/live.php?id=Axn
-#EXTINF:-1 tvg-id="Paramountnetwork" tvg-name="Paramountnetwork" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Paramountnetwork.png" group-title="Catvod电影🎬",Paramountnetwork
+#EXTINF:-1 tvg-id="Paramountnetwork" tvg-name="PARAMOUNTNETWORKHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Paramountnetwork.png" group-title="Catvod电影🎬",Paramountnetwork
 https://live.catvod.com/live.php?id=Paramountnetwork
 #EXTINF:-1 tvg-id="KPLUS" tvg-name="KPLUS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/KPLUS.png" group-title="Catvod电影🎬",KPLUS
 https://live.catvod.com/live.php?id=Kplus
@@ -851,10 +829,11 @@ https://live.catvod.com/live.php?id=Kplus
 https://live.catvod.com/live.php?id=Rockaction
 #EXTINF:-1 tvg-id="ROCKENTERTAINMENT" tvg-name="ROCKENTERTAINMENT" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKENTERTAINMENT.png" group-title="Catvod电影🎬",Rock Entertainment
 https://live.catvod.com/live.php?id=Rockentertain
-#EXTINF:-1 tvg-id="NATIONALGEOGRAPHICHD" tvg-name="NATIONALGEOGRAPHICHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/National Geographic HD.png" group-title="Catvod纪录📚",National Geographic HD
+
 #记录
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHICHD" tvg-name="NATIONALGEOGRAPHICHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/National Geographic HD.png" group-title="Catvod纪录📚",National Geographic HD
 https://live.catvod.com/live.php?id=natgeohd_twn
-#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="NATIONALGEOGRAPHIC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATIONALGEOGRAPHICWILD.png" group-title="Catvod纪录📚",National Geographic Wild
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="NATIONALGEOGRAPHICWILDCANADAHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATIONALGEOGRAPHICWILD.png" group-title="Catvod纪录📚",National Geographic Wild
 https://live.catvod.com/live.php?id=natgeowild_twn
 #EXTINF:-1 tvg-id="LoveNarure" tvg-name="LoveNarure" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/LoveNarure.png" group-title="Catvod纪录📚",LoveNarure
 https://live.catvod.com/live.php?id=Natgeowild
@@ -868,9 +847,9 @@ https://live.catvod.com/live.php?id=discoverytwn_twn
 https://live.catvod.com/live.php?id=discoveryhd_twn
 #EXTINF:-1 tvg-id="CRIMEINVESTIGATION" tvg-name="CRIMEINVESTIGATION" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/CRIMEINVESTIGATION.png" group-title="Catvod纪录📚",CI (Crime Investigation)
 https://live.catvod.com/live.php?id=ci_twn
-#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="NATIONALGEOGRAPHIC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATIONALGEOGRAPHIC.png" group-title="Catvod纪录📚",National Geographic
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="NATIONALGEOGRAPHICWILDCANADAHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATIONALGEOGRAPHIC.png" group-title="Catvod纪录📚",National Geographic
 https://live.catvod.com/live.php?id=Natgeo
-#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/FASHIONTV.png" group-title="Catvod纪录📚",Fashion TV
+#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTVHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/FASHIONTV.png" group-title="Catvod纪录📚",Fashion TV
 https://live.catvod.com/live.php?id=fashiontv_twn
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HISTORY.png" group-title="Catvod纪录📚",History
 https://live.catvod.com/live.php?id=History
@@ -892,7 +871,7 @@ https://live.catvod.com/live.php?id=skynews_twn
 https://live.catvod.com/live.php?id=abcnews_glo
 #EXTINF:-1 tvg-id="CBSSPORTSNETWORKHD" tvg-name="CBSSPORTSNETWORKHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CBSSPORTSNETWORK.png" group-title="Catvod新闻📰",CBS Sports Network HD
 https://live.catvod.com/live.php?id=cbshd_glo
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/CBSN.png" group-title="Catvod新闻📰",CBSN
+#EXTINF:-1 tvg-id="CBSNEWSNATIONALSTREAM" tvg-name="CBSNEWSNATIONALSTREAM" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/CBSN.png" group-title="Catvod新闻📰",CBSN
 https://live.catvod.com/live.php?id=cbsn_glo
 #EXTINF:-1 tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FRANCE24.png" group-title="Catvod新闻📰",France 24
 https://live.catvod.com/live.php?id=france24_twn
@@ -924,7 +903,7 @@ https://live.catvod.com/live.php?id=aljazeera_twn
 https://live.catvod.com/live.php?id=Babytv
 #EXTINF:-1 tvg-id="DUNIAANAK" tvg-name="DUNIAANAK" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Dunia anak.png" group-title="Catvod儿童👶",Dunia anak
 https://live.catvod.com/live.php?id=Cbeebies
-#EXTINF:-1 tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Aniplus.png" group-title="Catvod儿童👶",Aniplus
+#EXTINF:-1 tvg-id="ANIPLUS" tvg-name="ANIPLUSHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Aniplus.png" group-title="Catvod儿童👶",Aniplus
 https://live.catvod.com/live.php?id=KidsTV
 #EXTINF:-1 tvg-id="CN卡通频道" tvg-name="CN卡通频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CN卡通频道.png" group-title="Catvod儿童👶",CN卡通频道
 https://live.catvod.com/live.php?id=momo1_twn
@@ -936,6 +915,7 @@ https://live.catvod.com/live.php?id=Cn
 https://live.catvod.com/live.php?id=Nickelodeon
 #EXTINF:-1 tvg-id="NICKJR." tvg-name="NICKJR." tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Nick Jr..png" group-title="Catvod儿童👶",Nick Jr.
 https://live.catvod.com/live.php?id=Nickjr
+
 
 #体育
 #EXTINF:-1 tvg-id="ASTROPREMIERLEAGUE" tvg-name="ASTROPREMIERLEAGUE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Premier League.png" group-title="Catvod体育🇲🇾",ASTRO Premier League
@@ -1006,13 +986,13 @@ https://live.catvod.com/live.php?id=tiankongmix
 https://live.catvod.com/live.php?id=Rugbypasstv
 #EXTINF:-1 tvg-id="RTM Sports" tvg-name="RTM Sports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTM Sports.png" group-title="Catvod体育🇲🇾",RTM Sports
 https://live.catvod.com/live.php?id=Rtmsport
-#EXTINF:-1 tvg-id="Bola Arena" tvg-name="Bola Arena" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Bola Arena.png" group-title="Catvod体育🇲🇾",Bola Arena
+#EXTINF:-1 tvg-id="Bola Arena" tvg-name="ARENA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Bola Arena.png" group-title="Catvod体育🇲🇾",Bola Arena
 https://live.catvod.com/live.php?id=Arena
 #EXTINF:-1 tvg-id="ASTROARENA2" tvg-name="ASTROARENA2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Arena 2.png" group-title="Catvod体育🇲🇾",ASTRO Arena 2
 https://live.catvod.com/live.php?id=Arena2
 #EXTINF:-1 tvg-id="ASTROARENABOLA" tvg-name="ASTROARENABOLA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Arena bola.png" group-title="Catvod体育🇲🇾",ASTRO Arena bola
 https://live.catvod.com/live.php?id=Bolaarena1
-#EXTINF:-1 tvg-id="ASTRO2" tvg-name="ASTRO2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Arena bola 2.png" group-title="Catvod体育🇲🇾",ASTRO Arena bola 2
+#EXTINF:-1 tvg-id="ASTRO2" tvg-name="ASTROARENABOLA2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Arena bola 2.png" group-title="Catvod体育🇲🇾",ASTRO Arena bola 2
 https://live.catvod.com/live.php?id=Bolaarena2
 #EXTINF:-1 tvg-id="BEINSPORTS1" tvg-name="BEINSPORTS1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 1.png" group-title="Catvod体育🇲🇾",beIN Sports 1
 https://live.catvod.com/live.php?id=Astrobein1
@@ -1020,7 +1000,6 @@ https://live.catvod.com/live.php?id=Astrobein1
 https://live.catvod.com/live.php?id=Astrobein2
 #EXTINF:-1 tvg-id="BEINSPORTS3" tvg-name="BEINSPORTS3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 3.png" group-title="Catvod体育🇲🇾",beIN Sports 3
 https://live.catvod.com/live.php?id=Astrobein3
-
 
 #马来西亚
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV1.png" group-title="Catvod马来西亚🇲🇾",TV1
@@ -1043,9 +1022,9 @@ https://live.catvod.com/live.php?id=TV9
 https://live.catvod.com/live.php?id=Ria-0
 #EXTINF:-1 tvg-id="ASTRORIA" tvg-name="ASTRORIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Ria.png" group-title="Catvod马来西亚🇲🇾",Astro Ria
 https://live.catvod.com/live.php?id=Ria_backup
-#EXTINF:-1 tvg-id="TVALHIJRAHHD" tvg-name="TVALHIJRAHHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV Alhijrah.png" group-title="Catvod马来西亚🇲🇾",TV Alhijrah
+#EXTINF:-1 tvg-id="TVALHIJRAHHD" tvg-name="TVALHIJRAH" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV Alhijrah.png" group-title="Catvod马来西亚🇲🇾",TV Alhijrah
 https://live.catvod.com/live.php?id=Alhijrah
-#EXTINF:-1 tvg-id="TVALHIJRAHHD" tvg-name="TVALHIJRAHHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV Alhijrah.png" group-title="Catvod马来西亚🇲🇾",TV Alhijrah
+#EXTINF:-1 tvg-id="TVALHIJRAHHD" tvg-name="TVALHIJRAH" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV Alhijrah.png" group-title="Catvod马来西亚🇲🇾",TV Alhijrah
 https://live.catvod.com/live.php?id=Alhijrah_backup
 #EXTINF:-1 tvg-id="ASTROPRIMA" tvg-name="ASTROPRIMA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Prima.png" group-title="Catvod马来西亚🇲🇾",Astro Prima
 https://live.catvod.com/live.php?id=Prima-0
@@ -1065,9 +1044,9 @@ https://live.catvod.com/live.php?id=Channel5HD
 https://live.catvod.com/live.php?id=Channel8HD
 #EXTINF:-1 tvg-id="CHANNELU" tvg-name="CHANNELU" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel U.png" group-title="Catvod新加坡🇸🇬",Channel U
 https://live.catvod.com/live.php?id=ChannelU
-#EXTINF:-1 tvg-id="SURIA" tvg-name="SURIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Suria.png" group-title="Catvod新加坡🇸🇬",Suria
+#EXTINF:-1 tvg-id="SURIA" tvg-name="CHANNELSURIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Suria.png" group-title="Catvod新加坡🇸🇬",Suria
 https://live.catvod.com/live.php?id=Suria
-#EXTINF:-1 tvg-id="VASANTHAM" tvg-name="VASANTHAM" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Vasantham.png" group-title="Catvod新加坡🇸🇬",Vasantham
+#EXTINF:-1 tvg-id="VASANTHAM" tvg-name="CHANNELVASANTHAM" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Vasantham.png" group-title="Catvod新加坡🇸🇬",Vasantham
 https://live.catvod.com/live.php?id=Vasantham
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CNA.png" group-title="Catvod新加坡🇸🇬",CNA
 https://live.catvod.com/live.php?id=cna_twn
@@ -1077,7 +1056,7 @@ https://live.catvod.com/live.php?id=Mewatch_ch5
 https://live.catvod.com/live.php?id=Mewatch_ch8
 #EXTINF:-1 tvg-id="CHANNELU" tvg-name="CHANNELU" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Channel U.png" group-title="Catvod新加坡🇸🇬",Mewatch Channel U
 https://live.catvod.com/live.php?id=Mewatch_chU
-#EXTINF:-1 tvg-id="SURIA" tvg-name="SURIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Suria.png" group-title="Catvod新加坡🇸🇬",Mewatch Suria
+#EXTINF:-1 tvg-id="SURIA" tvg-name="RIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Suria.png" group-title="Catvod新加坡🇸🇬",Mewatch Suria
 https://live.catvod.com/live.php?id=Mewatch_Suria
 #EXTINF:-1 tvg-id="VASANTHAM" tvg-name="VASANTHAM" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Vasantham.png" group-title="Catvod新加坡🇸🇬",Mewatch Vasantham
 https://live.catvod.com/live.php?id=Mewatch_Vasantham
@@ -1115,13 +1094,13 @@ https://live.catvod.com/live.php?id=Tvone
 https://live.catvod.com/live.php?id=TVMU_eko
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/GTV.png" group-title="Catvod印尼🇮🇩",GTV
 https://live.catvod.com/live.php?id=Gtv
-#EXTINF:-1 tvg-id="BRTVINTERNATIONAL" tvg-name="BRTVINTERNATIONAL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTV.png" group-title="Catvod印尼🇮🇩",RTV
+#EXTINF:-1 tvg-id="BRTVINTERNATIONAL" tvg-name="RTVINTERNATIONAL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTV.png" group-title="Catvod印尼🇮🇩",RTV
 https://live.catvod.com/live.php?id=Rtv
 #EXTINF:-1 tvg-id="JAKTV" tvg-name="JAKTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Jak TV.png" group-title="Catvod印尼🇮🇩",Jak TV
 https://live.catvod.com/live.php?id=JakTV
 #EXTINF:-1 tvg-id="INEWS" tvg-name="INEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/iNews TV.png" group-title="Catvod印尼🇮🇩",iNews TV
 https://live.catvod.com/live.php?id=Inewstv
-#EXTINF:-1 tvg-id="DAAITV" tvg-name="DAAITV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/DAAI TV Indonesia.png" group-title="Catvod印尼🇮🇩",DAAI TV Indonesia
+#EXTINF:-1 tvg-id="DAAITV" tvg-name="ONE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/DAAI TV Indonesia.png" group-title="Catvod印尼🇮🇩",DAAI TV Indonesia
 https://live.catvod.com/live.php?id=DaaiTV
 #EXTINF:-1 tvg-id="NET." tvg-name="NET." tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NET..png" group-title="Catvod印尼🇮🇩",NET.
 https://live.catvod.com/live.php?id=NetTV
@@ -1129,15 +1108,15 @@ https://live.catvod.com/live.php?id=NetTV
 https://live.catvod.com/live.php?id=Ewtn
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Al-Qur'an Al-Kareem TV.png" group-title="Catvod印尼🇮🇩",Al-Qur'an Al-Kareem TV
 https://live.catvod.com/live.php?id=AlQuran
-#EXTINF:-1 tvg-id="ASTROCITRA" tvg-name="ASTROCITRA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Citra Drama.png" group-title="Catvod印尼🇮🇩",Citra Drama
+#EXTINF:-1 tvg-id="ASTROCITRA" tvg-name="CITRADRAMA(HD)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Citra Drama.png" group-title="Catvod印尼🇮🇩",Citra Drama
 https://live.catvod.com/live.php?id=TawafTV
 #EXTINF:-1 tvg-id="VISIONPRIME" tvg-name="VISIONPRIME" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Vision Prime.png" group-title="Catvod印尼🇮🇩",Vision Prime
 https://live.catvod.com/live.php?id=VisionPrime
 #EXTINF:-1 tvg-id="MTATV" tvg-name="MTATV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MTATV.png" group-title="Catvod印尼🇮🇩",MTATV
 https://live.catvod.com/live.php?id=MuslimTV
-#EXTINF:-1 tvg-id="MUSIKINDONESIA" tvg-name="MUSIKINDONESIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Musik Indonesia.png" group-title="Catvod印尼🇮🇩",Musik Indonesia
+#EXTINF:-1 tvg-id="MUSIKINDONESIA" tvg-name="ONE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Musik Indonesia.png" group-title="Catvod印尼🇮🇩",Musik Indonesia
 https://live.catvod.com/live.php?id=MusicTV
-#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ATV.png" group-title="Catvod印尼🇮🇩",ATV
+#EXTINF:-1 tvg-id="ATV" tvg-name="CENTROAMéRICATV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ATV.png" group-title="Catvod印尼🇮🇩",ATV
 https://live.catvod.com/live.php?id=Lifestyle
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-name="ENTERTAINMENT" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Entertainment TV.png" group-title="Catvod印尼🇮🇩",Entertainment TV
 https://live.catvod.com/live.php?id=Entertain
@@ -1155,7 +1134,7 @@ https://live.catvod.com/live.php?id=Sunmusic
 https://live.catvod.com/live.php?id=Sunlife
 #EXTINF:-1 tvg-id="ZEETAMIL" tvg-name="ZEETAMIL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Zee Tamil.png" group-title="Catvod印度🇮🇳",Zee Tamil
 https://live.catvod.com/live.php?id=Zeetamil
-#EXTINF:-1 tvg-id="ZEEBUSINESS" tvg-name="ZEEBUSINESS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Zee Business.png" group-title="Catvod印度🇮🇳",Zee Business
+#EXTINF:-1 tvg-id="ZEEBUSINESS" tvg-name="Z" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Zee Business.png" group-title="Catvod印度🇮🇳",Zee Business
 https://live.catvod.com/live.php?id=Zeebusiness
 #EXTINF:-1 tvg-id="NEWS18TAMILNADU" tvg-name="NEWS18TAMILNADU" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/News18 Tamil Nadu.png" group-title="Catvod印度🇮🇳",News18 Tamil Nadu
 https://live.catvod.com/live.php?id=news18tamil_raj
@@ -1165,7 +1144,7 @@ https://live.catvod.com/live.php?id=Adithya
 #泰国🇹🇭
 #EXTINF:-1 tvg-id="Channel 3 HD Thailand" tvg-name="Channel 3 HD Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 3 HD Thailand.png" group-title="Catvod泰国🇹🇭",Channel 3 HD Thailand
 https://live.catvod.com/live.php?id=ch3_pat
-#EXTINF:-1 tvg-id="MY" tvg-name="MY" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Royal Thai Army TV 5 HD Thailand.png" group-title="Catvod泰国🇹🇭",Royal Thai Army TV 5 HD Thailand
+#EXTINF:-1 tvg-id="MY" tvg-name="YTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Royal Thai Army TV 5 HD Thailand.png" group-title="Catvod泰国🇹🇭",Royal Thai Army TV 5 HD Thailand
 https://live.catvod.com/live.php?id=ch5_pat
 #EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BBTV Channel 7 HD Thailand.png" group-title="Catvod泰国🇹🇭",BBTV Channel 7 HD Thailand
 https://live.catvod.com/live.php?id=ch7_pat
@@ -1175,7 +1154,7 @@ https://live.catvod.com/live.php?id=mcot_pat
 https://live.catvod.com/live.php?id=pptv_pat
 #EXTINF:-1 tvg-id="W" tvg-name="W" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Thai TV Global Network (TGN).png" group-title="Catvod泰国🇹🇭",Thai TV Global Network (TGN)
 https://live.catvod.com/live.php?id=thaithai_pat
-#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Amarin TV HD (Channel 34) Thailand.png" group-title="Catvod泰国🇹🇭",Amarin TV HD (Channel 34) Thailand
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTVHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Amarin TV HD (Channel 34) Thailand.png" group-title="Catvod泰国🇹🇭",Amarin TV HD (Channel 34) Thailand
 https://live.catvod.com/live.php?id=amarin_pat
 #EXTINF:-1 tvg-id="CHANNEL8" tvg-name="CHANNEL8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 8 Thailand.png" group-title="Catvod泰国🇹🇭",Channel 8 Thailand
 https://live.catvod.com/live.php?id=ch8_pat
@@ -1195,12 +1174,13 @@ https://live.catvod.com/live.php?id=gmmchannel_pat
 https://live.catvod.com/live.php?id=nation_pat
 #EXTINF:-1 tvg-id="TNN 24 Thailand" tvg-name="TNN 24 Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNN 24 Thailand.png" group-title="Catvod泰国🇹🇭",TNN 24 Thailand
 https://live.catvod.com/live.php?id=tnn24_pat
-#EXTINF:-1 tvg-id="NBT2HD (National Broadcasting Services of Thailand)" tvg-name="NBT2HD (National Broadcasting Services of Thailand)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NBT2HD (National Broadcasting Services of Thailand).png" group-title="Catvod泰国🇹🇭",NBT2HD (National Broadcasting Services of Thailand)
+#EXTINF:-1 tvg-id="NBT2HD (National Broadcasting Services of Thailand)" tvg-name="VICE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NBT2HD (National Broadcasting Services of Thailand).png" group-title="Catvod泰国🇹🇭",NBT2HD (National Broadcasting Services of Thailand)
 https://live.catvod.com/live.php?id=nbt_pat
 #EXTINF:-1 tvg-id="W" tvg-name="W" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/News18 Thailand.png" group-title="Catvod泰国🇹🇭",News18 Thailand
 https://live.catvod.com/live.php?id=new_pat
-#EXTINF:-1 tvg-id="TPTV (Parliament TV Thailand)" tvg-name="TPTV (Parliament TV Thailand)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TPTV (Parliament TV Thailand).png" group-title="Catvod泰国🇹🇭",TPTV (Parliament TV Thailand)
+#EXTINF:-1 tvg-id="TPTV (Parliament TV Thailand)" tvg-name="PARLIAMENT" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TPTV (Parliament TV Thailand).png" group-title="Catvod泰国🇹🇭",TPTV (Parliament TV Thailand)
 https://live.catvod.com/live.php?id=tptv_pat
+
 
 #英国 英国🇬🇧
 #EXTINF:-1 tvg-id="BBC One S East HD" tvg-name="BBCONENEANDCHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BBC-One.png" group-title="Catvod英国🇬🇧",BBC One
@@ -1209,15 +1189,15 @@ https://live.catvod.com/live.php?id=bbc1_antik
 https://live.catvod.com/live.php?id=bbc2_antik
 #EXTINF:-1 tvg-id="CBBCHD" tvg-name="CBBCHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CBBCHD.png" group-title="Catvod英国🇬🇧",CBBC
 https://live.catvod.com/live.php?id=cbbc_antik
-#EXTINF:-1 tvg-id="MORE4" tvg-name="MORE4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MORE4.png" group-title="Catvod英国🇬🇧",More4
+#EXTINF:-1 tvg-id="MORE4" tvg-name="MORE4+1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MORE4.png" group-title="Catvod英国🇬🇧",More4
 https://live.catvod.com/live.php?id=more4_antik
 #EXTINF:-1 tvg-id="FreeSports" tvg-name="FreeSports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/FreeSports.png" group-title="Catvod英国🇬🇧",FreeSports
 https://live.catvod.com/live.php?id=freesports_antik
 #EXTINF:-1 tvg-id="Pick" tvg-name="Pick" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Pick.png" group-title="Catvod英国🇬🇧",Pick
 https://live.catvod.com/live.php?id=picktv_antik
-#EXTINF:-1 tvg-id="ITV1 HD" tvg-name="ITV1HD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ITV-1.png" group-title="Catvod英国🇬🇧",ITV 1
+#EXTINF:-1 tvg-id="ITV1 HD" tvg-name="ITV1+1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ITV-1.png" group-title="Catvod英国🇬🇧",ITV 1
 https://live.catvod.com/live.php?id=itv1_antik
-#EXTINF:-1 tvg-id="ITV1 HD" tvg-name="ITV2HD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ITV-1.png" group-title="Catvod英国🇬🇧",ITV 2
+#EXTINF:-1 tvg-id="ITV1 HD" tvg-name="ITV2+1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ITV-1.png" group-title="Catvod英国🇬🇧",ITV 2
 https://live.catvod.com/live.php?id=itv2_antik
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="EURONEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/EURONEWS.png" group-title="Catvod英国🇬🇧",Euronews
 https://live.catvod.com/live.php?id=euronews_antik
@@ -1225,9 +1205,3 @@ https://live.catvod.com/live.php?id=euronews_antik
 https://live.catvod.com/live.php?id=channel4_antik
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="Catvod英国🇬🇧",BBC World News
 https://live.catvod.com/live.php?id=bbcworldnews_antik
-
-
-
-
-
-
