@@ -1271,24 +1271,8 @@ https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=202687420
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2025637102&livepid=600099658&defn=shd
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png" group-title="YSP央視",懷舊劇場
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2026874302&livepid=600099620&defn=shd
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/世界地理.png" group-title="YSP央視VIP",世界地理
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2026874403&livepid=600099637&defn=fhd
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png" group-title="YSP央視VIP",風雲音樂
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2026874503&livepid=600099660&defn=fhd
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵器科技.png" group-title="YSP央視VIP",兵器科技
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2026874603&livepid=600099649&defn=fhd
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png" group-title="YSP央視VIP",風雲足球
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2026966203&livepid=600099636&defn=fhd
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/高尔夫网球.png" group-title="YSP央視VIP",高爾夫網球
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2026874703&livepid=600099659&defn=fhd
-#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/文化精品.png" group-title="YSP央視VIP",文化精品
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2026874903&livepid=600099653&defn=fhd
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视台球.png" group-title="YSP央視VIP",央視台球
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2026875003&livepid=600099652&defn=fhd
-#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="YSP央視VIP",電視指南
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2026875103&livepid=600099656&defn=fhd
-#EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卫生健康.png" group-title="YSP央視VIP",衛生健康
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2025637003&livepid=600099651&defn=fhd
+
+
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/北京卫视.png" group-title="YSP衛視",北京衛視
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024052703&livepid=600002309&defn=fhd
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/东方卫视.png" group-title="YSP衛視",東方衛視
