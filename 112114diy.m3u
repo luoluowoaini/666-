@@ -539,14 +539,24 @@ http://rihou.cc:555/tv/[Hk]Now星影
 http://rihou.cc:555/tv/[Bx]Now星影
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="🇭🇰nowtv测试",NOW爆谷台[BX]
 http://rihou.cc:555/tv/[Bx]Now爆谷
-#EXTINF:-1 tvg-id="Now Sports 英超 TV1" tvg-name="Now Sports 英超 TV1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超1台.png" group-title="🇭🇰nowtv测试",Now Sports 英超1台[ALX]
+#EXTINF:-1 tvg-id="Now Sports 英超 TV1" tvg-name="Now Sports 英超 TV1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超1台.png" group-title="🇭🇰nowtv测试",Now Sports 英超1台[7PAL]
 https://7pal.short.gy/nowhkp1
-#EXTINF:-1 tvg-id="Now Sports 英超 TV2" tvg-name="Now Sports 英超 TV2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超2台.png" group-title="🇭🇰nowtv测试",Now Sports 英超2台[ALX]
+#EXTINF:-1 tvg-id="Now Sports 英超 TV2" tvg-name="Now Sports 英超 TV2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超2台.png" group-title="🇭🇰nowtv测试",Now Sports 英超2台[7PAL]
 https://7pal.short.gy/nowhkp2
-#EXTINF:-1 tvg-id="Now Sports 英超 TV3" tvg-name="Now Sports 英超 TV3" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超3台.png" group-title="🇭🇰nowtv测试",Now Sports 英超3台[ALX]
+#EXTINF:-1 tvg-id="Now Sports 英超 TV3" tvg-name="Now Sports 英超 TV3" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超3台.png" group-title="🇭🇰nowtv测试",Now Sports 英超3台[7PAL]
 https://7pal.short.gy/nowhkp3
-#EXTINF:-1 tvg-id="now体育4k" tvg-name="now体育4k" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/NowSports4K1.png" group-title="🇭🇰nowtv测试",Now Sports 4K 1[ALX]
+#EXTINF:-1 tvg-id="now体育4k" tvg-name="now体育4k" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/NowSports4K1.png" group-title="🇭🇰nowtv测试",Now Sports 4K 1[7PAL]
 https://7pal.short.gy/nowsport4k
+
+#A1X
+#EXTINF:-1,tvg-id="NOWSPORTS英超1台" tvg-name="NOWSPORTS英超1台" tvg-logo="https://epg.112114.xyz/logo/NOW英超1台.png" group-title="🇭🇰🇲🇴🇹🇼测试",Now Sports 英超1台[A1X]
+https://a1xs.vip/1100001
+#EXTINF:-1,tvg-id="NOWSPORTS英超2台" tvg-name="NOWSPORTS英超2台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超2台.png" group-title="🇭🇰🇲🇴🇹🇼测试",Now Sports 英超2台[A1X]
+https://a1xs.vip/1100002
+#EXTINF:-1 tvg-id="NOWSPORTS4K1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/NowSports4K1.png" group-title="🇭🇰🇲🇴🇹🇼测试",Now Sports 4K 1[A1X]
+https://a1xs.vip/9000011
+#EXTINF:-1 tvg-id="V Sport Ultra HD" tvg-name="V Sport Ultra HD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/v-sport-ultra.png" group-title="🇭🇰🇲🇴🇹🇼测试",V Sport Ultra HD[A1X]
+https://a1xs.vip/9000013
 
 #SMT
 #SMT
