@@ -531,14 +531,12 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&e
 
 #EXTINF:-1 tvg-id="Now Sports 英超TV1" tvg-name="Now Sports 英超TV1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超1台.png" group-title="🇭🇰nowtv测试",Now Sports 英超1台[英语]
 http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
-#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="🇭🇰nowtv测试",NOW爆谷台[HK]
-http://rihou.cc:555/tv/[Hk]Now爆谷
-#EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="🇭🇰nowtv测试",NOW爆谷星影台[HK]
-http://rihou.cc:555/tv/[Hk]Now星影
-#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="🇭🇰nowtv测试",NOW爆谷星影台[BX]
-http://rihou.cc:555/tv/[Bx]Now星影
-#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="🇭🇰nowtv测试",NOW爆谷台[BX]
-http://rihou.cc:555/tv/[Bx]Now爆谷
+
+#EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="Judy推流源",NOW爆谷台[Goiptv]
+https://tuiliu.go-iptv.ggff.net/baogutai/stream.m3u8
+#EXTINF:-1 tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="Judy推流源",NOW爆谷星影台[Goiptv]
+https://tuiliu.go-iptv.ggff.net/xingyingtai/stream.m3u8
+
 #EXTINF:-1 tvg-id="Now Sports 英超 TV1" tvg-name="Now Sports 英超 TV1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超1台.png" group-title="🇭🇰nowtv测试",Now Sports 英超1台[7PAL]
 https://7pal.short.gy/nowhkp1
 #EXTINF:-1 tvg-id="Now Sports 英超 TV2" tvg-name="Now Sports 英超 TV2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超2台.png" group-title="🇭🇰nowtv测试",Now Sports 英超2台[7PAL]
