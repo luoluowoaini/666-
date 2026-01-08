@@ -656,6 +656,22 @@ http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
 
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/东方卫视.png" group-title="上海🇨🇳",东方卫视
+http://47.110.137.212/kdf.php?id=2030
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/上海新闻综合.png" group-title="上海🇨🇳",上海新闻综合
+http://47.110.137.212/kdf.php?id=20
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/上海都市.png" group-title="上海🇨🇳",上海都市
+http://47.110.137.212/kdf.php?id=18
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海🇨🇳",上海纪实人文
+http://47.110.137.212/kdf.php?id=1600
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/五星体育.png" group-title="上海🇨🇳",五星体育
+http://47.110.137.212/kdf.php?id=1605
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/第一财经.png" group-title="上海🇨🇳",第一财经
+http://47.110.137.212/kdf.php?id=21
+#EXTINF:-1 tvg-id="魔都眼" tvg-name="魔都眼" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/上海魔都眼.png" group-title="上海🇨🇳",魔都眼
+http://47.110.137.212/kdf.php?id=1601
+
+
 
 
 #央视
