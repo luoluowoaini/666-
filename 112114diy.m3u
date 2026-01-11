@@ -821,7 +821,7 @@ http://74.91.26.218:82/live/ttv.m3u8
 http://74.91.26.218:82/live/ttvnews.m3u8
 #EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/台视综合.png" group-title="Kansas City",台视综合
 http://74.91.26.218:82/live/ttvzh.m3u8
-#EXTINF:-1 tvg-id="台视财经台" tvg-name="台视财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视财经.png" group-title="台视财经台",台视财经
+#EXTINF:-1 tvg-id="台视财经台" tvg-name="台视财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视财经.png" group-title="Kansas City",台视财经
 http://74.91.26.218:82/live/ttvcj.m3u8
 
 
