@@ -796,6 +796,35 @@ https://a1xs.vip/9000011
 #EXTINF:-1 tvg-id="V Sport Ultra HD" tvg-name="V Sport Ultra HD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/v-sport-ultra.png" group-title="nowtv测试🇭🇰",V Sport Ultra HD[A1X]
 https://a1xs.vip/9000013
 
+#测试
+#KansasCity
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="Kansas City",翡翠台
+http://74.91.26.218:82/live/jade.m3u8
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="TVB无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="Kansas City",无线新闻台
+http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBPlus.png" group-title="Kansas City",TVB Plus
+http://74.91.26.218:82/live/j2.m3u8
+#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="Kansas City",NOW星影台
+http://74.91.26.218:82/live/nowxy.m3u8
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/中视.png" group-title="Kansas City",中视
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/中视新闻.png" group-title="Kansas City",中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 tvg-id="中视经典台HD" tvg-name="中视经典台HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/中视经典.png" group-title="Kansas City",中视经典
+http://74.91.26.218:82/live/ctvjd.m3u8
+#EXTINF:-1 tvg-id="中视菁采台HD" tvg-name="中视菁采台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视菁采.png" group-title="Kansas City",中视菁采
+http://74.91.26.218:82/live/ctvjc.m3u8
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/台视.png" group-title="Kansas City",台视
+http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/台视新闻.png" group-title="Kansas City",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/台视综合.png" group-title="Kansas City",台视综合
+http://74.91.26.218:82/live/ttvzh.m3u8
+#EXTINF:-1 tvg-id="台视财经台" tvg-name="台视财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视财经.png" group-title="台视财经台",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+
+
 #SMT
 #SMT
 #香港
