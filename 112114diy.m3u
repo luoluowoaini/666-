@@ -656,20 +656,6 @@ http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
 
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/东方卫视.png" group-title="上海🇨🇳",东方卫视
-http://47.110.137.212/kdf.php?id=2030
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/上海新闻综合.png" group-title="上海🇨🇳",上海新闻综合
-http://47.110.137.212/kdf.php?id=20
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/上海都市.png" group-title="上海🇨🇳",上海都市
-http://47.110.137.212/kdf.php?id=18
-#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海🇨🇳",上海纪实人文
-http://47.110.137.212/kdf.php?id=1600
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/五星体育.png" group-title="上海🇨🇳",五星体育
-http://47.110.137.212/kdf.php?id=1605
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/第一财经.png" group-title="上海🇨🇳",第一财经
-http://47.110.137.212/kdf.php?id=21
-#EXTINF:-1 tvg-id="魔都眼" tvg-name="魔都眼" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/上海魔都眼.png" group-title="上海🇨🇳",魔都眼
-http://47.110.137.212/kdf.php?id=1601
 
 
 
@@ -829,679 +815,679 @@ http://74.91.26.218:82/live/ttvcj.m3u8
 #SMT
 #香港
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="SMT香港🇭🇰",翡翠台
-https://live.catvod.com/live.php?id=jade_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=jade_twn
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="SMT香港🇭🇰",翡翠台
-https://live.catvod.com/live.php?id=Jade_xue
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Jade_xue
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="SMT香港🇭🇰",明珠台
-https://live.catvod.com/live.php?id=pearl_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=pearl_twn
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="SMT香港🇭🇰",无线新闻
-https://live.catvod.com/live.php?id=inews_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=inews_twn
 #EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="SMT香港🇭🇰",TVBPLUS
-https://live.catvod.com/live.php?id=j2_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=j2_twn
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="SMT香港🇭🇰",VIUTV
-https://live.catvod.com/live.php?id=viu1_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=viu1_twn
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="SMT香港🇭🇰",VIUTV
-https://live.catvod.com/live.php?id=viusix_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=viusix_twn
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="SMT香港🇭🇰",RTHK31
-https://live.catvod.com/live.php?id=rhk31_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=rhk31_twn
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="SMT香港🇭🇰",RTHK32
-https://live.catvod.com/live.php?id=rhk32_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=rhk32_twn
 #EXTINF:-1 tvg-id="HOYTV" tvg-name="HOYTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/HOYTV.png" group-title="SMT香港🇭🇰",HOYTV
-https://live.catvod.com/live.php?id=hoycaijing_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hoycaijing_twn
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="SMT香港🇭🇰",凤凰中文
-https://live.catvod.com/live.php?id=phoenixtv_hd
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="SMT香港🇭🇰",凤凰资讯
-https://live.catvod.com/live.php?id=phoenixinfo_hd
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="SMT香港🇭🇰",凤凰香港
-https://live.catvod.com/live.php?id=hkphoenix_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hkphoenix_twn
 
 #台湾
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视.png" group-title="SMT台湾🇹🇼",台视
-https://live.catvod.com/live.php?id=ttv_taiwan
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ttv_taiwan
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视新闻.png" group-title="SMT台湾🇹🇼",台视新闻
-https://live.catvod.com/live.php?id=ttvnews_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ttvnews_twn
 #EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视综合.png" group-title="SMT台湾🇹🇼",台视综合
-https://live.catvod.com/live.php?id=ttvzhonghe
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ttvzhonghe
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华视.png" group-title="SMT台湾🇹🇼",华视
-https://live.catvod.com/live.php?id=ctshd_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ctshd_twn
 #EXTINF:-1 tvg-id="公视儿少台HD" tvg-name="公视儿少台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公视.png" group-title="SMT台湾🇹🇼",公视儿少台
-https://live.catvod.com/live.php?id=ctv_taiwan
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ctv_taiwan
 #EXTINF:-1 tvg-id="公视台语台" tvg-name="公视台语台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公视台语.png" group-title="SMT台湾🇹🇼",公视台语台
-https://live.catvod.com/live.php?id=ctv2_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ctv2_twn
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视新闻.png" group-title="SMT台湾🇹🇼",中视新闻
-https://live.catvod.com/live.php?id=zhongshinews_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视.png" group-title="SMT台湾🇹🇼",中视
-https://live.catvod.com/live.php?id=zhongshihd_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天综合.png" group-title="SMT台湾🇹🇼",中天综合台
-https://live.catvod.com/live.php?id=ctizhonghe
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ctizhonghe
 #EXTINF:-1 tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天娱乐.png" group-title="SMT台湾🇹🇼",中天娱乐台
-https://live.catvod.com/live.php?id=ctient
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ctient
 #EXTINF:-1 tvg-id="中天亚洲精采台" tvg-name="中天亚洲精采台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天亚洲.png" group-title="SMT台湾🇹🇼",中天亚洲精采台
-https://live.catvod.com/live.php?id=ctiasia_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ctiasia_twn
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/中天新闻台.png" group-title="SMT台湾🇹🇼",中天新闻台
-https://live.catvod.com/live.php?id=ctinews
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ctinews
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/东森新闻台.png" group-title="SMT台湾🇹🇼",东森新闻台
-https://live.catvod.com/live.php?id=ettvnews
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ettvnews
 #EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/东森财经新闻台.png" group-title="SMT台湾🇹🇼",东森财经新闻台
-https://live.catvod.com/live.php?id=ettvcaijing_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ettvcaijing_twn
 #EXTINF:-1 tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森综合.png" group-title="SMT台湾🇹🇼",东森综合台
-https://live.catvod.com/live.php?id=ettvzhonghe
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ettvzhonghe
 #EXTINF:-1 tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森戏剧.png" group-title="SMT台湾🇹🇼",东森戏剧台
-https://live.catvod.com/live.php?id=ettvdrama
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ettvdrama
 #EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="SMT台湾🇹🇼",东森电影台
-https://live.catvod.com/live.php?id=ettvmovie
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ettvmovie
 #EXTINF:-1 tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森洋片.png" group-title="SMT台湾🇹🇼",东森洋片台
-https://live.catvod.com/live.php?id=ettvwestern
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ettvwestern
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森超视.png" group-title="SMT台湾🇹🇼",东森超视
-https://live.catvod.com/live.php?id=ettvsuper
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ettvsuper
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TVBS.png" group-title="SMT台湾🇹🇼",TVBS
-https://live.catvod.com/live.php?id=tvbs
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tvbs
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TVBS新闻台.png" group-title="SMT台湾🇹🇼",TVBS新闻台
-https://live.catvod.com/live.php?id=tvbs_n
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tvbs_n
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TVBS欢乐台.png" group-title="SMT台湾🇹🇼",TVBS欢乐台
-https://live.catvod.com/live.php?id=tvbshuanle_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视.png" group-title="SMT台湾🇹🇼",民视
-https://live.catvod.com/live.php?id=ftvhd_taiwan
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视新闻.png" group-title="SMT台湾🇹🇼",民视新闻台
-https://live.catvod.com/live.php?id=ftvnew_taiwan
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/民视台湾台.png" group-title="SMT台湾🇹🇼",民视台湾台
-https://live.catvod.com/live.php?id=ftvtaiwan_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ftvtaiwan_twn
 #EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大第一.png" group-title="SMT台湾🇹🇼",八大第一台
-https://live.catvod.com/live.php?id=badafirst
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=badafirst
 #EXTINF:-1 tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大综合.png" group-title="SMT台湾🇹🇼",八大综合台
-https://live.catvod.com/live.php?id=badazhonghe
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=badazhonghe
 #EXTINF:-1 tvg-id="八大戏剧台" tvg-name="八大戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大戏剧.png" group-title="SMT台湾🇹🇼",八大戏剧台
-https://live.catvod.com/live.php?id=badadrama
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=badadrama
 #EXTINF:-1 tvg-id="八大娱乐台" tvg-name="八大娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大娱乐.png" group-title="SMT台湾🇹🇼",八大娱乐台
-https://live.catvod.com/live.php?id=badaentertain
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=badaentertain
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来体育.png" group-title="SMT台湾🇹🇼",纬来体育台
-https://live.catvod.com/live.php?id=videolandsport
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=videolandsport
 #EXTINF:-1 tvg-id="纬来精彩台" tvg-name="纬来精彩台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来精彩.png" group-title="SMT台湾🇹🇼",纬来精彩台
-https://live.catvod.com/live.php?id=videolandspecial_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=videolandspecial_twn
 #EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来日本.png" group-title="SMT台湾🇹🇼",纬来日本台
-https://live.catvod.com/live.php?id=videolandjapan
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=videolandjapan
 #EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="SMT台湾🇹🇼",纬来电影台
-https://live.catvod.com/live.php?id=videolandmovie
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=videolandmovie
 #EXTINF:-1 tvg-id="纬来综合台" tvg-name="纬来综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来综合.png" group-title="SMT台湾🇹🇼",纬来综合台
-https://live.catvod.com/live.php?id=videolandzonghe
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=videolandzonghe
 #EXTINF:-1 tvg-id="纬来育乐台" tvg-name="纬来育乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来育乐.png" group-title="SMT台湾🇹🇼",纬来育乐台
-https://live.catvod.com/live.php?id=videolandyule
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=videolandyule
 #EXTINF:-1 tvg-id="爱尔达综合台" tvg-name="爱尔达综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达综合.png" group-title="SMT台湾🇹🇼",爱尔达综合台
-https://live.catvod.com/live.php?id=eltazonghe_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=eltazonghe_twn
 #EXTINF:-1 tvg-id="爱尔达影剧台" tvg-name="爱尔达影剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达影剧.png" group-title="SMT台湾🇹🇼",爱尔达影剧台
-https://live.catvod.com/live.php?id=eltayingju_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=eltayingju_twn
 #EXTINF:-1 tvg-id="爱尔达体育1台" tvg-name="爱尔达体育1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育1.png" group-title="SMT台湾🇹🇼",爱尔达体育1台
-https://live.catvod.com/live.php?id=eltasport_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=eltasport_twn
 #EXTINF:-1 tvg-id="爱尔达体育2台" tvg-name="爱尔达体育2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育2.png" group-title="SMT台湾🇹🇼",爱尔达体育2台
-https://live.catvod.com/live.php?id=eltasport2_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=eltasport2_twn
 #EXTINF:-1 tvg-id="爱尔达体育3台" tvg-name="爱尔达体育3台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育3.png" group-title="SMT台湾🇹🇼",爱尔达体育3台
-https://live.catvod.com/live.php?id=eltasport3_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=eltasport3_twn
 #EXTINF:-1 tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/非凡新闻台.png" group-title="SMT台湾🇹🇼",非凡新闻台
-https://live.catvod.com/live.php?id=feifannews_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=feifannews_twn
 #EXTINF:-1 tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/年代新闻.png" group-title="SMT台湾🇹🇼",年代新闻台
-https://live.catvod.com/live.php?id=niandainews_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=niandainews_twn
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="SMT台湾🇹🇼",龙华戏剧
-https://live.catvod.com/live.php?id=lunghuaxiju_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="SMT台湾🇹🇼",龙华偶像
-https://live.catvod.com/live.php?id=lunghuaidol_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=lunghuaidol_twn
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="SMT台湾🇹🇼",龙华电影
-https://live.catvod.com/live.php?id=xingwei_movie
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=xingwei_movie
 #EXTINF:-1 tvg-id="龙华洋片台" tvg-name="龙华洋片台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/龙华洋片台.png" group-title="SMT台湾🇹🇼",龙华洋片台
-https://live.catvod.com/live.php?id=lunghuawestern_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=lunghuawestern_twn
 #EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/龙华经典台.png" group-title="SMT台湾🇹🇼",龙华经典台
-https://live.catvod.com/live.php?id=lunghuajingdian_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=lunghuajingdian_twn
 #EXTINF:-1 tvg-id="KLT靖天国际台HD" tvg-name="KLT靖天国际台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天国际.png" group-title="SMT台湾🇹🇼",KLT靖天国际台HD
-https://live.catvod.com/live.php?id=jingtianintl_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=jingtianintl_twn
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/靖天卡通台.png" group-title="SMT台湾🇹🇼",靖天卡通台
-https://live.catvod.com/live.php?id=jingtiancartoon_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=jingtiancartoon_twn
 #EXTINF:-1 tvg-id="大爱电视" tvg-name="大爱电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大爱电视.png" group-title="SMT台湾🇹🇼",大爱电视
-https://live.catvod.com/live.php?id=daai_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=daai_twn
 #EXTINF:-1 tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大爱二.png" group-title="SMT台湾🇹🇼",大爱二台
-https://live.catvod.com/live.php?id=daai2_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=daai2_twn
 #EXTINF:-1 tvg-id="EYETV旅游台HD" tvg-name="EYETV旅游台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/EYE旅游.png" group-title="SMT台湾🇹🇼",EYETV旅游台HD
-https://live.catvod.com/live.php?id=eyetvtravel_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=eyetvtravel_twn
 #EXTINF:-1 tvg-id="EYETV戏剧台HD" tvg-name="EYETV戏剧台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/EYE戏剧.png" group-title="SMT台湾🇹🇼",EYE戏剧台
-https://live.catvod.com/live.php?id=eyetvxiju_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-id="亚洲美食频道" tvg-name="亚洲美食频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/亚洲美食频道.png" group-title="SMT台湾🇹🇼",亚洲美食频道
-https://live.catvod.com/live.php?id=afc_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=afc_twn
 #EXTINF:-1 tvg-id="美食星球HD" tvg-name="美食星球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美食星球.png" group-title="SMT台湾🇹🇼",美食星球HD
-https://live.catvod.com/live.php?id=foodplanet_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=foodplanet_twn
 #EXTINF:-1 tvg-id="TLC旅游生活频道" tvg-name="TLC旅游生活频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC旅游生活.png" group-title="SMT台湾🇹🇼",TLC旅游生活频道
-https://live.catvod.com/live.php?id=tlc_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tlc_twn
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/亚洲旅游台.png" group-title="SMT台湾🇹🇼",亚洲旅游台
-https://live.catvod.com/live.php?id=asiatravel_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=asiatravel_twn
 #EXTINF:-1 tvg-id="ARIRANG" tvg-name="ARIRANG" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANG.png" group-title="SMT台湾🇹🇼",ARIRANG
-https://live.catvod.com/live.php?id=arirang_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=arirang_twn
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="SMT台湾🇹🇼",AXN
-https://live.catvod.com/live.php?id=axn_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=axn_twn
 #EXTINF:-1 tvg-id="MTVLIVE" tvg-name="MTVLIVE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MTVLIVE.png" group-title="SMT台湾🇹🇼",MTVLIVE
-https://live.catvod.com/live.php?id=mtvhd_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=mtvhd_twn
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华艺综合.png" group-title="SMT台湾🇹🇼",华艺综合
-https://live.catvod.com/live.php?id=weishichinese_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=weishichinese_twn
 #EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/博斯运动一台.png" group-title="SMT台湾🇹🇼",博斯运动一台
-https://live.catvod.com/live.php?id=bosisport1_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bosisport1_twn
 #EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/博斯运动二台.png" group-title="SMT台湾🇹🇼",博斯运动二台
-https://live.catvod.com/live.php?id=bosisport2_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bosisport2_twn
 #EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯高球.png" group-title="SMT台湾🇹🇼",博斯高球一台
-https://live.catvod.com/live.php?id=bosigolf1_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bosigolf1_twn
 #EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯高球二.png" group-title="SMT台湾🇹🇼",博斯高球二台
-https://live.catvod.com/live.php?id=bosigolf2_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bosigolf2_twn
 #EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/博斯网球台.png" group-title="SMT台湾🇹🇼",博斯网球台
-https://live.catvod.com/live.php?id=bositennis_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bositennis_twn
 #EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/博斯无限台.png" group-title="SMT台湾🇹🇼",博斯无限台
-https://live.catvod.com/live.php?id=bosiunlimited_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bosiunlimited_twn
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/好消息2台.png" group-title="SMT台湾🇹🇼",好消息2台
-https://live.catvod.com/live.php?id=good2_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=good2_twn
 
 #央视
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="SMT央视🇨🇳",CCTV1
-https://live.catvod.com/live.php?id=cctv1
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="SMT央视🇨🇳",CCTV2
-https://live.catvod.com/live.php?id=cctv2
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv2
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="SMT央视🇨🇳",CCTV3
-https://live.catvod.com/live.php?id=cctv3
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="SMT央视🇨🇳",CCTV4
-https://live.catvod.com/live.php?id=Cctv4
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Cctv4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="SMT央视🇨🇳",CCTV5
-https://live.catvod.com/live.php?id=cctv5
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv5
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="SMT央视🇨🇳",CCTV5+
-https://live.catvod.com/live.php?id=cctv5plus
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv5plus
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="SMT央视🇨🇳",CCTV6
-https://live.catvod.com/live.php?id=cctv6
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="SMT央视🇨🇳",CCTV7
-https://live.catvod.com/live.php?id=cctv7
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv7
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="SMT央视🇨🇳",CCTV8
-https://live.catvod.com/live.php?id=cctv8hd
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv8hd
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="SMT央视🇨🇳",CCTV9
-https://live.catvod.com/live.php?id=cctv9hd
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv9hd
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="SMT央视🇨🇳",CCTV10
-https://live.catvod.com/live.php?id=cctv10hd
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv10hd
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="SMT央视🇨🇳",CCTV11
-https://live.catvod.com/live.php?id=cctv11
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv11
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="SMT央视🇨🇳",CCTV12
-https://live.catvod.com/live.php?id=cctv12
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="SMT央视🇨🇳",CCTV13
-https://live.catvod.com/live.php?id=cctv13
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="SMT央视🇨🇳",CCTV14
-https://live.catvod.com/live.php?id=cctv14
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="SMT央视🇨🇳",CCTV15
-https://live.catvod.com/live.php?id=cctv15
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv15
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="SMT央视🇨🇳",CCTV16
-https://live.catvod.com/live.php?id=cctv16
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="SMT央视🇨🇳",CCTV17
-https://live.catvod.com/live.php?id=cctv17
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv17
 
 #卫视
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="SMT卫视🇨🇳",湖南卫视
-https://live.catvod.com/live.php?id=hunan_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hunan_twn
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="SMT卫视🇨🇳",浙江卫视
-https://live.catvod.com/live.php?id=zhejiang_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=zhejiang_twn
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="SMT卫视🇨🇳",江苏卫视
-https://live.catvod.com/live.php?id=jiangsu_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=jiangsu_twn
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="SMT卫视🇨🇳",东方卫视
-https://live.catvod.com/live.php?id=dongfangweishi_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=dongfangweishi_twn
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="SMT卫视🇨🇳",北京卫视
-https://live.catvod.com/live.php?id=beijing
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=beijing
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="SMT卫视🇨🇳",深圳卫视
-https://live.catvod.com/live.php?id=shenzhen
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=shenzhen
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="SMT卫视🇨🇳",广东卫视
-https://live.catvod.com/live.php?id=guangdongweishi_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=guangdongweishi_twn
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="SMT卫视🇨🇳",大湾区卫视
-https://live.catvod.com/live.php?id=nanfang_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=nanfang_twn
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="珠江台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/珠江.png" group-title="SMT卫视🇨🇳",珠江台
-https://live.catvod.com/live.php?id=zhujiang
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=zhujiang
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="SMT卫视🇨🇳",东南卫视
-https://live.catvod.com/live.php?id=fujian
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=fujian
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="SMT卫视🇨🇳",广西卫视
-https://live.catvod.com/live.php?id=guangxi
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=guangxi
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="SMT卫视🇨🇳",湖北卫视
-https://live.catvod.com/live.php?id=hubei
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hubei
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="SMT卫视🇨🇳",四川卫视
-https://live.catvod.com/live.php?id=sichuan_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=sichuan_twn
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="SMT卫视🇨🇳",CGTN
-https://live.catvod.com/live.php?id=CGTN
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=CGTN
 
 ##电影
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO.png" group-title="SMT电影🎬",HBO
-https://live.catvod.com/live.php?id=hbohd_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="HITS" tvg-name="HITS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HITS.png" group-title="SMT电影🎬",HITS
-https://live.catvod.com/live.php?id=hbohit_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hbohit_twn
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CINEMAX.png" group-title="SMT电影🎬",CINEMAX
-https://live.catvod.com/live.php?id=cinemax_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cinemax_twn
 #EXTINF:-1 tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好莱坞电影.png" group-title="SMT电影🎬",好莱坞电影台
-https://live.catvod.com/live.php?id=hollywoodmovies_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id=",卫视电影台" tvg-name=",卫视电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卫视电影.png" group-title="SMT电影🎬",卫视电影台
-https://live.catvod.com/live.php?id=weishimovie_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=weishimovie_twn
 #EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙祥时代.png" group-title="SMT电影🎬",龙祥时代
-https://live.catvod.com/live.php?id=lungxiangtime_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-id="美亚电影台HD" tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="SMT电影🎬",美亚电影台
-https://live.catvod.com/live.php?id=meiyamovie_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="SMT电影🎬",CCTV6
-https://live.catvod.com/live.php?id=cctv6
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv6
 #EXTINF:-1 tvg-id="天映马来西亚" tvg-name="天映马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="SMT电影🎬",天映马来西亚
-https://live.catvod.com/live.php?id=Celestial
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Celestial
 #EXTINF:-1 tvg-id="天映印度尼西亚" tvg-name="天映印度尼西亚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="SMT电影🎬",天映印度尼西亚
-https://live.catvod.com/live.php?id=Celestialindo
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Celestialindo
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="SMT电影🎬",天映经典
-https://live.catvod.com/live.php?id=Celestial2
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Celestial2
 #EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/ANIMAX.png" group-title="SMT电影🎬",Animax
-https://live.catvod.com/live.php?id=Animax
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Animax
 #EXTINF:-1 tvg-id="MOVIESNOW" tvg-name="MOVIESNOW" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/moviesnow.png" group-title="SMT电影🎬",Movies Now
-https://live.catvod.com/live.php?id=moviesnow_raj
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=moviesnow_raj
 #EXTINF:-1 tvg-id="STARMOVIES" tvg-name="STAR" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/STARMOVIES.png" group-title="SMT电影🎬",Star Movies
-https://live.catvod.com/live.php?id=starmovies_raj
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=starmovies_raj
 #EXTINF:-1 tvg-id="HITS" tvg-name="HITS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HITS.png" group-title="SMT电影🎬",Hits
-https://live.catvod.com/live.php?id=Hits
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hits
 #EXTINF:-1 tvg-id="HITSMOVIE" tvg-name="HITSMOVIESHD新加坡" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Hits Movie.png" group-title="SMT电影🎬",Hits Movie
-https://live.catvod.com/live.php?id=Hitsmovie
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hitsmovie
 #EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WARNERTV.png" group-title="SMT电影🎬",Warner TV
-https://live.catvod.com/live.php?id=WarnerTV
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=WarnerTV
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO.png" group-title="SMT电影🎬",HBO
-https://live.catvod.com/live.php?id=Hbo
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hbo
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBOSIGNATURE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/HBOSIGNATURE.png" group-title="SMT电影🎬",HBO Signature
-https://live.catvod.com/live.php?id=Hbosignature
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hbosignature
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBOFAMILY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOFAMILY.png" group-title="SMT电影🎬",HBO Family
-https://live.catvod.com/live.php?id=Hbofamily
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hbofamily
 #EXTINF:-1 tvg-id="HBOHITS" tvg-name="HBOHITS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOHITS.png" group-title="SMT电影🎬",HBO Hits
-https://live.catvod.com/live.php?id=Hbohitshd
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hbohitshd
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CINEMAX.png" group-title="SMT电影🎬",Cinemax
-https://live.catvod.com/live.php?id=Cinemax
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Cinemax
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DREAMWORKS.png" group-title="SMT电影🎬",DreamWorks
-https://live.catvod.com/live.php?id=Dreamworks
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Dreamworks
 #EXTINF:-1 tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/卫视电影台.png" group-title="SMT电影🎬",卫视电影台
-https://live.catvod.com/live.php?id=Weishimovie
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Weishimovie
 #EXTINF:-1 tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/THRILL.png" group-title="SMT电影🎬",Thrill
-https://live.catvod.com/live.php?id=Thrill
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Thrill
 #EXTINF:-1 tvg-id="ONE" tvg-name="ONE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ONE.png" group-title="SMT电影🎬",ONE
-https://live.catvod.com/live.php?id=One
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=One
 #EXTINF:-1 tvg-id="TVNMOVIESHD" tvg-name="TVNMOVIESHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/TVNMOVIESHD.png" group-title="SMT电影🎬",TVN Movies HD
-https://live.catvod.com/live.php?id=Tvnmovie
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Tvnmovie
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="SMT电影🎬",AXN
-https://live.catvod.com/live.php?id=Axn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Axn
 #EXTINF:-1 tvg-id="Paramountnetwork" tvg-name="PARAMOUNTNETWORKHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Paramountnetwork.png" group-title="SMT电影🎬",Paramountnetwork
-https://live.catvod.com/live.php?id=Paramountnetwork
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Paramountnetwork
 #EXTINF:-1 tvg-id="KPLUS" tvg-name="KPLUS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/KPLUS.png" group-title="SMT电影🎬",KPLUS
-https://live.catvod.com/live.php?id=Kplus
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Kplus
 #EXTINF:-1 tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/ROCKACTION.png" group-title="SMT电影🎬",Rock Action
-https://live.catvod.com/live.php?id=Rockaction
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Rockaction
 #EXTINF:-1 tvg-id="ROCKENTERTAINMENT" tvg-name="ROCKENTERTAINMENT" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKENTERTAINMENT.png" group-title="SMT电影🎬",Rock Entertainment
-https://live.catvod.com/live.php?id=Rockentertain
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Rockentertain
 
 #记录
 #EXTINF:-1 tvg-id="NATIONALGEOGRAPHICHD" tvg-name="NATIONALGEOGRAPHICHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/National Geographic HD.png" group-title="SMT纪录📚",National Geographic HD
-https://live.catvod.com/live.php?id=natgeohd_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=natgeohd_twn
 #EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="NATIONALGEOGRAPHICWILDCANADAHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATIONALGEOGRAPHICWILD.png" group-title="SMT纪录📚",National Geographic Wild
-https://live.catvod.com/live.php?id=natgeowild_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=natgeowild_twn
 #EXTINF:-1 tvg-id="LoveNarure" tvg-name="LoveNarure" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/LoveNarure.png" group-title="SMT纪录📚",LoveNarure
-https://live.catvod.com/live.php?id=Natgeowild
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Natgeowild
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMALPLANET" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/ANIMALPLANET.png" group-title="SMT纪录📚",Animal Planet
-https://live.catvod.com/live.php?id=animalplanet_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=animalplanet_twn
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMALPLANET" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/ANIMALPLANET.png" group-title="SMT纪录📚",Animal Planet
-https://live.catvod.com/live.php?id=AnimalPlanet
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=AnimalPlanet
 #EXTINF:-1 tvg-id="DISCOVERYASIA" tvg-name="DISCOVERYASIA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERYASIA.png" group-title="SMT纪录📚",Discovery Asia
-https://live.catvod.com/live.php?id=discoverytwn_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=discoverytwn_twn
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/DISCOVERY.png" group-title="SMT纪录📚",Discovery
-https://live.catvod.com/live.php?id=discoveryhd_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=discoveryhd_twn
 #EXTINF:-1 tvg-id="CRIMEINVESTIGATION" tvg-name="CRIMEINVESTIGATION" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/CRIMEINVESTIGATION.png" group-title="SMT纪录📚",CI (Crime Investigation)
-https://live.catvod.com/live.php?id=ci_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ci_twn
 #EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="NATIONALGEOGRAPHICWILDCANADAHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATIONALGEOGRAPHIC.png" group-title="SMT纪录📚",National Geographic
-https://live.catvod.com/live.php?id=Natgeo
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Natgeo
 #EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTVHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/FASHIONTV.png" group-title="SMT纪录📚",Fashion TV
-https://live.catvod.com/live.php?id=fashiontv_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=fashiontv_twn
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HISTORY.png" group-title="SMT纪录📚",History
-https://live.catvod.com/live.php?id=History
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=History
 #EXTINF:-1 tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png" group-title="SMT纪录📚",BBC Earth 1
-https://live.catvod.com/live.php?id=bbcearth_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bbcearth_twn
 #EXTINF:-1 tvg-id="BBCLIFESTYLE" tvg-name="BBCLIFESTYLE" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/BBCLIFESTYLE.png" group-title="SMT纪录📚",BBC Lifestyle
-https://live.catvod.com/live.php?id=bbclifestyle_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bbclifestyle_twn
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC.png" group-title="SMT纪录📚",TLC
-https://live.catvod.com/live.php?id=Tlc
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Tlc
 #EXTINF:-1 tvg-id="ASIANFOODNETWORKHD" tvg-name="ASIANFOODNETWORKHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ASIANFOODNETWORK亚洲美食.png" group-title="SMT纪录📚",Asian Food Network HD
-https://live.catvod.com/live.php?id=Foodnetwork
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Foodnetwork
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HGTV.png" group-title="SMT纪录📚",HGTV
-https://live.catvod.com/live.php?id=HGTV
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=HGTV
 
 #新闻
 #EXTINF:-1 tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/SKYNEWS.png" group-title="SMT新闻📰",Sky News
-https://live.catvod.com/live.php?id=skynews_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=skynews_twn
 #EXTINF:-1 tvg-id="ABCNEWSLIVE" tvg-name="ABCNEWSLIVE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ABCNEWS.png" group-title="SMT新闻📰",ABC News Live
-https://live.catvod.com/live.php?id=abcnews_glo
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=abcnews_glo
 #EXTINF:-1 tvg-id="CBSSPORTSNETWORKHD" tvg-name="CBSSPORTSNETWORKHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CBSSPORTSNETWORK.png" group-title="SMT新闻📰",CBS Sports Network HD
-https://live.catvod.com/live.php?id=cbshd_glo
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cbshd_glo
 #EXTINF:-1 tvg-id="CBSNEWSNATIONALSTREAM" tvg-name="CBSNEWSNATIONALSTREAM" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/CBSN.png" group-title="SMT新闻📰",CBSN
-https://live.catvod.com/live.php?id=cbsn_glo
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cbsn_glo
 #EXTINF:-1 tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FRANCE24.png" group-title="SMT新闻📰",France 24
-https://live.catvod.com/live.php?id=france24_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=france24_twn
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/DW.png" group-title="SMT新闻📰",DW
-https://live.catvod.com/live.php?id=dw_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=dw_twn
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLD.png" group-title="SMT新闻📰",NHK World
-https://live.catvod.com/live.php?id=nhkworld_japan
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=nhkworld_japan
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="SMT新闻📰",Fox News
-https://live.catvod.com/live.php?id=foxnews_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=foxnews_twn
 #EXTINF:-1 tvg-id="CNNINTERNATIONAL" tvg-name="CNNINTERNATIONAL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="SMT新闻📰",CNN International 1
-https://live.catvod.com/live.php?id=Cnn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Cnn
 #EXTINF:-1 tvg-id="CNNINTERNATIONAL" tvg-name="CNNINTERNATIONAL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="SMT新闻📰",CNN International 2
-https://live.catvod.com/live.php?id=cnn_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cnn_twn
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/CNBC.png" group-title="SMT新闻📰",CNBC
-https://live.catvod.com/live.php?id=cnbc_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cnbc_twn
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNA.png" group-title="SMT新闻📰",CNA
-https://live.catvod.com/live.php?id=cna
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cna
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="SMT新闻📰",BBC World News 1
-https://live.catvod.com/live.php?id=bbcnews_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bbcnews_twn
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="SMT新闻📰",BBC World News 2
-https://live.catvod.com/live.php?id=Bbcnews
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Bbcnews
 #EXTINF:-1 tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/BLOOMBERG.png" group-title="SMT新闻📰",Bloomberg
-https://live.catvod.com/live.php?id=bloomberg_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bloomberg_twn
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ALJAZEERA.png" group-title="SMT新闻📰",Al Jazeera
-https://live.catvod.com/live.php?id=aljazeera_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=aljazeera_twn
 
 #儿童
 #EXTINF:-1 tvg-id="HOREE" tvg-name="HOREE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/HOREE.png" group-title="SMT儿童👶",HOREE
-https://live.catvod.com/live.php?id=Babytv
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Babytv
 #EXTINF:-1 tvg-id="DUNIAANAK" tvg-name="DUNIAANAK" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Dunia anak.png" group-title="SMT儿童👶",Dunia anak
-https://live.catvod.com/live.php?id=Cbeebies
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Cbeebies
 #EXTINF:-1 tvg-id="ANIPLUS" tvg-name="ANIPLUSHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Aniplus.png" group-title="SMT儿童👶",Aniplus
-https://live.catvod.com/live.php?id=KidsTV
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=KidsTV
 #EXTINF:-1 tvg-id="CN卡通频道" tvg-name="CN卡通频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CN卡通频道.png" group-title="SMT儿童👶",CN卡通频道
-https://live.catvod.com/live.php?id=momo1_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=momo1_twn
 #EXTINF:-1 tvg-id="MOONBUG" tvg-name="MOONBUG" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MOONBUG.png" group-title="SMT儿童👶",MOONBUG
-https://live.catvod.com/live.php?id=MiaoMi
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=MiaoMi
 #EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOONNETWORK" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Cartoon Network.png" group-title="SMT儿童👶",Cartoon Network
-https://live.catvod.com/live.php?id=Cn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Cn
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Nickelodeon.png" group-title="SMT儿童👶",Nickelodeon
-https://live.catvod.com/live.php?id=Nickelodeon
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Nickelodeon
 #EXTINF:-1 tvg-id="NICKJR." tvg-name="NICKJR." tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Nick Jr..png" group-title="SMT儿童👶",Nick Jr.
-https://live.catvod.com/live.php?id=Nickjr
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Nickjr
 
 
 #体育
 #EXTINF:-1 tvg-id="ASTROPREMIERLEAGUE" tvg-name="ASTROPREMIERLEAGUE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Premier League.png" group-title="SMT体育🇲🇾",ASTRO Premier League
-https://live.catvod.com/live.php?id=go_assp1
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=go_assp1
 #EXTINF:-1 tvg-id="ASTROPREMIERLEAGUE" tvg-name="ASTROPREMIERLEAGUE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Premier League(Backup).png" group-title="SMT体育🇲🇾",ASTRO Premier League(Backup)
-https://live.catvod.com/live.php?id=go_assp1x
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=go_assp1x
 #EXTINF:-1 tvg-id="ASTROPREMIERLEAGUE2" tvg-name="ASTROPREMIERLEAGUE2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Premier League 2.png" group-title="SMT体育🇲🇾",ASTRO Premier League 2
-https://live.catvod.com/live.php?id=go_assp2
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=go_assp2
 #EXTINF:-1 tvg-id="ASTROGRANDSTAND" tvg-name="ASTROGRANDSTAND" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Grandstand.png" group-title="SMT体育🇲🇾",ASTRO Grandstand
-https://live.catvod.com/live.php?id=go_assp3
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=go_assp3
 #EXTINF:-1 tvg-id="ASTROFOOTBALL" tvg-name="ASTROFOOTBALL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Football.png" group-title="SMT体育🇲🇾",ASTRO Football
-https://live.catvod.com/live.php?id=go_assp4
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=go_assp4
 #EXTINF:-1 tvg-id="ASTROSPORTSPLUS" tvg-name="ASTROSPORTSPLUS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Sports Plus.png" group-title="SMT体育🇲🇾",ASTRO Sports Plus
-https://live.catvod.com/live.php?id=go_sportsplus
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=go_sportsplus
 #EXTINF:-1 tvg-id="ASTROBADMINTON" tvg-name="ASTROBADMINTON" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Badminton.png" group-title="SMT体育🇲🇾",ASTRO Badminton
-https://live.catvod.com/live.php?id=go_badminton1
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=go_badminton1
 #EXTINF:-1 tvg-id="ASTROBADMINTON" tvg-name="ASTROBADMINTON" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Badminton 2.png" group-title="SMT体育🇲🇾",ASTRO Badminton 2
-https://live.catvod.com/live.php?id=go_badminton2
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=go_badminton2
 #EXTINF:-1 tvg-id="WSPORT" tvg-name="WSPORT" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/W Sport.png" group-title="SMT体育🇲🇾",W Sport
-https://live.catvod.com/live.php?id=go_assp5
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=go_assp5
 #EXTINF:-1 tvg-id="SUPERSPORTS" tvg-name="SUPERSPORTS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SuperSports 1.png" group-title="SMT体育🇲🇾",SuperSports 1
-https://live.catvod.com/live.php?id=Assp1
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Assp1
 #EXTINF:-1 tvg-id="SUPERSPORTS" tvg-name="SUPERSPORTS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SuperSports 2.png" group-title="SMT体育🇲🇾",SuperSports 2
-https://live.catvod.com/live.php?id=Assp2
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Assp2
 #EXTINF:-1 tvg-id="SUPERSPORTS" tvg-name="SUPERSPORTS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SuperSports 3.png" group-title="SMT体育🇲🇾",SuperSports 3
-https://live.catvod.com/live.php?id=Assp3
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Assp3
 #EXTINF:-1 tvg-id="SUPERSPORTS" tvg-name="SUPERSPORTS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SuperSports 4.png" group-title="SMT体育🇲🇾",SuperSports 4
-https://live.catvod.com/live.php?id=Assp4
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Assp4
 #EXTINF:-1 tvg-id="WWENETWORK" tvg-name="WWENETWORK" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/WWE Network.png" group-title="SMT体育🇲🇾",WWE Network
-https://live.catvod.com/live.php?id=Wwe
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Wwe
 #EXTINF:-1 tvg-id="FIGHTSPORTS" tvg-name="FIGHTSPORTS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Fight Sports.png" group-title="SMT体育🇲🇾",Fight Sports
-https://live.catvod.com/live.php?id=Fs
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Fs
 #EXTINF:-1 tvg-id="NBATV" tvg-name="NBATV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NBA TV.png" group-title="SMT体育🇲🇾",NBA TV
-https://live.catvod.com/live.php?id=Nba
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Nba
 #EXTINF:-1 tvg-id="ASTROCRICKET" tvg-name="ASTROCRICKET" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Cricket.png" group-title="SMT体育🇲🇾",ASTRO Cricket
-https://live.catvod.com/live.php?id=Acricket
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Acricket
 #EXTINF:-1 tvg-id="ASTROCRICKET" tvg-name="ASTROCRICKET" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Cricket(Backup).png" group-title="SMT体育🇲🇾",ASTRO Cricket(Backup)
-https://live.catvod.com/live.php?id=tiankongcricket
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tiankongcricket
 #EXTINF:-1 tvg-id="ASTROGOLF" tvg-name="ASTROGOLF" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Golf.png" group-title="SMT体育🇲🇾",ASTRO Golf
-https://live.catvod.com/live.php?id=Agolf
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Agolf
 #EXTINF:-1 tvg-id="TNTSPORTS1HD" tvg-name="TNTSPORTS1HD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNT Sports 1 HD.png" group-title="SMT体育🇲🇾",TNT Sports 1 HD
-https://live.catvod.com/live.php?id=6fac0aaead
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=6fac0aaead
 #EXTINF:-1 tvg-id="TNTSPORTS2HD" tvg-name="TNTSPORTS2HD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNT Sports 2 HD.png" group-title="SMT体育🇲🇾",TNT Sports 2 HD
-https://live.catvod.com/live.php?id=d9a76a79cc
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=d9a76a79cc
 #EXTINF:-1 tvg-id="TNTSPORTS3HD" tvg-name="TNTSPORTS3HD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNT Sports 3 HD.png" group-title="SMT体育🇲🇾",TNT Sports 3 HD
-https://live.catvod.com/live.php?id=5fea4d73db
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=5fea4d73db
 #EXTINF:-1 tvg-id="TNTSPORTS4HD" tvg-name="TNTSPORTS4HD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNT Sports 4 HD.png" group-title="SMT体育🇲🇾",TNT Sports 4 HD
-https://live.catvod.com/live.php?id=tntsport4
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tntsport4
 #EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sony Ten 1.png" group-title="SMT体育🇲🇾",Sony Ten 1
-https://live.catvod.com/live.php?id=ten1_raj
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ten1_raj
 #EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sony Ten 2.png" group-title="SMT体育🇲🇾",Sony Ten 2
-https://live.catvod.com/live.php?id=ten2_raj
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ten2_raj
 #EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sony Ten 3.png" group-title="SMT体育🇲🇾",Sony Ten 3
-https://live.catvod.com/live.php?id=ten3_raj
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ten3_raj
 #EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SPOTV.png" group-title="SMT体育🇲🇾",SPOTV
-https://live.catvod.com/live.php?id=go_spotv
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=go_spotv
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SPOTV 2.png" group-title="SMT体育🇲🇾",SPOTV 2
-https://live.catvod.com/live.php?id=go_spotv2
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=go_spotv2
 #EXTINF:-1 tvg-id="SKYSPF1" tvg-name="SKYSPF1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SkySp F1.png" group-title="SMT体育🇲🇾",SkySp F1
-https://live.catvod.com/live.php?id=tiankongf1
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tiankongf1
 #EXTINF:-1 tvg-id="SKYSPMAINEVHD" tvg-name="SKYSPMAINEVHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SkySpMainEv.png" group-title="SMT体育🇲🇾",SkySpMainEv
-https://live.catvod.com/live.php?id=tiankongmain
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tiankongmain
 #EXTINF:-1 tvg-id="SKYSPNEWSHD" tvg-name="SKYSPNEWSHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SkySp News HD.png" group-title="SMT体育🇲🇾",SkySp News HD
-https://live.catvod.com/live.php?id=tiankongnews
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tiankongnews
 #EXTINF:-1 tvg-id="SKYSPMIXHD" tvg-name="SKYSPMIXHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SkySp Mix HD.png" group-title="SMT体育🇲🇾",SkySp Mix HD
-https://live.catvod.com/live.php?id=tiankongmix
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tiankongmix
 #EXTINF:-1 tvg-id="PREMIERSPORTS" tvg-name="PREMIERSPORTS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/PREMIER SPORTS.png" group-title="SMT体育🇲🇾",PREMIER SPORTS
-https://live.catvod.com/live.php?id=Rugbypasstv
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Rugbypasstv
 #EXTINF:-1 tvg-id="RTM Sports" tvg-name="RTM Sports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTM Sports.png" group-title="SMT体育🇲🇾",RTM Sports
-https://live.catvod.com/live.php?id=Rtmsport
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Rtmsport
 #EXTINF:-1 tvg-id="Bola Arena" tvg-name="ARENA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Bola Arena.png" group-title="SMT体育🇲🇾",Bola Arena
-https://live.catvod.com/live.php?id=Arena
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Arena
 #EXTINF:-1 tvg-id="ASTROARENA2" tvg-name="ASTROARENA2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Arena 2.png" group-title="SMT体育🇲🇾",ASTRO Arena 2
-https://live.catvod.com/live.php?id=Arena2
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Arena2
 #EXTINF:-1 tvg-id="ASTROARENABOLA" tvg-name="ASTROARENABOLA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Arena bola.png" group-title="SMT体育🇲🇾",ASTRO Arena bola
-https://live.catvod.com/live.php?id=Bolaarena1
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Bolaarena1
 #EXTINF:-1 tvg-id="ASTRO2" tvg-name="ASTROARENABOLA2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Arena bola 2.png" group-title="SMT体育🇲🇾",ASTRO Arena bola 2
-https://live.catvod.com/live.php?id=Bolaarena2
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Bolaarena2
 #EXTINF:-1 tvg-id="BEINSPORTS1" tvg-name="BEINSPORTS1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 1.png" group-title="SMT体育🇲🇾",beIN Sports 1
-https://live.catvod.com/live.php?id=Astrobein1
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Astrobein1
 #EXTINF:-1 tvg-id="BEINSPORTS2" tvg-name="BEINSPORTS2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 2.png" group-title="SMT体育🇲🇾",beIN Sports 2
-https://live.catvod.com/live.php?id=Astrobein2
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Astrobein2
 #EXTINF:-1 tvg-id="BEINSPORTS3" tvg-name="BEINSPORTS3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 3.png" group-title="SMT体育🇲🇾",beIN Sports 3
-https://live.catvod.com/live.php?id=Astrobein3
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Astrobein3
 
 #马来西亚
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV1.png" group-title="SMT马来西亚🇲🇾",TV1
-https://live.catvod.com/live.php?id=TV1
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=TV1
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV1.png" group-title="SMT马来西亚🇲🇾",TV1
-https://live.catvod.com/live.php?id=TV1_backup
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=TV1_backup
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV2.png" group-title="SMT马来西亚🇲🇾",TV2
-https://live.catvod.com/live.php?id=TV2
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=TV2
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV3.png" group-title="SMT马来西亚🇲🇾",TV3
-https://live.catvod.com/live.php?id=TV3
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=TV3
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV3.png" group-title="SMT马来西亚🇲🇾",TV3
-https://live.catvod.com/live.php?id=TV3_mega
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=TV3_mega
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NTV7.png" group-title="SMT马来西亚🇲🇾",NTV7
-https://live.catvod.com/live.php?id=NTV7
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=NTV7
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/8TV.png" group-title="SMT马来西亚🇲🇾",8TV
-https://live.catvod.com/live.php?id=TV8
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=TV8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV9.png" group-title="SMT马来西亚🇲🇾",TV9
-https://live.catvod.com/live.php?id=TV9
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=TV9
 #EXTINF:-1 tvg-id="ASTRORIA" tvg-name="ASTRORIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Ria.png" group-title="SMT马来西亚🇲🇾",Astro Ria
-https://live.catvod.com/live.php?id=Ria-0
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Ria-0
 #EXTINF:-1 tvg-id="ASTRORIA" tvg-name="ASTRORIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Ria.png" group-title="SMT马来西亚🇲🇾",Astro Ria
-https://live.catvod.com/live.php?id=Ria_backup
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Ria_backup
 #EXTINF:-1 tvg-id="TVALHIJRAHHD" tvg-name="TVALHIJRAH" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV Alhijrah.png" group-title="SMT马来西亚🇲🇾",TV Alhijrah
-https://live.catvod.com/live.php?id=Alhijrah
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Alhijrah
 #EXTINF:-1 tvg-id="TVALHIJRAHHD" tvg-name="TVALHIJRAH" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV Alhijrah.png" group-title="SMT马来西亚🇲🇾",TV Alhijrah
-https://live.catvod.com/live.php?id=Alhijrah_backup
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Alhijrah_backup
 #EXTINF:-1 tvg-id="ASTROPRIMA" tvg-name="ASTROPRIMA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Prima.png" group-title="SMT马来西亚🇲🇾",Astro Prima
-https://live.catvod.com/live.php?id=Prima-0
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Prima-0
 #EXTINF:-1 tvg-id="ASTROPRIMA" tvg-name="ASTROPRIMA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Prima.png" group-title="SMT马来西亚🇲🇾",Astro Prima
-https://live.catvod.com/live.php?id=AAprima1
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=AAprima1
 #EXTINF:-1 tvg-id="ASTROPRIMA" tvg-name="ASTROPRIMA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Prima.png" group-title="SMT马来西亚🇲🇾",Astro Prima
-https://live.catvod.com/live.php?id=AAprima
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=AAprima
 #EXTINF:-1 tvg-id="ASTROCITRA" tvg-name="ASTROCITRA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Citra.png" group-title="SMT马来西亚🇲🇾",Astro Citra
-https://live.catvod.com/live.php?id=AAcitra
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=AAcitra
 #EXTINF:-1 tvg-id="ASTROCITRA" tvg-name="ASTROCITRA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Citra.png" group-title="SMT马来西亚🇲🇾",Astro Citra
-https://live.catvod.com/live.php?id=AAcitra1
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=AAcitra1
 
 #新加坡
 #EXTINF:-1 tvg-id="CHANNEL5" tvg-name="CHANNEL5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 5.png" group-title="SMT新加坡🇸🇬",Channel 5
-https://live.catvod.com/live.php?id=Channel5HD
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Channel5HD
 #EXTINF:-1 tvg-id="CHANNEL8" tvg-name="CHANNEL8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 8.png" group-title="SMT新加坡🇸🇬",Channel 8
-https://live.catvod.com/live.php?id=Channel8HD
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Channel8HD
 #EXTINF:-1 tvg-id="CHANNELU" tvg-name="CHANNELU" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel U.png" group-title="SMT新加坡🇸🇬",Channel U
-https://live.catvod.com/live.php?id=ChannelU
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ChannelU
 #EXTINF:-1 tvg-id="SURIA" tvg-name="CHANNELSURIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Suria.png" group-title="SMT新加坡🇸🇬",Suria
-https://live.catvod.com/live.php?id=Suria
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Suria
 #EXTINF:-1 tvg-id="VASANTHAM" tvg-name="CHANNELVASANTHAM" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Vasantham.png" group-title="SMT新加坡🇸🇬",Vasantham
-https://live.catvod.com/live.php?id=Vasantham
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Vasantham
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CNA.png" group-title="SMT新加坡🇸🇬",CNA
-https://live.catvod.com/live.php?id=cna_twn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cna_twn
 #EXTINF:-1 tvg-id="CHANNEL5" tvg-name="CHANNEL5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Channel 5.png" group-title="SMT新加坡🇸🇬",Mewatch Channel 5
-https://live.catvod.com/live.php?id=Mewatch_ch5
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Mewatch_ch5
 #EXTINF:-1 tvg-id="CHANNEL8" tvg-name="CHANNEL8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Channel 8.png" group-title="SMT新加坡🇸🇬",Mewatch Channel 8
-https://live.catvod.com/live.php?id=Mewatch_ch8
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Mewatch_ch8
 #EXTINF:-1 tvg-id="CHANNELU" tvg-name="CHANNELU" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Channel U.png" group-title="SMT新加坡🇸🇬",Mewatch Channel U
-https://live.catvod.com/live.php?id=Mewatch_chU
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Mewatch_chU
 #EXTINF:-1 tvg-id="SURIA" tvg-name="RIA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Suria.png" group-title="SMT新加坡🇸🇬",Mewatch Suria
-https://live.catvod.com/live.php?id=Mewatch_Suria
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Mewatch_Suria
 #EXTINF:-1 tvg-id="VASANTHAM" tvg-name="VASANTHAM" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Vasantham.png" group-title="SMT新加坡🇸🇬",Mewatch Vasantham
-https://live.catvod.com/live.php?id=Mewatch_Vasantham
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Mewatch_Vasantham
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch CNA.png" group-title="SMT新加坡🇸🇬",Mewatch CNA
-https://live.catvod.com/live.php?id=Mewatch_cna
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Mewatch_cna
 
 #印尼
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TVRI.png" group-title="SMT印尼🇮🇩",TVRI
-https://live.catvod.com/live.php?id=TVRI
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=TVRI
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RCTI.png" group-title="SMT印尼🇮🇩",RCTI
-https://live.catvod.com/live.php?id=Rcti
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Rcti
 #EXTINF:-1 tvg-id="KOMPASTV" tvg-name="KOMPASTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Kompas TV.png" group-title="SMT印尼🇮🇩",Kompas TV
-https://live.catvod.com/live.php?id=Kompass
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Kompass
 #EXTINF:-1 tvg-id="BERITASATU" tvg-name="BERITASATU" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BeritaSatu.png" group-title="SMT印尼🇮🇩",BeritaSatu
-https://live.catvod.com/live.php?id=BeritaSatu_eko
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=BeritaSatu_eko
 #EXTINF:-1 tvg-id="INDOSIAR" tvg-name="INDOSIAR" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Indosiar.png" group-title="SMT印尼🇮🇩",Indosiar
-https://live.catvod.com/live.php?id=Indosiar
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Indosiar
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ANTV.png" group-title="SMT印尼🇮🇩",ANTV
-https://live.catvod.com/live.php?id=Antv
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Antv
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MNCTV.png" group-title="SMT印尼🇮🇩",MNCTV
-https://live.catvod.com/live.php?id=Mnctv
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Mnctv
 #EXTINF:-1 tvg-id="TRANS7" tvg-name="TRANS7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Trans7.png" group-title="SMT印尼🇮🇩",Trans7
-https://live.catvod.com/live.php?id=Trans7_eko
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Trans7_eko
 #EXTINF:-1 tvg-id="TRANSTV" tvg-name="TRANSTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Trans TV.png" group-title="SMT印尼🇮🇩",Trans TV
-https://live.catvod.com/live.php?id=Transtv
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Transtv
 #EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/JTV.png" group-title="SMT印尼🇮🇩",JTV
-https://live.catvod.com/live.php?id=JTV_eko
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=JTV_eko
 #EXTINF:-1 tvg-id="METROTV" tvg-name="METROTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Metro TV.png" group-title="SMT印尼🇮🇩",Metro TV
-https://live.catvod.com/live.php?id=metrotv_eko
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=metrotv_eko
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SCTV.png" group-title="SMT印尼🇮🇩",SCTV
-https://live.catvod.com/live.php?id=SCTV
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=SCTV
 #EXTINF:-1 tvg-id="TVONE" tvg-name="TVONE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/tvOne.png" group-title="SMT印尼🇮🇩",tvOne
-https://live.catvod.com/live.php?id=Tvone
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Tvone
 #EXTINF:-1 tvg-id="TV Muhammadiyah" tvg-name="TV Muhammadiyah" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV Muhammadiyah.png" group-title="SMT印尼🇮🇩",TV Muhammadiyah
-https://live.catvod.com/live.php?id=TVMU_eko
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=TVMU_eko
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/GTV.png" group-title="SMT印尼🇮🇩",GTV
-https://live.catvod.com/live.php?id=Gtv
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Gtv
 #EXTINF:-1 tvg-id="BRTVINTERNATIONAL" tvg-name="RTVINTERNATIONAL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTV.png" group-title="SMT印尼🇮🇩",RTV
-https://live.catvod.com/live.php?id=Rtv
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Rtv
 #EXTINF:-1 tvg-id="JAKTV" tvg-name="JAKTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Jak TV.png" group-title="SMT印尼🇮🇩",Jak TV
-https://live.catvod.com/live.php?id=JakTV
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=JakTV
 #EXTINF:-1 tvg-id="INEWS" tvg-name="INEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/iNews TV.png" group-title="SMT印尼🇮🇩",iNews TV
-https://live.catvod.com/live.php?id=Inewstv
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Inewstv
 #EXTINF:-1 tvg-id="DAAITV" tvg-name="ONE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/DAAI TV Indonesia.png" group-title="SMT印尼🇮🇩",DAAI TV Indonesia
-https://live.catvod.com/live.php?id=DaaiTV
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=DaaiTV
 #EXTINF:-1 tvg-id="NET." tvg-name="NET." tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NET..png" group-title="SMT印尼🇮🇩",NET.
-https://live.catvod.com/live.php?id=NetTV
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=NetTV
 #EXTINF:-1 tvg-id="EWTNCATHOLIC" tvg-name="EWTNCATHOLIC" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/EWTN Catholic TV.png" group-title="SMT印尼🇮🇩",EWTN Catholic TV
-https://live.catvod.com/live.php?id=Ewtn
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Ewtn
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Al-Qur'an Al-Kareem TV.png" group-title="SMT印尼🇮🇩",Al-Qur'an Al-Kareem TV
-https://live.catvod.com/live.php?id=AlQuran
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=AlQuran
 #EXTINF:-1 tvg-id="ASTROCITRA" tvg-name="CITRADRAMA(HD)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Citra Drama.png" group-title="SMT印尼🇮🇩",Citra Drama
-https://live.catvod.com/live.php?id=TawafTV
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=TawafTV
 #EXTINF:-1 tvg-id="VISIONPRIME" tvg-name="VISIONPRIME" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Vision Prime.png" group-title="SMT印尼🇮🇩",Vision Prime
-https://live.catvod.com/live.php?id=VisionPrime
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=VisionPrime
 #EXTINF:-1 tvg-id="MTATV" tvg-name="MTATV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MTATV.png" group-title="SMT印尼🇮🇩",MTATV
-https://live.catvod.com/live.php?id=MuslimTV
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=MuslimTV
 #EXTINF:-1 tvg-id="MUSIKINDONESIA" tvg-name="ONE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Musik Indonesia.png" group-title="SMT印尼🇮🇩",Musik Indonesia
-https://live.catvod.com/live.php?id=MusicTV
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=MusicTV
 #EXTINF:-1 tvg-id="ATV" tvg-name="CENTROAMéRICATV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ATV.png" group-title="SMT印尼🇮🇩",ATV
-https://live.catvod.com/live.php?id=Lifestyle
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Lifestyle
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-name="ENTERTAINMENT" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Entertainment TV.png" group-title="SMT印尼🇮🇩",Entertainment TV
-https://live.catvod.com/live.php?id=Entertain
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Entertain
 
 #印度
 #EXTINF:-1 tvg-id="SUNTV" tvg-name="SUNTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sun TV.png" group-title="SMT印度🇮🇳",Sun TV
-https://live.catvod.com/live.php?id=Suntv
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Suntv
 #EXTINF:-1 tvg-id="STARVIJAY" tvg-name="STARVIJAY" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Star Vijay.png" group-title="SMT印度🇮🇳",Star Vijay
-https://live.catvod.com/live.php?id=Starvijay
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Starvijay
 #EXTINF:-1 tvg-id="COLORSTAMIL" tvg-name="COLORSTAMIL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Colors Tamil.png" group-title="SMT印度🇮🇳",Colors Tamil
-https://live.catvod.com/live.php?id=Colorstam
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Colorstam
 #EXTINF:-1 tvg-id="SUNMUSIC" tvg-name="SUNMUSIC" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sun Music.png" group-title="SMT印度🇮🇳",Sun Music
-https://live.catvod.com/live.php?id=Sunmusic
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Sunmusic
 #EXTINF:-1 tvg-id="SUNLIFE" tvg-name="SUNLIFE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sun Life.png" group-title="SMT印度🇮🇳",Sun Life
-https://live.catvod.com/live.php?id=Sunlife
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Sunlife
 #EXTINF:-1 tvg-id="ZEETAMIL" tvg-name="ZEETAMIL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Zee Tamil.png" group-title="SMT印度🇮🇳",Zee Tamil
-https://live.catvod.com/live.php?id=Zeetamil
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Zeetamil
 #EXTINF:-1 tvg-id="ZEEBUSINESS" tvg-name="Z" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Zee Business.png" group-title="SMT印度🇮🇳",Zee Business
-https://live.catvod.com/live.php?id=Zeebusiness
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Zeebusiness
 #EXTINF:-1 tvg-id="NEWS18TAMILNADU" tvg-name="NEWS18TAMILNADU" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/News18 Tamil Nadu.png" group-title="SMT印度🇮🇳",News18 Tamil Nadu
-https://live.catvod.com/live.php?id=news18tamil_raj
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=news18tamil_raj
 #EXTINF:-1 tvg-id="ADITHYATV" tvg-name="ADITHYATV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Adithya TV.png" group-title="SMT印度🇮🇳",Adithya TV
-https://live.catvod.com/live.php?id=Adithya
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Adithya
 
 #泰国🇹🇭
 #EXTINF:-1 tvg-id="Channel 3 HD Thailand" tvg-name="Channel 3 HD Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 3 HD Thailand.png" group-title="SMT泰国🇹🇭",Channel 3 HD Thailand
-https://live.catvod.com/live.php?id=ch3_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ch3_pat
 #EXTINF:-1 tvg-id="MY" tvg-name="YTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Royal Thai Army TV 5 HD Thailand.png" group-title="SMT泰国🇹🇭",Royal Thai Army TV 5 HD Thailand
-https://live.catvod.com/live.php?id=ch5_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ch5_pat
 #EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BBTV Channel 7 HD Thailand.png" group-title="SMT泰国🇹🇭",BBTV Channel 7 HD Thailand
-https://live.catvod.com/live.php?id=ch7_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ch7_pat
 #EXTINF:-1 tvg-id="MCOT HD (Channel 30) Thailand" tvg-name="MCOT HD (Channel 30) Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MCOT HD (Channel 30) Thailand.png" group-title="SMT泰国🇹🇭",MCOT HD (Channel 30) Thailand
-https://live.catvod.com/live.php?id=mcot_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=mcot_pat
 #EXTINF:-1 tvg-id="PPTV HD (Channel 36) Thailand" tvg-name="PPTV HD (Channel 36) Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/PPTV HD (Channel 36) Thailand.png" group-title="SMT泰国🇹🇭",PPTV HD (Channel 36) Thailand
-https://live.catvod.com/live.php?id=pptv_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=pptv_pat
 #EXTINF:-1 tvg-id="W" tvg-name="W" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Thai TV Global Network (TGN).png" group-title="SMT泰国🇹🇭",Thai TV Global Network (TGN)
-https://live.catvod.com/live.php?id=thaithai_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=thaithai_pat
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTVHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Amarin TV HD (Channel 34) Thailand.png" group-title="SMT泰国🇹🇭",Amarin TV HD (Channel 34) Thailand
-https://live.catvod.com/live.php?id=amarin_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=amarin_pat
 #EXTINF:-1 tvg-id="CHANNEL8" tvg-name="CHANNEL8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 8 Thailand.png" group-title="SMT泰国🇹🇭",Channel 8 Thailand
-https://live.catvod.com/live.php?id=ch8_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ch8_pat
 #EXTINF:-1 tvg-id="ONE" tvg-name="ONE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/One 31 Thailand.png" group-title="SMT泰国🇹🇭",One 31 Thailand
-https://live.catvod.com/live.php?id=gmmone_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=gmmone_pat
 #EXTINF:-1 tvg-id="Mono 29 Thailand" tvg-name="Mono 29 Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mono 29 Thailand.png" group-title="SMT泰国🇹🇭",Mono 29 Thailand
-https://live.catvod.com/live.php?id=mono_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=mono_pat
 #EXTINF:-1 tvg-id="Thairath TV HD (Channel 32) Thailand" tvg-name="Thairath TV HD (Channel 32) Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Thairath TV HD (Channel 32) Thailand.png" group-title="SMT泰国🇹🇭",Thairath TV HD (Channel 32) Thailand
-https://live.catvod.com/live.php?id=thairath_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=thairath_pat
 #EXTINF:-1 tvg-id="Thai PBS HD Thailand" tvg-name="Thai PBS HD Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Thai PBS HD Thailand.png" group-title="SMT泰国🇹🇭",Thai PBS HD Thailand
-https://live.catvod.com/live.php?id=tpbs_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tpbs_pat
 #EXTINF:-1 tvg-id="W" tvg-name="W" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Workpoint TV (Channel 23) Thailand.png" group-title="SMT泰国🇹🇭",Workpoint TV (Channel 23) Thailand
-https://live.catvod.com/live.php?id=workpoint_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=workpoint_pat
 #EXTINF:-1 tvg-id="GMM 25 Thailand" tvg-name="GMM 25 Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/GMM 25 Thailand.png" group-title="SMT泰国🇹🇭",GMM 25 Thailand
-https://live.catvod.com/live.php?id=gmmchannel_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=gmmchannel_pat
 #EXTINF:-1 tvg-id="IONTV" tvg-name="IONTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Nation TV (Channel 22) Thailand.png" group-title="SMT泰国🇹🇭",Nation TV (Channel 22) Thailand
-https://live.catvod.com/live.php?id=nation_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=nation_pat
 #EXTINF:-1 tvg-id="TNN 24 Thailand" tvg-name="TNN 24 Thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNN 24 Thailand.png" group-title="SMT泰国🇹🇭",TNN 24 Thailand
-https://live.catvod.com/live.php?id=tnn24_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tnn24_pat
 #EXTINF:-1 tvg-id="NBT2HD (National Broadcasting Services of Thailand)" tvg-name="VICE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NBT2HD (National Broadcasting Services of Thailand).png" group-title="SMT泰国🇹🇭",NBT2HD (National Broadcasting Services of Thailand)
-https://live.catvod.com/live.php?id=nbt_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=nbt_pat
 #EXTINF:-1 tvg-id="W" tvg-name="W" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/News18 Thailand.png" group-title="SMT泰国🇹🇭",News18 Thailand
-https://live.catvod.com/live.php?id=new_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=new_pat
 #EXTINF:-1 tvg-id="TPTV (Parliament TV Thailand)" tvg-name="PARLIAMENT" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TPTV (Parliament TV Thailand).png" group-title="SMT泰国🇹🇭",TPTV (Parliament TV Thailand)
-https://live.catvod.com/live.php?id=tptv_pat
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tptv_pat
 
 
 #英国 英国🇬🇧
 #EXTINF:-1 tvg-id="BBC One S East HD" tvg-name="BBCONENEANDCHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BBC-One.png" group-title="SMT英国🇬🇧",BBC One
-https://live.catvod.com/live.php?id=bbc1_antik
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bbc1_antik
 #EXTINF:-1 tvg-id="BBC Two HD" tvg-name="BBCTWOWALHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BBC-Two.png" group-title="SMT英国🇬🇧",BBC Two
-https://live.catvod.com/live.php?id=bbc2_antik
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bbc2_antik
 #EXTINF:-1 tvg-id="CBBCHD" tvg-name="CBBCHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CBBCHD.png" group-title="SMT英国🇬🇧",CBBC
-https://live.catvod.com/live.php?id=cbbc_antik
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cbbc_antik
 #EXTINF:-1 tvg-id="MORE4" tvg-name="MORE4+1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MORE4.png" group-title="SMT英国🇬🇧",More4
-https://live.catvod.com/live.php?id=more4_antik
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=more4_antik
 #EXTINF:-1 tvg-id="FreeSports" tvg-name="FreeSports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/FreeSports.png" group-title="SMT英国🇬🇧",FreeSports
-https://live.catvod.com/live.php?id=freesports_antik
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=freesports_antik
 #EXTINF:-1 tvg-id="Pick" tvg-name="Pick" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Pick.png" group-title="SMT英国🇬🇧",Pick
-https://live.catvod.com/live.php?id=picktv_antik
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=picktv_antik
 #EXTINF:-1 tvg-id="ITV1 HD" tvg-name="ITV1+1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ITV-1.png" group-title="SMT英国🇬🇧",ITV 1
-https://live.catvod.com/live.php?id=itv1_antik
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=itv1_antik
 #EXTINF:-1 tvg-id="ITV1 HD" tvg-name="ITV2+1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ITV-1.png" group-title="SMT英国🇬🇧",ITV 2
-https://live.catvod.com/live.php?id=itv2_antik
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=itv2_antik
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="EURONEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/EURONEWS.png" group-title="SMT英国🇬🇧",Euronews
-https://live.catvod.com/live.php?id=euronews_antik
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=euronews_antik
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="CHANNEL4+1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 4 +1.png" group-title="SMT英国🇬🇧",Channel 4 +1
-https://live.catvod.com/live.php?id=channel4_antik
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=channel4_antik
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="SMT英国🇬🇧",BBC World News
-https://live.catvod.com/live.php?id=bbcworldnews_antik
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bbcworldnews_antik
 
 
 #YSP
