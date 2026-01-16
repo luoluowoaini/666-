@@ -48,7 +48,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=6
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/凤凰中文.png" group-title="风云港澳台🌏",凤凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=27
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB翡翠.png" group-title="风云港澳台🌏",TVB翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB翡翠.png" group-title="风云港澳台🌏",翡翠台
 http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 tvg-id="TVBJADEHD" tvg-name="TVBJADEHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB翡翠.png" group-title="风云港澳台🌏",TVB JADE
 http://iptv.4666888.xyz/iptv2A.php?id=28
