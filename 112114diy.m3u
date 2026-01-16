@@ -334,6 +334,86 @@ http://cdn10.163189.xyz/163189/typd
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映经典.png" group-title="🌏海外频道",天映经典
 http://cdn10.163189.xyz/163189/ccm
 
+#iill测试
+#testiill
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBCEARTH" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/bbcearth.png" group-title="🛠️TEST-iill",BBC Earth
+https://hls.iill.top/api/BBC-Earth/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBCLIFESTYLE" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/bbclifestyle.png" group-title="🛠️TEST-iill",BBC Lifestyle
+https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/discovery.png" group-title="🛠️TEST-iill",Discovery
+https://hls.iill.top/api/Discovery/playlist.m3u8
+#EXTINF:-1 tvg-id="天映频道马来西亚" tvg-name="天映频道马来西亚" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/天映频道.png" group-title="🛠️TEST-iill",天映頻道
+https://tv.iill.top/x/typd
+#EXTINF:-1 tvg-id="動物星球" tvg-name="动物星球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动物星球.png" group-title="🛠️TEST-iill",動物星球
+https://tv.iill.top/x/dwxq
+#EXTINF:-1 tvg-id="緯來日本" tvg-name="纬来日本台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来日本.png" group-title="🛠️TEST-iill",緯來日本
+https://tv.iill.top/x/wlrb
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="纬来体育台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来体育.png" group-title="🛠️TEST-iill",緯來體育
+https://tv.iill.top/x/wlty
+#EXTINF:-1 tvg-id="緯來電影" tvg-name="纬来电影台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来电影.png" group-title="🛠️TEST-iill",緯來電影
+https://tv.iill.top/x/wldy
+#EXTINF:-1 tvg-id="東森電影" tvg-name="东森电影台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/东森电影.png" group-title="🛠️TEST-iill",東森電影
+https://tv.iill.top/x/dsdy
+#EXTINF:-1 tvg-id="龍翔時代" tvg-name="龍翔時代" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/龍翔時代.png" group-title="🛠️TEST-iill",龍翔時代
+https://tv.iill.top/x/lxsd
+
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TNT Sport 1.png" group-title="🛠️TEST-iill",TNT Sport 1
+https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TNT Sport 2.png" group-title="🛠️TEST-iill",TNT Sport 2
+https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TNT Sport 3.png" group-title="🛠️TEST-iill",TNT Sport 3
+https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TNT Sport 4.png" group-title="🛠️TEST-iill",TNT Sport 4
+https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="BEINSPORTS1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 1.png" group-title="🛠️TEST-iill",beIN Sports 1
+http://hls.iill.top/api/beIN-Sports-1/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="BEINSPORTS2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 2.png" group-title="🛠️TEST-iill",beIN Sports 2
+http://hls.iill.top/api/beIN-Sports-2/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 3 HD" tvg-name="BEINSPORTS3" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 3.png" group-title="🛠️TEST-iill",beIN Sports 3
+http://hls.iill.top/api/beIN-Sports-3/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="BEINSPORTS4" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/main/SPORTS4.png" group-title="🛠️TEST-iill",beIN Sports 4
+http://hls.iill.top/api/beIN-Sports-4/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="BEINSPORTS5" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/RT.png" group-title="🛠️TEST-iill",beIN Sports 5
+http://hls.iill.top/api/beIN-Sports-5/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="HUBPREMIER1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HUB Premier 1.png" group-title="🛠️TEST-iill",Hub Premier 1
+http://hls.iill.top/api/Hub-Premier-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="HUBPREMIER2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-2.png" group-title="🛠️TEST-iill",Hub Premier 2
+http://hls.iill.top/api/Hub-Premier-2/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="HUBPREMIER3" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-3.png" group-title="🛠️TEST-iill",Hub Premier 3
+http://hls.iill.top/api/Hub-Premier-3/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="HUBPREMIER4" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-4.png" group-title="🛠️TEST-iill",Hub Premier 4
+http://hls.iill.top/api/Hub-Premier-4/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="HUBPREMIER5" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-5.png" group-title="🛠️TEST-iill",Hub Premier 5
+http://hls.iill.top/api/Hub-Premier-5/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="HUBPREMIER6" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-6.png" group-title="🛠️TEST-iill",Hub Premier 6
+http://hls.iill.top/api/Hub-Premier-6/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="HUBPREMIER7" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-7.png" group-title="🛠️TEST-iill",Hub Premier 7
+http://hls.iill.top/api/Hub-Premier-7/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="HUBPREMIER8" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-8.png" group-title="🛠️TEST-iill",Hub Premier 8
+http://hls.iill.top/api/Hub-Premier-8/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="HUBSPORTS1HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-1.png" group-title="🛠️TEST-iill",Hub Sports 1
+http://hls.iill.top/api/Hub-Sports-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="HUBSPORTS2HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-2.png" group-title="🛠️TEST-iill",Hub Sports 2
+http://hls.iill.top/api/Hub-Sports-2/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="HUBSPORTS3HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-3.png" group-title="🛠️TEST-iill",Hub Sports 3
+http://hls.iill.top/api/Hub-Sports-3/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="HUBSPORTS4HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-4.png" group-title="🛠️TEST-iill",Hub Sports 4
+http://hls.iill.top/api/Hub-Sports-4/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="HUBSPORTS5HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-5.png" group-title="🛠️TEST-iill",Hub Sports 5
+http://hls.iill.top/api/Hub-Sports-5/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="HUBSPORTS6" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/RT.png" group-title="🛠️TEST-iill",Hub Sports 6
+http://hls.iill.top/api/Hub-Sports-6/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 7" tvg-name="HUBSPORTS7" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/RT.png" group-title="🛠️TEST-iill",Hub Sports 7
+http://hls.iill.top/api/Hub-Sports-7/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="HUBSPORTS8" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/RT.png" group-title="🛠️TEST-iill",Hub Sports 8
+http://hls.iill.top/api/Hub-Sports-8/playlist.m3u8
+#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHTSPORTS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Fight Sports.png" group-title="🛠️TEST-iill",Fight Sports
+http://hls.iill.top/api/Fight-Sports/playlist.m3u8
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Spotv-1.png" group-title="🛠️TEST-iill",Spotv 1
+http://hls.iill.top/api/Spotv-1/playlist.m3u8
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SPOTV 2.png" group-title="🛠️TEST-iill",Spotv 2
+http://hls.iill.top/api/Spotv-2/playlist.m3u8
+
 
 #iill
 #iill
