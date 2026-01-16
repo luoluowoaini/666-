@@ -48,13 +48,13 @@ http://iptv.4666888.xyz/iptv2A.php?id=6
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/凤凰中文.png" group-title="风云港澳台🌏",凤凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=27
-#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB翡翠.png" group-title="风云港澳台🌏",TVB翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB翡翠.png" group-title="风云港澳台🌏",TVB翡翠台
 http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-id="TVBJADE(HD)" tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB翡翠.png" group-title="风云港澳台🌏",TVBJADE(HD)
+#EXTINF:-1 tvg-id="TVBJADEHD" tvg-name="TVBJADEHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB翡翠.png" group-title="风云港澳台🌏",TVB JADE
 http://iptv.4666888.xyz/iptv2A.php?id=28
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB明珠.png" group-title="风云港澳台🌏",明珠台
 http://iptv.4666888.xyz/iptv2A.php?id=29
-#EXTINF:-1 tvg-id="TVBJ" tvg-name="TVBJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="风云港澳台🌏",TVBJ
+#EXTINF:-1 tvg-id="TVB翡翠综合台(TVBJ1)" tvg-name="TVB翡翠综合台(TVBJ1)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="风云港澳台🌏",TVB翡翠综合台(TVBJ1)
 http://iptv.4666888.xyz/iptv2A.php?id=26
 #EXTINF:-1 tvg-id="翡翠一台(TVB1)" tvg-name="翡翠一台(TVB1)" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB1.png" group-title="风云港澳台🌏",翡翠一台(TVB1)
 http://iptv.4666888.xyz/iptv2A.php?id=25
