@@ -371,9 +371,9 @@ http://hls.iill.top/api/beIN-Sports-1/playlist.m3u8
 http://hls.iill.top/api/beIN-Sports-2/playlist.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 3 HD" tvg-name="BEINSPORTS3" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 3.png" group-title="🛠️TEST-iill",beIN Sports 3
 http://hls.iill.top/api/beIN-Sports-3/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="BEINSPORTS4" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/main/main/beIN Sports 4.png" group-title="🛠️TEST-iill",beIN Sports 4
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="BEINSPORTS4" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/main/beIN-Sports-4.png" group-title="🛠️TEST-iill",beIN Sports 4
 http://hls.iill.top/api/beIN-Sports-4/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="BEINSPORTS5" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/main/beIN Sports 5.png" group-title="🛠️TEST-iill",beIN Sports 5
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="BEINSPORTS5" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/main/beIN-Sports-5.png" group-title="🛠️TEST-iill",beIN Sports 5
 http://hls.iill.top/api/beIN-Sports-5/playlist.m3u8
 #EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="HUBPREMIER1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HUB Premier 1.png" group-title="🛠️TEST-iill",Hub Premier 1
 http://hls.iill.top/api/Hub-Premier-1/playlist.m3u8
