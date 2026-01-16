@@ -111,7 +111,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=54
 
 
 #推流
-
+#judy推流
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="✈️海外频道",NOW爆谷台[GPT]
 https://tuiliu.go-iptv.ggff.net/baogutai/stream.m3u8
 #EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="✈️海外频道",NOW爆谷星影台
@@ -205,7 +205,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="✈️海外频道",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-#EXTINF:-1 tvg-id="HOY剧集台" tvg-name="HOY剧集台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="✈️海外频道",HOY剧集台
+#EXTINF:-1 tvg-id="HOY 剧集台" tvg-name="HOY 剧集台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="✈️海外频道",HOY剧集台
 http://cdn.163189.xyz/163189/hoyjj
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视中文台.png" group-title="✈️海外频道",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -277,11 +277,11 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/娱乐新闻台.png" group-title="✈️海外频道",TVB娱乐新闻台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:-1 tvg-id="HOY资讯台" tvg-name="HOY资讯台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="✈️海外频道",HOY资讯台
+#EXTINF:-1 tvg-id="HOY 资讯台" tvg-name="HOY 资讯台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="✈️海外频道",HOY 资讯台
 http://php.jdshipin.com:8880/smt.php?id=hoycaijing_twn
-#EXTINF:-1 tvg-id="天映频道马来西亚" tvg-name="天映频道马来西亚" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映.png" group-title="✈️海外频道",天映频道
+#EXTINF:-1 tvg-id="CELESTIAL" tvg-name="CELESTIAL" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映.png" group-title="✈️海外频道",天映频道[马来西亚]
 http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映经典.png" group-title="✈️海外频道",天映经典
+#EXTINF:-1 tvg-id="天映经典频道" tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映经典.png" group-title="✈️海外频道",天映经典频道[马来西亚]
 http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/aod.png" group-title="✈️海外频道",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
@@ -329,10 +329,11 @@ http://cdn3.163189.xyz/163189/wxty
 http://cdn3.163189.xyz/163189/hxws
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB星河.png" group-title="✈️海外频道",TVB星河国语
 http://cdn10.163189.xyz/163189/xinghe
-#EXTINF:-1 tvg-id="天映频道马来西亚" tvg-name="天映频道马来西亚" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映.png" group-title="✈️海外频道",天映频道
+#EXTINF:-1 tvg-id="CELESTIALMOVIES(HD)" tvg-name="CELESTIALMOVIESHD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映.png" group-title="✈️海外频道",天映频道[新加坡]
 http://cdn10.163189.xyz/163189/typd
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映经典.png" group-title="✈️海外频道",天映经典
+#EXTINF:-1 tvg-id="天映经典频道" tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映经典.png" group-title="✈️海外频道",天映经典[新加坡]
 http://cdn10.163189.xyz/163189/ccm
+
 
 #iill测试
 #testiill
@@ -706,6 +707,46 @@ http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 tvg-id="番禺电视台" tvg-name="番禺电视台" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIuKLpKvH4x1d9K3HRtvgU07MIVYRucMANw&s" group-title="广东台🇨🇳",番禺电视台
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
+#上海
+#上海
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="🇨🇳上海",东方卫视[4K 16M HEVC AC3 5.1 音视频分离]
+http://bp-live4ktc.bestv.cn/live/dfws4k.m3u8
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="🇨🇳上海",东方卫视[4K 16M HEVC AC3 5.1]
+http://bp-live4ktc.bestv.cn/live/dfws4k_4k265p.m3u8
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="🇨🇳上海",东方卫视[4K 16M H264 AC3 5.1]
+http://bp-live4ktc.bestv.cn/264ts/dfws4k264.m3u8
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="🇨🇳上海",东方卫视[4K 16M H264 AC3 5.1]
+http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264.m3u8
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="🇨🇳上海",东方卫视[4K 8M H264 AAC 5.1]
+http://bp-live4ktc.bestv.cn/264ts/dfws4k264_4k264pts.m3u8
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="🇨🇳上海",东方卫视[FHD 16M HEVC AAC 5.1 音视频分离]
+http://bp-live4ktc.bestv.cn/ch/dfws4k1080p.m3u8
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="🇨🇳上海",东方卫视[FHD 8M H264 AAC 5.1]
+http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
+
+#EXTINF:-1 tvg-id="上海艺术人文" tvg-name="上海艺术人文" tvg-logo="https://epg.iill.top/logo/新纪实.png" group-title="🇨🇳上海",上海纪实人文[官方]
+https://bp-resource-dfl.bestv.cn/155/3/video.m3u8?auth_key=1762234316-ddfb4bdeb71e4371bde3736ece8d51ac-0-e48ed33c2b23a3e534f11b58a2382d47
+#EXTINF:-1 tvg-id="上海爱上海" tvg-name="上海爱上海" tvg-logo="https://epg.iill.top/logo/爱上海.png" group-title="🇨🇳DIY-地方",爱上海[官方]
+https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+
+#EXTINF:-1,tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://epg.112114.xyz/logo/东方购物.png" group-title="🇨🇳上海",东方购物
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+#EXTINF:-1,tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://epg.112114.xyz/logo/上海教育电视台.png" group-title="🇨🇳上海",上海教育
+http://tencent-live.setv.sh.cn/live/programme_setvweb.m3u8?txSecret=fd19aacaed289e44e3f6d8baa5485a41&txTime=82DF98A7
+#EXTINF:-1,tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="https://epg.112114.xyz/logo/点掌财经.png" group-title="🇨🇳上海",点掌财经
+http://volcanopull.aniu.tv/live/aniu2/index.m3u8
+#EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://epg.iill.top/logo/新纪实.png" group-title="🇨🇳上海",上海纪实人文
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1,tvg-id="爱上海" tvg-name="爱上海" tvg-logo="https://epg.112114.xyz/logo/爱上海.png" group-title="🇨🇳上海",爱上海
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1,tvg-id="嘉定综合" tvg-name="嘉定综合" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/嘉定综合.png" group-title="🇨🇳上海",嘉定综合
+http://5730.liveplay.myqcloud.com/live/JcmcTvNov.m3u8
 
 
 
