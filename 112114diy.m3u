@@ -112,226 +112,226 @@ http://iptv.4666888.xyz/iptv2A.php?id=54
 
 #推流
 #judy推流
-#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="✈️海外频道",NOW爆谷台[GPT]
+#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="海外频道✈️",NOW爆谷台[GPT]
 https://tuiliu.go-iptv.ggff.net/baogutai/stream.m3u8
-#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="✈️海外频道",NOW爆谷星影台
+#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="海外频道✈️",NOW爆谷星影台
 https://tuiliu.go-iptv.ggff.net/xingyingtai/stream.m3u8
-#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/龙祥时代.png" group-title="✈️海外频道",龙祥时代
+#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/龙祥时代.png" group-title="海外频道✈️",龙祥时代
 https://tuiliu.goiptv.us.ci/lungxiangtime/lungxiangtime.m3u8
-#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来电影.png" group-title="✈️海外频道",纬来电影
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来电影.png" group-title="海外频道✈️",纬来电影
 https://tuiliu.goiptv.us.ci/videolandmovie/videolandmovie.m3u8
-#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来体育.png" group-title="✈️海外频道",纬来体育
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来体育.png" group-title="海外频道✈️",纬来体育
 https://tuiliu.goiptv.us.ci/videolandsport/videolandsport.m3u8
-#EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来日本.png" group-title="✈️海外频道",纬来日本
+#EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来日本.png" group-title="海外频道✈️",纬来日本
 https://tuiliu.goiptv.us.ci/videolandjapan/videolandjapan.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="✈️海外频道",翡翠台 4K
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="海外频道✈️",翡翠台 4K
 https://tvb.go-iptv.ggff.net/stream/tvb/feicui4k/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/美亚电影台.png" group-title="✈️海外频道",美亞電影台
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/美亚电影台.png" group-title="海外频道✈️",美亞電影台
 https://tvb.go-iptv.ggff.net/stream/tvb/hk/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/PopC.png" group-title="✈️海外频道",PopC
+#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/PopC.png" group-title="海外频道✈️",PopC
 https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBPlus.png" group-title="✈️海外频道",TVB Plus
+#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBPlus.png" group-title="海外频道✈️",TVB Plus
 https://tvb.go-iptv.ggff.net/stream/tvb/tvbplus/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/tvN.png" group-title="✈️海外频道",tvN
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/tvN.png" group-title="海外频道✈️",tvN
 https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/娱乐新闻台.png" group-title="✈️海外频道",娛樂新聞台
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/娱乐新闻台.png" group-title="海外频道✈️",娛樂新聞台
 https://tvb.go-iptv.ggff.net/stream/tvb/null-5/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="✈️海外频道",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="海外频道✈️",明珠台
 https://tvb.go-iptv.ggff.net/stream/tvb/null-3/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-id="TVB无线新闻台(TVBNEWS)" tvg-name="TVB无线新闻台(TVBNEWS)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="✈️海外频道",無綫新聞台
+#EXTINF:-1 tvg-id="TVB无线新闻台(TVBNEWS)" tvg-name="TVB无线新闻台(TVBNEWS)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="海外频道✈️",無綫新聞台
 https://tvb.go-iptv.ggff.net/stream/tvb/null-4/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视中文台.png" group-title="✈️海外频道",鳳凰衛視中文台
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视中文台.png" group-title="海外频道✈️",鳳凰衛視中文台
 https://tvb.go-iptv.ggff.net/stream/tvb/null-2/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视资讯台.png" group-title="✈️海外频道",鳳凰衛視資訊台
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视资讯台.png" group-title="海外频道✈️",鳳凰衛視資訊台
 https://tvb.go-iptv.ggff.net/stream/tvb/null/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/凤凰卫视香港台.png" group-title="✈️海外频道",鳳凰衛視香港台[GPT]
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/凤凰卫视香港台.png" group-title="海外频道✈️",鳳凰衛視香港台[GPT]
 https://tvb.go-iptv.ggff.net/stream/tvb/null-1/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="✈️海外频道",翡翠台字幕
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="海外频道✈️",翡翠台字幕
 http://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="✈️海外频道",明珠台字幕
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="海外频道✈️",明珠台字幕
 http://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="✈️海外频道",翡翠台4K(多音轨字幕)
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="海外频道✈️",翡翠台4K(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBPlus.png" group-title="✈️海外频道",TVB PLUS(多音轨字幕)
+#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBPlus.png" group-title="海外频道✈️",TVB PLUS(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="✈️海外频道",明珠台(多音轨字幕)
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="海外频道✈️",明珠台(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-id="TVBJADEHD" tvg-name="TVBJADEHD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBJADE.png" group-title="✈️海外频道",华丽翡翠台(多音轨字幕)
+#EXTINF:-1 tvg-id="TVBJADEHD" tvg-name="TVBJADEHD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBJADE.png" group-title="海外频道✈️",华丽翡翠台(多音轨字幕)
 https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 tvg-id="TVB JADE" tvg-name="TVB JADE" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="✈️海外频道",华丽翡翠台(新加坡)
+#EXTINF:-1 tvg-id="TVB JADE" tvg-name="TVB JADE" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="海外频道✈️",华丽翡翠台(新加坡)
 https://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/aod.png" group-title="✈️海外频道",AOD(多音轨字幕)
+#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/aod.png" group-title="海外频道✈️",AOD(多音轨字幕)
 https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/AEC.png" group-title="✈️海外频道",AEC(多音轨字幕)
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/AEC.png" group-title="海外频道✈️",AEC(多音轨字幕)
 https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/QJ.png" group-title="✈️海外频道",QJ(多音轨字幕)
+#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/QJ.png" group-title="海外频道✈️",QJ(多音轨字幕)
 https://o11.163189.xyz/stream/live/qj/
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB星河.png" group-title="✈️海外频道",TVB星河(多音轨字幕)
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB星河.png" group-title="海外频道✈️",TVB星河(多音轨字幕)
 https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/iQIYI.png" group-title="✈️海外频道",iqiyi
+#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/iQIYI.png" group-title="海外频道✈️",iqiyi
 https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/千禧经典台.png" group-title="✈️海外频道",千禧经典台
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/千禧经典台.png" group-title="海外频道✈️",千禧经典台
 https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="✈️海外频道",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="海外频道✈️",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="✈️海外频道",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="海外频道✈️",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="✈️海外频道",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="海外频道✈️",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="✈️海外频道",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="海外频道✈️",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="✈️海外频道",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="海外频道✈️",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="✈️海外频道",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="海外频道✈️",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 tvg-id="TVB翡翠综合台(TVBJ1)" tvg-name="TVB翡翠综合台(TVBJ1)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="✈️海外频道",翡翠台北美版(TVB J1)
+#EXTINF:-1 tvg-id="TVB翡翠综合台(TVBJ1)" tvg-name="TVB翡翠综合台(TVBJ1)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="海外频道✈️",翡翠台北美版(TVB J1)
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 tvg-id="TVB翡翠综合台(TVBJ1)" tvg-name="TVB翡翠综合台(TVBJ1)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="✈️海外频道",TVB J1
+#EXTINF:-1 tvg-id="TVB翡翠综合台(TVBJ1)" tvg-name="TVB翡翠综合台(TVBJ1)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="海外频道✈️",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBPlus.png" group-title="✈️海外频道",TVB Plus
+#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBPlus.png" group-title="海外频道✈️",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBPlus.png" group-title="✈️海外频道",TVB Plus
+#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBPlus.png" group-title="海外频道✈️",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/无线新闻.png" group-title="✈️海外频道",无线新闻
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/无线新闻.png" group-title="海外频道✈️",无线新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/无线新闻.png" group-title="✈️海外频道",无线新闻
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/无线新闻.png" group-title="海外频道✈️",无线新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/ViuTV.png" group-title="✈️海外频道",VIUTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/ViuTV.png" group-title="海外频道✈️",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/ViuTV.png" group-title="✈️海外频道",VIUTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/ViuTV.png" group-title="海外频道✈️",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="✈️海外频道",HOY TV
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="海外频道✈️",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="✈️海外频道",HOY TV
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="海外频道✈️",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-#EXTINF:-1 tvg-id="HOY 剧集台" tvg-name="HOY 剧集台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="✈️海外频道",HOY剧集台
+#EXTINF:-1 tvg-id="HOY 剧集台" tvg-name="HOY 剧集台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="海外频道✈️",HOY剧集台
 http://cdn.163189.xyz/163189/hoyjj
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视中文台.png" group-title="✈️海外频道",凤凰中文
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视中文台.png" group-title="海外频道✈️",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视中文台.png" group-title="✈️海外频道",凤凰中文
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视中文台.png" group-title="海外频道✈️",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视资讯台.png" group-title="✈️海外频道",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视资讯台.png" group-title="海外频道✈️",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视资讯台.png" group-title="✈️海外频道",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/凤凰卫视资讯台.png" group-title="海外频道✈️",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/凤凰卫视香港台.png" group-title="✈️海外频道",凤凰香港
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/凤凰卫视香港台.png" group-title="海外频道✈️",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/凤凰卫视香港台.png" group-title="✈️海外频道",凤凰香港
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/凤凰卫视香港台.png" group-title="海外频道✈️",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/美亚电影.png" group-title="✈️海外频道",美亚电影
+#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/美亚电影.png" group-title="海外频道✈️",美亚电影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/重温经典.png" group-title="✈️海外频道",重温经典
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/重温经典.png" group-title="海外频道✈️",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/广东珠江.png" group-title="✈️海外频道",广东珠江
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/广东珠江.png" group-title="海外频道✈️",广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/广东体育.png" group-title="✈️海外频道",广东体育
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/广东体育.png" group-title="海外频道✈️",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/澳视澳门.png" group-title="✈️海外频道",澳视澳门
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/澳视澳门.png" group-title="海外频道✈️",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/澳视卫星.png" group-title="✈️海外频道",澳视卫星
+#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/澳视卫星.png" group-title="海外频道✈️",澳视卫星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/澳门体育.png" group-title="✈️海外频道",澳门体育
+#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/澳门体育.png" group-title="海外频道✈️",澳门体育
 http://cdn6.163189.xyz/163189/amty
-#EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/澳门综艺.png" group-title="✈️海外频道",澳门综艺
+#EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/澳门综艺.png" group-title="海外频道✈️",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
-#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/澳门莲花.png" group-title="✈️海外频道",澳门莲花
+#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/澳门莲花.png" group-title="海外频道✈️",澳门莲花
 http://cdn6.163189.xyz/163189/amlh
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTHK31.png" group-title="✈️海外频道",RTHK31
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTHK31.png" group-title="海外频道✈️",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTHK32.png" group-title="✈️海外频道",RTHK32
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTHK32.png" group-title="海外频道✈️",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV1.png" group-title="✈️海外频道",CCTV1港澳版
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV1.png" group-title="海外频道✈️",CCTV1港澳版
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/8tv.png" group-title="✈️海外频道",8tv
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/8tv.png" group-title="海外频道✈️",8tv
 http://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 tvg-id="CHANNEL 5" tvg-name="CHANNEL 5" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/Ch 5 (HD).png" group-title="✈️海外频道",CHANNEL 5
+#EXTINF:-1 tvg-id="CHANNEL 5" tvg-name="CHANNEL 5" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/Ch 5 (HD).png" group-title="海外频道✈️",CHANNEL 5
 http://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-id="CHANNEL 8" tvg-name="CHANNEL 8" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/Ch 8 (HD).png" group-title="✈️海外频道",CHANNEL 8
+#EXTINF:-1 tvg-id="CHANNEL 8" tvg-name="CHANNEL 8" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/Ch 8 (HD).png" group-title="海外频道✈️",CHANNEL 8
 http://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 tvg-id="CHANNEL U" tvg-name="CHANNEL U" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/Ch U (HD).png" group-title="✈️海外频道",CHANNEL U
+#EXTINF:-1 tvg-id="CHANNEL U" tvg-name="CHANNEL U" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/Ch U (HD).png" group-title="海外频道✈️",CHANNEL U
 http://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/龙华电影.png" group-title="✈️海外频道",龙华电影
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/龙华电影.png" group-title="海外频道✈️",龙华电影
 http://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华经典.png" group-title="✈️海外频道",龙华经典
+#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华经典.png" group-title="海外频道✈️",龙华经典
 http://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华卡通.png" group-title="✈️海外频道",龙华卡通
+#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华卡通.png" group-title="海外频道✈️",龙华卡通
 http://cdn8.163189.xyz/163189/lhkt
-#EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/龙华偶像.png" group-title="✈️海外频道",龙华偶像
+#EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/龙华偶像.png" group-title="海外频道✈️",龙华偶像
 http://cdn8.163189.xyz/163189/lhox
-#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华日韩.png" group-title="✈️海外频道",龙华日韩
+#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华日韩.png" group-title="海外频道✈️",龙华日韩
 http://cdn8.163189.xyz/163189/lhrh
-#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/龙华戏剧.png" group-title="✈️海外频道",龙华戏剧
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/龙华戏剧.png" group-title="海外频道✈️",龙华戏剧
 http://cdn8.163189.xyz/163189/lhxj
-#EXTINF:-1 tvg-id="龙华洋片台OTT" tvg-name="龙华洋片台OTT" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="✈️海外频道",龙华洋片
+#EXTINF:-1 tvg-id="龙华洋片台OTT" tvg-name="龙华洋片台OTT" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="海外频道✈️",龙华洋片
 http://cdn8.163189.xyz/163189/lhyp
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="✈️海外频道",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="海外频道✈️",翡翠台
 http://php.jdshipin.com/smt.php?id=jade_twn
-#EXTINF:-1 tvg-id="TVBJADEHD" tvg-name="TVBJADEHD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBJADE.png" group-title="✈️海外频道",华丽翡翠台
+#EXTINF:-1 tvg-id="TVBJADEHD" tvg-name="TVBJADEHD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBJADE.png" group-title="海外频道✈️",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 tvg-id="TVB无线新闻台(TVBNEWS)" tvg-name="TVB无线新闻台(TVBNEWS)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="✈️海外频道",无线新闻台
+#EXTINF:-1 tvg-id="TVB无线新闻台(TVBNEWS)" tvg-name="TVB无线新闻台(TVBNEWS)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="海外频道✈️",无线新闻台
 http://php.jdshipin.com/smt.php?id=inews_twn
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB星河.png" group-title="✈️海外频道",TVB星河
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB星河.png" group-title="海外频道✈️",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/千禧经典台.png" group-title="✈️海外频道",千禧经典台
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/千禧经典台.png" group-title="海外频道✈️",千禧经典台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/娱乐新闻台.png" group-title="✈️海外频道",TVB娱乐新闻台
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/娱乐新闻台.png" group-title="海外频道✈️",TVB娱乐新闻台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:-1 tvg-id="HOY 资讯台" tvg-name="HOY 资讯台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="✈️海外频道",HOY 资讯台
+#EXTINF:-1 tvg-id="HOY 资讯台" tvg-name="HOY 资讯台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HOY.png" group-title="海外频道✈️",HOY 资讯台
 http://php.jdshipin.com:8880/smt.php?id=hoycaijing_twn
-#EXTINF:-1 tvg-id="CELESTIAL" tvg-name="CELESTIAL" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映.png" group-title="✈️海外频道",天映频道[马来西亚]
+#EXTINF:-1 tvg-id="CELESTIAL" tvg-name="CELESTIAL" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映.png" group-title="海外频道✈️",天映频道[马来西亚]
 http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 tvg-id="天映经典频道" tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映经典.png" group-title="✈️海外频道",天映经典频道[马来西亚]
+#EXTINF:-1 tvg-id="天映经典频道" tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映经典.png" group-title="海外频道✈️",天映经典频道[马来西亚]
 http://php.jdshipin.com/smt.php?id=Celestial2
-#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/aod.png" group-title="✈️海外频道",Astro AOD
+#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/aod.png" group-title="海外频道✈️",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/AEC.png" group-title="✈️海外频道",Astro AEC
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/AEC.png" group-title="海外频道✈️",Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/iQIYI.png" group-title="✈️海外频道",爱奇艺
+#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/iQIYI.png" group-title="海外频道✈️",爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/QJ.png" group-title="✈️海外频道",Astro QJ
+#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/QJ.png" group-title="海外频道✈️",Astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-id="HUAHEEDAI" tvg-name="HUAHEEDAI" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Astro Hua Hee Dai.png" group-title="✈️海外频道",Astro欢喜台
+#EXTINF:-1 tvg-id="HUAHEEDAI" tvg-name="HUAHEEDAI" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Astro Hua Hee Dai.png" group-title="海外频道✈️",Astro欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/8tv.png" group-title="✈️海外频道",八度空间
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/8tv.png" group-title="海外频道✈️",八度空间
 http://php.jdshipin.com/smt.php?id=TV8
-#EXTINF:-1 tvg-id="TVBJADEHD" tvg-name="TVBJADEHD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBJADE.png" group-title="✈️海外频道",华丽翡翠台
+#EXTINF:-1 tvg-id="TVBJADEHD" tvg-name="TVBJADEHD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBJADE.png" group-title="海外频道✈️",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB功夫.png" group-title="✈️海外频道",亚洲武侠
+#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB功夫.png" group-title="海外频道✈️",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-id="TVB生活台" tvg-name="TVB生活台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/tvb生活台.png" group-title="✈️海外频道",TVB生活台
+#EXTINF:-1 tvg-id="TVB生活台" tvg-name="TVB生活台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/tvb生活台.png" group-title="海外频道✈️",TVB生活台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/娱乐新闻台.png" group-title="✈️海外频道",TVB娱乐新闻台
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/娱乐新闻台.png" group-title="海外频道✈️",TVB娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-id="TVB无线新闻台(TVBNEWS)" tvg-name="TVB无线新闻台(TVBNEWS)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="✈️海外频道",无线新闻台
+#EXTINF:-1 tvg-id="TVB无线新闻台(TVBNEWS)" tvg-name="TVB无线新闻台(TVBNEWS)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="海外频道✈️",无线新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB星河.png" group-title="✈️海外频道",TVB星河
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB星河.png" group-title="海外频道✈️",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now新聞台.png" group-title="✈️海外频道",NOW新闻台
+#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now新聞台.png" group-title="海外频道✈️",NOW新闻台
 https://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="✈️海外频道",翡翠台4K
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="海外频道✈️",翡翠台4K
 https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="✈️海外频道",翡翠台(字幕)
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="海外频道✈️",翡翠台(字幕)
 https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="✈️海外频道",明珠台(字幕)
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/明珠台.png" group-title="海外频道✈️",明珠台(字幕)
 https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-id="翡翠一台(TVB1)" tvg-name="翡翠一台(TVB1)" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB1.png" group-title="✈️海外频道",TVB1
+#EXTINF:-1 tvg-id="翡翠一台(TVB1)" tvg-name="翡翠一台(TVB1)" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB1.png" group-title="海外频道✈️",TVB1
 https://6.cdn.loc.cc/163189.php?id=tvb1
-#EXTINF:-1 tvg-id="TVB翡翠剧集台(TVBDRAMA)" tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBDRAMA.png" group-title="✈️海外频道",翡翠剧集台
+#EXTINF:-1 tvg-id="TVB翡翠剧集台(TVBDRAMA)" tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBDRAMA.png" group-title="海外频道✈️",翡翠剧集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV13.png" group-title="✈️海外频道",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV13.png" group-title="海外频道✈️",CCTV13
 http://cdn3.163189.xyz/163189/cctv13
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/第一财经.png" group-title="✈️海外频道",第一财经
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/第一财经.png" group-title="海外频道✈️",第一财经
 http://cdn3.163189.xyz/163189/dycj
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/五星体育.png" group-title="✈️海外频道",五星体育
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/五星体育.png" group-title="海外频道✈️",五星体育
 http://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/海峡卫视.png" group-title="✈️海外频道",海峡卫视
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/海峡卫视.png" group-title="海外频道✈️",海峡卫视
 http://cdn3.163189.xyz/163189/hxws
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB星河.png" group-title="✈️海外频道",TVB星河国语
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVB星河.png" group-title="海外频道✈️",TVB星河国语
 http://cdn10.163189.xyz/163189/xinghe
-#EXTINF:-1 tvg-id="CELESTIALMOVIES(HD)" tvg-name="CELESTIALMOVIESHD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映.png" group-title="✈️海外频道",天映频道[新加坡]
+#EXTINF:-1 tvg-id="CELESTIALMOVIES(HD)" tvg-name="CELESTIALMOVIESHD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映.png" group-title="海外频道✈️",天映频道[新加坡]
 http://cdn10.163189.xyz/163189/typd
-#EXTINF:-1 tvg-id="天映经典频道" tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映经典.png" group-title="✈️海外频道",天映经典[新加坡]
+#EXTINF:-1 tvg-id="天映经典频道" tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/天映经典.png" group-title="海外频道✈️",天映经典[新加坡]
 http://cdn10.163189.xyz/163189/ccm
 
 
@@ -341,146 +341,146 @@ http://cdn10.163189.xyz/163189/ccm
 #DIYIILL
 #iill
 #iill推流&官方源
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="🇭🇰🇲🇴-iill推流&官方源",Now新聞台
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="iill推流&官方源🇭🇰🇲🇴",Now新聞台
 https://yang-1989.eu.org/live/now-332
-#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.iill.top/logo/Now財經台.png" group-title="🇭🇰🇲🇴-iill推流&官方源",Now財經台
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.iill.top/logo/Now財經台.png" group-title="iill推流&官方源🇭🇰🇲🇴",Now財經台
 https://yang-1989.eu.org/live/now-333
-#EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://epg.iill.top/logo/Now Sports 精選.png" group-title="🇭🇰🇲🇴-iill推流&官方源",Now Sports 精選
+#EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://epg.iill.top/logo/Now Sports 精選.png" group-title="iill推流&官方源🇭🇰🇲🇴",Now Sports 精選
 https://yang-1989.eu.org/live/now-630
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="🇭🇰🇲🇴-iill推流&官方源",ViuTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="iill推流&官方源🇭🇰🇲🇴",ViuTV
 https://yang-1989.eu.org/live/ViuTV
-#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="🇭🇰🇲🇴-iill推流&官方源",ViuTVsix
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="iill推流&官方源🇭🇰🇲🇴",ViuTVsix
 https://yang-1989.eu.org/live/ViuTVsix
 
-#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="🇭🇰🇲🇴-iill推流&官方源",鳳凰衛視·中文「回看」
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="iill推流&官方源🇭🇰🇲🇴",鳳凰衛視·中文「回看」
 https://tv.iill.top/phenix/fhzw
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="🇭🇰🇲🇴-iill推流&官方源",鳳凰衛視·資訊「回看」
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="iill推流&官方源🇭🇰🇲🇴",鳳凰衛視·資訊「回看」
 https://tv.iill.top/phenix/fhzx
-#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="🇭🇰🇲🇴-iill推流&官方源",鳳凰衛視·香港「回看」
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="iill推流&官方源🇭🇰🇲🇴",鳳凰衛視·香港「回看」
 https://tv.iill.top/phenix/fhhk
 
-#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="🇭🇰🇲🇴-iill推流&官方源",HOY 國際財經台「限HK」
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY 國際財經台「限HK」
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="🇭🇰🇲🇴-iill推流&官方源",HOY TV「限HK」
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY TV「限HK」
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="🇭🇰🇲🇴-iill推流&官方源",HOY 資訊台「限HK」
+#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY 資訊台「限HK」
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY生活台" tvg-name="HOY生活台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="🇭🇰🇲🇴-iill推流&官方源",HOY 生活台
+#EXTINF:-1 tvg-id="HOY生活台" tvg-name="HOY生活台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY 生活台
 https://tv.iill.top/hoy/8
-#EXTINF:-1 tvg-id="HOY劇集台" tvg-name="HOY劇集台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="🇭🇰🇲🇴-iill推流&官方源",HOY 劇集台
+#EXTINF:-1 tvg-id="HOY劇集台" tvg-name="HOY劇集台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY 劇集台
 https://tv.iill.top/hoy/9
-#EXTINF:-1 tvg-id="HOY怪談台" tvg-name="HOY怪談台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="🇭🇰🇲🇴-iill推流&官方源",HOY 怪談台
+#EXTINF:-1 tvg-id="HOY怪談台" tvg-name="HOY怪談台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY 怪談台
 https://tv.iill.top/hoy/10
-#EXTINF:-1 tvg-id="HOY體育台" tvg-name="HOY體育台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="🇭🇰🇲🇴-iill推流&官方源",HOY 體育台
+#EXTINF:-1 tvg-id="HOY體育台" tvg-name="HOY體育台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY 體育台
 https://tv.iill.top/hoy/11
 
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="🇭🇰🇲🇴-iill推流&官方源",RTHK 31「限HK」
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="iill推流&官方源🇭🇰🇲🇴",RTHK 31「限HK」
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="🇭🇰🇲🇴-iill推流&官方源",RTHK 32「限HK」
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="iill推流&官方源🇭🇰🇲🇴",RTHK 32「限HK」
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK33.png" group-title="🇭🇰🇲🇴-iill推流&官方源",RTHK 33
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK33.png" group-title="iill推流&官方源🇭🇰🇲🇴",RTHK 33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK34.png" group-title="🇭🇰🇲🇴-iill推流&官方源",RTHK 34
+#EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK34.png" group-title="iill推流&官方源🇭🇰🇲🇴",RTHK 34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK35.png" group-title="🇭🇰🇲🇴-iill推流&官方源",RTHK 35
+#EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK35.png" group-title="iill推流&官方源🇭🇰🇲🇴",RTHK 35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK36" tvg-name="RTHK36" tvg-logo="https://epg.iill.top/logo/RTHK36.png" group-title="🇭🇰🇲🇴-iill推流&官方源",RTHK 36
+#EXTINF:-1 tvg-id="RTHK36" tvg-name="RTHK36" tvg-logo="https://epg.iill.top/logo/RTHK36.png" group-title="iill推流&官方源🇭🇰🇲🇴",RTHK 36
 https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
 
-#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://epg.iill.top/logo/澳门Macau.png" group-title="🇭🇰🇲🇴-iill推流&官方源",澳門Macau
+#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://epg.iill.top/logo/澳门Macau.png" group-title="iill推流&官方源🇭🇰🇲🇴",澳門Macau
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://epg.iill.top/logo/澳视葡文.png" group-title="🇭🇰🇲🇴-iill推流&官方源",澳門葡文
+#EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://epg.iill.top/logo/澳视葡文.png" group-title="iill推流&官方源🇭🇰🇲🇴",澳門葡文
 https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.iill.top/logo/澳视澳门.png" group-title="🇭🇰🇲🇴-iill推流&官方源",澳視澳門
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.iill.top/logo/澳视澳门.png" group-title="iill推流&官方源🇭🇰🇲🇴",澳視澳門
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳视资讯" tvg-name="澳视资讯" tvg-logo="https://epg.iill.top/logo/澳门资讯.png" group-title="🇭🇰🇲🇴-iill推流&官方源",澳門資訊
+#EXTINF:-1 tvg-id="澳视资讯" tvg-name="澳视资讯" tvg-logo="https://epg.iill.top/logo/澳门资讯.png" group-title="iill推流&官方源🇭🇰🇲🇴",澳門資訊
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳视体育" tvg-name="澳视体育" tvg-logo="https://epg.iill.top/logo/澳门体育.png" group-title="🇭🇰🇲🇴-iill推流&官方源",澳門體育
+#EXTINF:-1 tvg-id="澳视体育" tvg-name="澳视体育" tvg-logo="https://epg.iill.top/logo/澳门体育.png" group-title="iill推流&官方源🇭🇰🇲🇴",澳門體育
 https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳视综艺" tvg-name="澳视综艺" tvg-logo="https://epg.iill.top/logo/澳门综艺.png" group-title="🇭🇰🇲🇴-iill推流&官方源",澳門綜藝
+#EXTINF:-1 tvg-id="澳视综艺" tvg-name="澳视综艺" tvg-logo="https://epg.iill.top/logo/澳门综艺.png" group-title="iill推流&官方源🇭🇰🇲🇴",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
 
 #iill测试
 #testiill
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBCEARTH" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/BBC-Earth.png" group-title="🛠️TEST-iill",BBC Earth
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBCEARTH" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/BBC-Earth.png" group-title="iill测试🛠️",BBC Earth
 https://hls.iill.top/api/BBC-Earth/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBCLIFESTYLE" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/BBC-Lifestyle.png" group-title="🛠️TEST-iill",BBC Lifestyle
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBCLIFESTYLE" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/BBC-Lifestyle.png" group-title="iill测试🛠️",BBC Lifestyle
 https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERYCHANNEL" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Discovery-Channel.png" group-title="🛠️TEST-iill",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERYCHANNEL" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Discovery-Channel.png" group-title="iill测试🛠️",Discovery Channel
 https://hls.iill.top/api/Discovery/playlist.m3u8
-#EXTINF:-1 tvg-id="CELESTIAL" tvg-name="CELESTIAL" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/天映频道.png" group-title="🛠️TEST-iill",CELESTIAL
+#EXTINF:-1 tvg-id="CELESTIAL" tvg-name="CELESTIAL" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/天映频道.png" group-title="iill测试🛠️",CELESTIAL
 https://tv.iill.top/x/typd
-#EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动物星球.png" group-title="🛠️TEST-iill",動物星球
+#EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动物星球.png" group-title="iill测试🛠️",動物星球
 https://tv.iill.top/x/dwxq
-#EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来日本.png" group-title="🛠️TEST-iill",緯來日本
+#EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来日本.png" group-title="iill测试🛠️",緯來日本
 https://tv.iill.top/x/wlrb
-#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来体育.png" group-title="🛠️TEST-iill",緯來體育
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来体育.png" group-title="iill测试🛠️",緯來體育
 https://tv.iill.top/x/wlty
-#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来电影.png" group-title="🛠️TEST-iill",緯來電影
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/纬来电影.png" group-title="iill测试🛠️",緯來電影
 https://tv.iill.top/x/wldy
-#EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/东森电影.png" group-title="🛠️TEST-iill",東森電影
+#EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/东森电影.png" group-title="iill测试🛠️",東森電影
 https://tv.iill.top/x/dsdy
-#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/龍翔時代.png" group-title="🛠️TEST-iill",龍翔時代
+#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/龍翔時代.png" group-title="iill测试🛠️",龍翔時代
 https://tv.iill.top/x/lxsd
 
-#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TNT Sport 1.png" group-title="🛠️TEST-iill",TNT Sports 1 HD
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TNT Sport 1.png" group-title="iill测试🛠️",TNT Sports 1 HD
 https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TNT Sport 2.png" group-title="🛠️TEST-iill",TNT Sports 1 HD
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TNT Sport 2.png" group-title="iill测试🛠️",TNT Sports 1 HD
 https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TNT Sport 3.png" group-title="🛠️TEST-iill",TNT Sports 1 HD
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TNT Sport 3.png" group-title="iill测试🛠️",TNT Sports 1 HD
 https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TNT Sport 4.png" group-title="🛠️TEST-iill",TNT Sports 1 HD
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TNT Sport 4.png" group-title="iill测试🛠️",TNT Sports 1 HD
 https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 1.png" group-title="🛠️TEST-iill",beIN Sports HD
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 1.png" group-title="iill测试🛠️",beIN Sports HD
 http://hls.iill.top/api/beIN-Sports-1/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 2.png" group-title="🛠️TEST-iill",beIN Sports 2 HD
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 2.png" group-title="iill测试🛠️",beIN Sports 2 HD
 http://hls.iill.top/api/beIN-Sports-2/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 3 HD" tvg-name="beIN Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 3.png" group-title="🛠️TEST-iill",beIN Sports 3 HD
+#EXTINF:-1 tvg-id="beIN Sports 3 HD" tvg-name="beIN Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 3.png" group-title="iill测试🛠️",beIN Sports 3 HD
 http://hls.iill.top/api/beIN-Sports-3/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/beIN-Sports-4.png" group-title="🛠️TEST-iill",beIN Sports 4 HD
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/beIN-Sports-4.png" group-title="iill测试🛠️",beIN Sports 4 HD
 http://hls.iill.top/api/beIN-Sports-4/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/beIN-Sports-5.png" group-title="🛠️TEST-iill",beIN Sports 5 HD
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/beIN-Sports-5.png" group-title="iill测试🛠️",beIN Sports 5 HD
 http://hls.iill.top/api/beIN-Sports-5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HUB Premier 1.png" group-title="🛠️TEST-iill",Hub Premier 1
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/HUB Premier 1.png" group-title="iill测试🛠️",Hub Premier 1
 http://hls.iill.top/api/Hub-Premier-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-2.png" group-title="🛠️TEST-iill",Hub Premier 2
+#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-2.png" group-title="iill测试🛠️",Hub Premier 2
 http://hls.iill.top/api/Hub-Premier-2/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-3.png" group-title="🛠️TEST-iill",Hub Premier 3
+#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-3.png" group-title="iill测试🛠️",Hub Premier 3
 http://hls.iill.top/api/Hub-Premier-3/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-4.png" group-title="🛠️TEST-iill",Hub Premier 4
+#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-4.png" group-title="iill测试🛠️",Hub Premier 4
 http://hls.iill.top/api/Hub-Premier-4/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-5.png" group-title="🛠️TEST-iill",Hub Premier 5
+#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-5.png" group-title="iill测试🛠️",Hub Premier 5
 http://hls.iill.top/api/Hub-Premier-5/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-6.png" group-title="🛠️TEST-iill",Hub Premier 6
+#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-6.png" group-title="iill测试🛠️",Hub Premier 6
 http://hls.iill.top/api/Hub-Premier-6/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-7.png" group-title="🛠️TEST-iill",Hub Premier 7
+#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-7.png" group-title="iill测试🛠️",Hub Premier 7
 http://hls.iill.top/api/Hub-Premier-7/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-8.png" group-title="🛠️TEST-iill",Hub Premier 8
+#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Premier-8.png" group-title="iill测试🛠️",Hub Premier 8
 http://hls.iill.top/api/Hub-Premier-8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-1.png" group-title="🛠️TEST-iill",Hub Sports 1 HD
+#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-1.png" group-title="iill测试🛠️",Hub Sports 1 HD
 http://hls.iill.top/api/Hub-Sports-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-2.png" group-title="🛠️TEST-iill",Hub Sports 2 HD
+#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-2.png" group-title="iill测试🛠️",Hub Sports 2 HD
 http://hls.iill.top/api/Hub-Sports-2/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-3.png" group-title="🛠️TEST-iill",Hub Sports 3 HD
+#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-3.png" group-title="iill测试🛠️",Hub Sports 3 HD
 http://hls.iill.top/api/Hub-Sports-3/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-4.png" group-title="🛠️TEST-iill",Hub Sports 4 HD
+#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-4.png" group-title="iill测试🛠️",Hub Sports 4 HD
 http://hls.iill.top/api/Hub-Sports-4/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-5.png" group-title="🛠️TEST-iill",Hub Sports 5 HD
+#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-5.png" group-title="iill测试🛠️",Hub Sports 5 HD
 http://hls.iill.top/api/Hub-Sports-5/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 6 HD" tvg-name="Hub Sports 6 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-6.png" group-title="🛠️TEST-iill",Hub Sports 6 HD
+#EXTINF:-1 tvg-id="Hub Sports 6 HD" tvg-name="Hub Sports 6 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-6.png" group-title="iill测试🛠️",Hub Sports 6 HD
 http://hls.iill.top/api/Hub-Sports-6/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 7 HD" tvg-name="Hub Sports 7 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-7.png" group-title="🛠️TEST-iill",Hub Sports 7 HD
+#EXTINF:-1 tvg-id="Hub Sports 7 HD" tvg-name="Hub Sports 7 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-7.png" group-title="iill测试🛠️",Hub Sports 7 HD
 http://hls.iill.top/api/Hub-Sports-7/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 8 HD" tvg-name="Hub Sports 8 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-8.png" group-title="🛠️TEST-iill",Hub Sports 8 HD
+#EXTINF:-1 tvg-id="Hub Sports 8 HD" tvg-name="Hub Sports 8 HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Hub-Sports-8.png" group-title="iill测试🛠️",Hub Sports 8 HD
 http://hls.iill.top/api/Hub-Sports-8/playlist.m3u8
-#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHTSPORTS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Fight Sports.png" group-title="🛠️TEST-iill",Fight Sports
+#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHTSPORTS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Fight Sports.png" group-title="iill测试🛠️",Fight Sports
 http://hls.iill.top/api/Fight-Sports/playlist.m3u8
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Spotv-1.png" group-title="🛠️TEST-iill",Spotv 1
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/Spotv-1.png" group-title="iill测试🛠️",Spotv 1
 http://hls.iill.top/api/Spotv-1/playlist.m3u8
-#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SPOTV 2.png" group-title="🛠️TEST-iill",Spotv 2
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SPOTV 2.png" group-title="iill测试🛠️",Spotv 2
 http://hls.iill.top/api/Spotv-2/playlist.m3u8
 
 
@@ -490,53 +490,53 @@ http://hls.iill.top/api/Spotv-2/playlist.m3u8
 #iill大街「集合」
 #iill海外合集
 #iill
-#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/凤凰中文.png" group-title="🌏iill海外合集",鳳凰衛視·中文
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/凤凰中文.png" group-title="iill海外合集🌏",鳳凰衛視·中文
 http://r.jdshipin.com/cCCzW
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/凤凰资讯.png" group-title="🌏iill海外合集",鳳凰衛視·資訊
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/凤凰资讯.png" group-title="iill海外合集🌏",鳳凰衛視·資訊
 http://r.jdshipin.com/0Rp07
-#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/凤凰香港.png" group-title="🌏iill海外合集",鳳凰衛視·香港
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/凤凰香港.png" group-title="iill海外合集🌏",鳳凰衛視·香港
 http://r.jdshipin.com/yDoTN
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/翡翠台.png" group-title="🌏iill海外合集", 翡翠台 4K
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/翡翠台.png" group-title="iill海外合集🌏", 翡翠台 4K
 https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/翡翠台.png" group-title="🌏iill海外合集", 翡翠台「字幕」
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/翡翠台.png" group-title="iill海外合集🌏", 翡翠台「字幕」
 https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/明珠台.png" group-title="🌏iill海外合集", 明珠台「字幕」
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/明珠台.png" group-title="iill海外合集🌏", 明珠台「字幕」
 https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/TVBPlus.png" group-title="🌏iill海外合集",TVB Plus
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/TVBPlus.png" group-title="iill海外合集🌏",TVB Plus
 http://r.jdshipin.com/ndGgS
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/無綫新聞台.png" group-title="🌏iill海外合集",無綫新聞台
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/無綫新聞台.png" group-title="iill海外合集🌏",無綫新聞台
 http://r.jdshipin.com/CkuBd
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/Now新聞台.png" group-title="🌏iill海外合集",Now新聞台
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/Now新聞台.png" group-title="iill海外合集🌏",Now新聞台
 https://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/RedBull.png" group-title="🌏iill海外合集",Red Bull TV
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/RedBull.png" group-title="iill海外合集🌏",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/娛樂新聞.png" group-title="🌏iill海外合集",娛樂新聞台
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/娛樂新聞.png" group-title="iill海外合集🌏",娛樂新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-id="TVB XING HE" tvg-name="TVB XING HE" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/星河台.png" group-title="🌏iill海外合集",TVB 星河
+#EXTINF:-1 tvg-id="TVB XING HE" tvg-name="TVB XING HE" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/星河台.png" group-title="iill海外合集🌏",TVB 星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/亞洲武俠.png" group-title="🌏iill海外合集",亞洲武俠
+#EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/亞洲武俠.png" group-title="iill海外合集🌏",TVB功夫台
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/AOD.png" group-title="🌏iill海外合集",Astro AOD
+#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/AOD.png" group-title="iill海外合集🌏",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/AEC.png" group-title="🌏iill海外合集",Astro AEC
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/AEC.png" group-title="iill海外合集🌏",Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/全佳.png" group-title="🌏iill海外合集",Astro QJ
+#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/全佳.png" group-title="iill海外合集🌏",Astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-id="HUA HEE DAI" tvg-name="HUA HEE DAI" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/欢喜台.png" group-title="🌏iill海外合集",Astro 欢喜台
+#EXTINF:-1 tvg-id="HUA HEE DAI" tvg-name="HUA HEE DAI" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/欢喜台.png" group-title="iill海外合集🌏",Astro 欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/爱奇艺.png" group-title="🌏iill海外合集",iQIYI
+#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/爱奇艺.png" group-title="iill海外合集🌏",iQIYI
 http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 tvg-id="8tv" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/八度空間.png" group-title="🌏iill海外合集",八度空間
+#EXTINF:-1 tvg-id="8tv" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/八度空間.png" group-title="iill海外合集🌏",八度空間
 http://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 tvg-id="Ch 5 (HD)" tvg-name="Ch 5 (HD)" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/Channel5.png" group-title="🌏iill海外合集",Channel 5
+#EXTINF:-1 tvg-id="Ch 5 (HD)" tvg-name="Ch 5 (HD)" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/Channel5.png" group-title="iill海外合集🌏",Channel 5
 http://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-id="Ch 8 (HD)" tvg-name="Ch 8 (HD)" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/Channel8.png" group-title="🌏iill海外合集",Channel 8
+#EXTINF:-1 tvg-id="Ch 8 (HD)" tvg-name="Ch 8 (HD)" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/Channel8.png" group-title="iill海外合集🌏",Channel 8
 http://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 tvg-id="Ch U (HD)" tvg-name="Ch U (HD)" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/ChannelU.png" group-title="🌏iill海外合集",Channel U
+#EXTINF:-1 tvg-id="Ch U (HD)" tvg-name="Ch U (HD)" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/ChannelU.png" group-title="iill海外合集🌏",Channel U
 http://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/五星体育.png" group-title="🌏iill海外合集",五星体育
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/五星体育.png" group-title="iill海外合集🌏",五星体育
 https://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/第一财经.png" group-title="🌏iill海外合集",第一财经
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/第一财经.png" group-title="iill海外合集🌏",第一财经
 https://cdn3.163189.xyz/163189/dycj
 
 
@@ -585,13 +585,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="Juli🇭🇰🇸🇬🇲🇾",TVBPLUS
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="Juli🇭🇰🇸🇬🇲🇾",无线新闻
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="Juli🇭🇰🇸🇬🇲🇾",无线新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="Juli🇭🇰🇸🇬🇲🇾",无线新闻
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="Juli🇭🇰🇸🇬🇲🇾",无线新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="Juli🇭🇰🇸🇬🇲🇾",VIUTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="Juli🇭🇰🇸🇬🇲🇾",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="Juli🇭🇰🇸🇬🇲🇾",VIUTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="Juli🇭🇰🇸🇬🇲🇾",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-id="HOYTV" tvg-name="HOYTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/HOYTV.png" group-title="Juli🇭🇰🇸🇬🇲🇾",HOYTV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
@@ -778,44 +778,63 @@ http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
 #上海
 #上海
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="🇨🇳上海",东方卫视[4K 16M HEVC AC3 5.1 音视频分离]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="上海🇨🇳",东方卫视[4K 16M HEVC AC3 5.1 音视频分离]
 http://bp-live4ktc.bestv.cn/live/dfws4k.m3u8
 
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="🇨🇳上海",东方卫视[4K 16M HEVC AC3 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="上海🇨🇳",东方卫视[4K 16M HEVC AC3 5.1]
 http://bp-live4ktc.bestv.cn/live/dfws4k_4k265p.m3u8
 
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="🇨🇳上海",东方卫视[4K 16M H264 AC3 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="上海🇨🇳",东方卫视[4K 16M H264 AC3 5.1]
 http://bp-live4ktc.bestv.cn/264ts/dfws4k264.m3u8
 
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="🇨🇳上海",东方卫视[4K 16M H264 AC3 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="上海🇨🇳",东方卫视[4K 16M H264 AC3 5.1]
 http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264.m3u8
 
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="🇨🇳上海",东方卫视[4K 8M H264 AAC 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="上海🇨🇳",东方卫视[4K 8M H264 AAC 5.1]
 http://bp-live4ktc.bestv.cn/264ts/dfws4k264_4k264pts.m3u8
 
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="🇨🇳上海",东方卫视[FHD 16M HEVC AAC 5.1 音视频分离]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海🇨🇳",东方卫视[FHD 16M HEVC AAC 5.1 音视频分离]
 http://bp-live4ktc.bestv.cn/ch/dfws4k1080p.m3u8
 
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="🇨🇳上海",东方卫视[FHD 8M H264 AAC 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海🇨🇳",东方卫视[FHD 8M H264 AAC 5.1]
 http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
 
-#EXTINF:-1 tvg-id="上海艺术人文" tvg-name="上海艺术人文" tvg-logo="https://epg.iill.top/logo/新纪实.png" group-title="🇨🇳上海",上海纪实人文[官方]
+#EXTINF:-1 tvg-id="上海艺术人文" tvg-name="上海艺术人文" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/新纪实.png" group-title="上海🇨🇳",上海纪实人文[官方]
 https://bp-resource-dfl.bestv.cn/155/3/video.m3u8?auth_key=1762234316-ddfb4bdeb71e4371bde3736ece8d51ac-0-e48ed33c2b23a3e534f11b58a2382d47
-#EXTINF:-1 tvg-id="上海爱上海" tvg-name="上海爱上海" tvg-logo="https://epg.iill.top/logo/爱上海.png" group-title="🇨🇳上海",爱上海[官方]
+#EXTINF:-1 tvg-id="上海爱上海" tvg-name="上海爱上海" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/爱上海.png" group-title="上海🇨🇳",爱上海[官方]
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
-#EXTINF:-1,tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://epg.112114.xyz/logo/东方购物.png" group-title="🇨🇳上海",东方购物
+#EXTINF:-1,tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/logo/东方购物.png" group-title="上海🇨🇳",东方购物
 http://ocj2.kksmg.com/ocj1/ocj1.m3u8
-#EXTINF:-1,tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://epg.112114.xyz/logo/上海教育电视台.png" group-title="🇨🇳上海",上海教育
+#EXTINF:-1,tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/logo/上海教育电视台.png" group-title="上海🇨🇳",上海教育
 http://tencent-live.setv.sh.cn/live/programme_setvweb.m3u8?txSecret=fd19aacaed289e44e3f6d8baa5485a41&txTime=82DF98A7
-#EXTINF:-1,tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="https://epg.112114.xyz/logo/点掌财经.png" group-title="🇨🇳上海",点掌财经
+#EXTINF:-1,tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/logo/点掌财经.png" group-title="上海🇨🇳",点掌财经
 http://volcanopull.aniu.tv/live/aniu2/index.m3u8
-#EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://epg.iill.top/logo/新纪实.png" group-title="🇨🇳上海",上海纪实人文
+#EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/新纪实.png" group-title="上海🇨🇳",上海纪实人文
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-#EXTINF:-1,tvg-id="爱上海" tvg-name="爱上海" tvg-logo="https://epg.112114.xyz/logo/爱上海.png" group-title="🇨🇳上海",爱上海
+#EXTINF:-1,tvg-id="爱上海" tvg-name="爱上海" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/logo/爱上海.png" group-title="上海🇨🇳",爱上海
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1,tvg-id="嘉定综合" tvg-name="嘉定综合" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/嘉定综合.png" group-title="🇨🇳上海",嘉定综合
+#EXTINF:-1,tvg-id="嘉定综合" tvg-name="嘉定综合" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/嘉定综合.png" group-title="上海🇨🇳",嘉定综合
 http://5730.liveplay.myqcloud.com/live/JcmcTvNov.m3u8
+
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="上海🇨🇳",东方卫视[iill]
+http://dxa.yiandrive.com:39319/sh/dfws
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/五星体育.png" group-title="上海🇨🇳",五星体育[iill]
+http://dxa.yiandrive.com:39319/sh/wxty
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/第一财经.png" group-title="上海🇨🇳",第一财经[iill]
+http://dxa.yiandrive.com:39319/sh/dycj
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/上海新闻.png" group-title="上海🇨🇳",上海新闻综合[iill]
+http://dxa.yiandrive.com:39319/sh/xwzh
+#EXTINF:-1 tvg-id="上海都市频道" tvg-name="上海都市频道" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/上海都市.png" group-title="上海🇨🇳",上海都市频道[iill]
+http://dxa.yiandrive.com:39319/sh/dspd
+#EXTINF:-1 tvg-id="新纪实" tvg-name="新纪实" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/新纪实.png" group-title="上海🇨🇳",新纪实[iill]
+http://dxa.yiandrive.com:39319/sh/xjs
+#EXTINF:-1 tvg-id="魔都眼" tvg-name="魔都眼" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/魔都眼.png" group-title="上海🇨🇳",魔都眼[iill]
+http://dxa.yiandrive.com:39319/sh/mdy
+#EXTINF:-1 tvg-id="爱上海" tvg-name="爱上海" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/爱上海.png" group-title="上海🇨🇳",爱上海[iill]
+http://dxa.yiandrive.com:39319/sh/ash
+
 
 
 
@@ -934,7 +953,7 @@ https://7pal.short.gy/nowhkp3
 https://7pal.short.gy/nowsport4k
 
 #A1X
-#EXTINF:-1,tvg-id="NOWSPORTS英超1台" tvg-name="NOWSPORTS英超1台" tvg-logo="https://epg.112114.xyz/logo/NOW英超1台.png" group-title="nowtv测试🇭🇰",Now Sports 英超1台[A1X]
+#EXTINF:-1,tvg-id="NOWSPORTS英超1台" tvg-name="NOWSPORTS英超1台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/logo/NOW英超1台.png" group-title="nowtv测试🇭🇰",Now Sports 英超1台[A1X]
 https://a1xs.vip/1100001
 #EXTINF:-1,tvg-id="NOWSPORTS英超2台" tvg-name="NOWSPORTS英超2台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/refs/heads/main/Now Sports 英超2台.png" group-title="nowtv测试🇭🇰",Now Sports 英超2台[A1X]
 https://a1xs.vip/1100002
@@ -946,29 +965,29 @@ https://a1xs.vip/9000013
 #测试
 #KansasCity
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="Kansas City",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/翡翠台.png" group-title="Kansas City⚙️",翡翠台
 http://74.91.26.218:82/live/jade.m3u8
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="TVB无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="Kansas City",无线新闻台
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="TVB无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="Kansas City⚙️",无线新闻台
 http://74.91.26.218:82/live/inews.m3u8
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBPlus.png" group-title="Kansas City",TVB Plus
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBPlus.png" group-title="Kansas City⚙️",TVB Plus
 http://74.91.26.218:82/live/j2.m3u8
-#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="Kansas City",NOW星影台
+#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="Kansas City⚙️",NOW星影台
 http://74.91.26.218:82/live/nowxy.m3u8
-#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/中视.png" group-title="Kansas City",中视
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/中视.png" group-title="Kansas City⚙️",中视
 http://74.91.26.218:82/live/ctv.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/中视新闻.png" group-title="Kansas City",中视新闻
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/中视新闻.png" group-title="Kansas City⚙️",中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 tvg-id="中视经典台HD" tvg-name="中视经典台HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/中视经典.png" group-title="Kansas City",中视经典
+#EXTINF:-1 tvg-id="中视经典台HD" tvg-name="中视经典台HD" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/中视经典.png" group-title="Kansas City⚙️",中视经典
 http://74.91.26.218:82/live/ctvjd.m3u8
-#EXTINF:-1 tvg-id="中视菁采台HD" tvg-name="中视菁采台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视菁采.png" group-title="Kansas City",中视菁采
+#EXTINF:-1 tvg-id="中视菁采台HD" tvg-name="中视菁采台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视菁采.png" group-title="Kansas City⚙️",中视菁采
 http://74.91.26.218:82/live/ctvjc.m3u8
-#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/台视.png" group-title="Kansas City",台视
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/台视.png" group-title="Kansas City⚙️",台视
 http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/台视新闻.png" group-title="Kansas City",台视新闻
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/台视新闻.png" group-title="Kansas City⚙️",台视新闻
 http://74.91.26.218:82/live/ttvnews.m3u8
-#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/台视综合.png" group-title="Kansas City",台视综合
+#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/台视综合.png" group-title="Kansas City⚙️",台视综合
 http://74.91.26.218:82/live/ttvzh.m3u8
-#EXTINF:-1 tvg-id="台视财经台" tvg-name="台视财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视财经.png" group-title="Kansas City",台视财经
+#EXTINF:-1 tvg-id="台视财经台" tvg-name="台视财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视财经.png" group-title="Kansas City⚙️",台视财经
 http://74.91.26.218:82/live/ttvcj.m3u8
 
 
