@@ -804,15 +804,15 @@ https://bp-resource-dfl.bestv.cn/155/3/video.m3u8?auth_key=1762234316-ddfb4bdeb7
 #EXTINF:-1 tvg-id="上海爱上海" tvg-name="上海爱上海" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/爱上海.png" group-title="上海🇨🇳",爱上海[官方]
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
-#EXTINF:-1,tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/logo/东方购物.png" group-title="上海🇨🇳",东方购物
+#EXTINF:-1,tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方购物.png" group-title="上海🇨🇳",东方购物
 http://ocj2.kksmg.com/ocj1/ocj1.m3u8
-#EXTINF:-1,tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/logo/上海教育电视台.png" group-title="上海🇨🇳",上海教育
+#EXTINF:-1,tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/上海教育电视台.png" group-title="上海🇨🇳",上海教育
 http://tencent-live.setv.sh.cn/live/programme_setvweb.m3u8?txSecret=fd19aacaed289e44e3f6d8baa5485a41&txTime=82DF98A7
-#EXTINF:-1,tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/logo/点掌财经.png" group-title="上海🇨🇳",点掌财经
+#EXTINF:-1,tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/点掌财经.png" group-title="上海🇨🇳",点掌财经
 http://volcanopull.aniu.tv/live/aniu2/index.m3u8
 #EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/新纪实.png" group-title="上海🇨🇳",上海纪实人文
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-#EXTINF:-1,tvg-id="爱上海" tvg-name="爱上海" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/logo/爱上海.png" group-title="上海🇨🇳",爱上海
+#EXTINF:-1,tvg-id="爱上海" tvg-name="爱上海" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/爱上海.png" group-title="上海🇨🇳",爱上海
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1,tvg-id="嘉定综合" tvg-name="嘉定综合" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/嘉定综合.png" group-title="上海🇨🇳",嘉定综合
 http://5730.liveplay.myqcloud.com/live/JcmcTvNov.m3u8
