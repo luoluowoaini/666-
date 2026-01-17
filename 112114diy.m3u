@@ -820,12 +820,8 @@ http://5730.liveplay.myqcloud.com/live/JcmcTvNov.m3u8
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/东方卫视4K.png" group-title="上海🇨🇳",东方卫视[iill]
 http://dxa.yiandrive.com:39319/sh/dfws
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/五星体育.png" group-title="上海🇨🇳",五星体育[iill]
-http://dxa.yiandrive.com:39319/sh/wxty
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/第一财经.png" group-title="上海🇨🇳",第一财经[iill]
 http://dxa.yiandrive.com:39319/sh/dycj
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/上海新闻.png" group-title="上海🇨🇳",上海新闻综合[iill]
-http://dxa.yiandrive.com:39319/sh/xwzh
 #EXTINF:-1 tvg-id="上海都市频道" tvg-name="上海都市频道" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/上海都市.png" group-title="上海🇨🇳",上海都市频道[iill]
 http://dxa.yiandrive.com:39319/sh/dspd
 #EXTINF:-1 tvg-id="新纪实" tvg-name="新纪实" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/新纪实.png" group-title="上海🇨🇳",新纪实[iill]
@@ -834,6 +830,10 @@ http://dxa.yiandrive.com:39319/sh/xjs
 http://dxa.yiandrive.com:39319/sh/mdy
 #EXTINF:-1 tvg-id="爱上海" tvg-name="爱上海" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/爱上海.png" group-title="上海🇨🇳",爱上海[iill]
 http://dxa.yiandrive.com:39319/sh/ash
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/五星体育.png" group-title="上海🇨🇳",五星体育[juli]
+https://cdn3.163189.xyz/163189/wxty
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/iill-logo-mytvsuper/第一财经.png" group-title="上海🇨🇳",第一财经[juli]
+https://cdn3.163189.xyz/163189/dycj
 
 
 
