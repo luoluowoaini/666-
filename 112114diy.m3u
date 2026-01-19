@@ -343,11 +343,11 @@ https://yang-1989.eu.org/live/now-630
 https://yang-1989.eu.org/live/ViuTV
 #EXTINF:-1 tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTVSIX.png" group-title="iill推流&官方源🇭🇰🇲🇴",ViuTVsix
 https://yang-1989.eu.org/live/ViuTVsix
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="iill推流&官方源🇭🇰🇲🇴",鳳凰中文
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="iill推流&官方源🇭🇰🇲🇴",凤凰卫视中文台
 https://tv.iill.top/phenix/fhzw
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="iill推流&官方源🇭🇰🇲🇴",鳳凰資訊
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="iill推流&官方源🇭🇰🇲🇴",凤凰卫视资讯台
 https://tv.iill.top/phenix/fhzx
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="iill推流&官方源🇭🇰🇲🇴",鳳凰香港
+#EXTINF:-1 tvg-id="凤凰卫视香港台 (免费)" tvg-name="凤凰卫视香港台 (免费)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="iill推流&官方源🇭🇰🇲🇴",凤凰卫视香港台
 https://tv.iill.top/phenix/fhhk
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOY国际财经.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY 國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
