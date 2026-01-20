@@ -407,15 +407,15 @@ https://tv.iill.top/x/wlty
 https://tv.iill.top/x/wldy
 #EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="iill测试🛠️",東森電影
 https://tv.iill.top/x/dsdy
-#EXTINF:-1 tvg-id="LS TIME电影台" tvg-name="LS TIME电影台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/龍翔時代.png" group-title="iill测试🛠️",龍翔時代
+#EXTINF:-1 tvg-id="LSTIME电影台" tvg-name="LSTIME电影台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/龍翔時代.png" group-title="iill测试🛠️",LSTIME电影台
 https://tv.iill.top/x/lxsd
 #EXTINF:-1 tvg-id="TNTSPORTS1HD" tvg-name="TNTSPORTS1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS1.png" group-title="iill测试🛠️",TNT Sports 1 HD
 https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSPORTS1HD" tvg-name="TNTSPORTS1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS1.png" group-title="iill测试🛠️",TNT Sports 1 HD
+#EXTINF:-1 tvg-id="TNTSPORTS1HD" tvg-name="TNTSPORTS1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS1.png" group-title="iill测试🛠️",TNT Sports 2 HD
 https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSPORTS1HD" tvg-name="TNTSPORTS1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS1.png" group-title="iill测试🛠️",TNT Sports 1 HD
+#EXTINF:-1 tvg-id="TNTSPORTS1HD" tvg-name="TNTSPORTS1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS1.png" group-title="iill测试🛠️",TNT Sports 3 HD
 https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSPORTS1HD" tvg-name="TNTSPORTS1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS1.png" group-title="iill测试🛠️",TNT Sports 1 HD
+#EXTINF:-1 tvg-id="TNTSPORTS1HD" tvg-name="TNTSPORTS1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS1.png" group-title="iill测试🛠️",TNT Sports 4 HD
 https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
 #EXTINF:-1 tvg-id="BEINSPORTSHD" tvg-name="BEINSPORTSHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BEINSPORTSUSA.png" group-title="iill测试🛠️",beIN Sports HD
 http://hls.iill.top/api/beIN-Sports-1/playlist.m3u8
