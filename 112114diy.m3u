@@ -1,113 +1,4 @@
 #EXTM3U
-#风云央卫
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="风云央卫🇨🇳",CCTV1综合
-http://iptv.4666888.xyz/iptv2A.php?id=7
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="风云央卫🇨🇳",CCTV2财经
-http://iptv.4666888.xyz/iptv2A.php?id=8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="风云央卫🇨🇳",CCTV3综艺
-http://iptv.4666888.xyz/iptv2A.php?id=9
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="风云央卫🇨🇳",CCTV4中文国际
-http://iptv.4666888.xyz/iptv2A.php?id=10
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="风云央卫🇨🇳",CCTV13新闻
-http://iptv.4666888.xyz/iptv2A.php?id=11
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="风云央卫🇨🇳",CCTV14少儿
-http://iptv.4666888.xyz/iptv2A.php?id=12
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="风云央卫🇨🇳",CCTV16
-http://iptv.4666888.xyz/iptv2A.php?id=32
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="风云央卫🇨🇳",广东卫视
-http://iptv.4666888.xyz/iptv2A.php?id=18
-#EXTINF:-1 tvg-id="珠江台" tvg-name="珠江台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="风云央卫🇨🇳",广东珠江
-http://iptv.4666888.xyz/iptv2A.php?id=19
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="风云央卫🇨🇳",广东体育
-http://iptv.4666888.xyz/iptv2A.php?id=20
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="风云央卫🇨🇳",湖南卫视
-http://iptv.4666888.xyz/iptv2A.php?id=13
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="风云央卫🇨🇳",浙江卫视
-http://iptv.4666888.xyz/iptv2A.php?id=14
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="风云央卫🇨🇳",江苏卫视
-http://iptv.4666888.xyz/iptv2A.php?id=15
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="风云央卫🇨🇳",山西卫视
-http://iptv.4666888.xyz/iptv2A.php?id=16
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="风云央卫🇨🇳",青海卫视
-http://iptv.4666888.xyz/iptv2A.php?id=17
-
-#风云体育
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/SPOTV.png" group-title="风云体育⚽️",SPOTV
-http://iptv.4666888.xyz/iptv2A.php?id=2
-#EXTINF:-1 tvg-id="SPOTV 2" tvg-name="SPOTV 2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/SPOTV2.png" group-title="风云体育⚽️",SPOTV 2
-http://iptv.4666888.xyz/iptv2A.php?id=1
-#EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ASTROFOOTBALL.png" group-title="风云体育⚽️",Astro Football
-http://iptv.4666888.xyz/iptv2A.php?id=4
-#EXTINF:-1 tvg-id="TNT SPORTS 1 HD" tvg-name="TNT SPORTS 1 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS1.png" group-title="风云体育⚽️",TNTSPORTS1HD
-http://iptv.4666888.xyz/iptv2A.php?id=3
-#EXTINF:-1 tvg-id="WWE NETWORK" tvg-name="WWE NETWORK" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/WWE.png" group-title="风云体育⚽️",WWE NETWORK
-http://iptv.4666888.xyz/iptv2A.php?id=5
-#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯运动一.png" group-title="风云体育⚽️",博斯运动一台
-http://iptv.4666888.xyz/iptv2A.php?id=6
-
-#风云港澳台
-#EXTINF:-1 tvg-id="凰凰卫视中文台" tvg-name="凰凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="风云港澳台🌏",凤凰中文
-http://iptv.4666888.xyz/iptv2A.php?id=27
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="风云港澳台🌏",翡翠台
-http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-id="TVB JADE (HD)" tvg-name="TVB JADE (HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="风云港澳台🌏",TVB JADE
-http://iptv.4666888.xyz/iptv2A.php?id=28
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="风云港澳台🌏",明珠台
-http://iptv.4666888.xyz/iptv2A.php?id=29
-#EXTINF:-1 tvg-id="TVB翡翠综合台(TVBJ1)" tvg-name="TVB翡翠综合台(TVBJ1)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="风云港澳台🌏",TVB翡翠综合台(TVBJ1)
-http://iptv.4666888.xyz/iptv2A.php?id=26
-#EXTINF:-1 tvg-id="翡翠一台(TVB1)" tvg-name="翡翠一台(TVB1)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png" group-title="风云港澳台🌏",翡翠一台(TVB1)
-http://iptv.4666888.xyz/iptv2A.php?id=25
-#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="风云港澳台🌏",千禧经典台
-http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="风云港澳台🌏",HOY 资讯台
-http://iptv.4666888.xyz/iptv2A.php?id=35
-#EXTINF:-1 tvg-id="HOY 76" tvg-name="HOY 76" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOY国际财经.png" group-title="风云港澳台🌏",HOY 国际财经台
-http://iptv.4666888.xyz/iptv2A.php?id=31
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="风云港澳台🌏",RTHK31
-http://iptv.4666888.xyz/iptv2A.php?id=23
-#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="风云港澳台🌏",娱乐新闻台
-http://iptv.4666888.xyz/iptv2A.php?id=36
-#EXTINF:-1 tvg-id="TVB翡翠剧集台(TVB Drama)" tvg-name="TVB翡翠剧集台(TVB Drama)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBDRAMA.png" group-title="风云港澳台🌏",TVB翡翠剧集台(TVBDRAMA)
-http://iptv.4666888.xyz/iptv2A.php?id=33
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="风云港澳台🌏",澳视澳门
-http://iptv.4666888.xyz/iptv2A.php?id=41
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS新闻.png" group-title="风云港澳台🌏",TVBS新闻
-http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/非凡新闻.png" group-title="风云港澳台🌏",非凡新闻台
-http://iptv.4666888.xyz/iptv2A.php?id=44
-#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视.png" group-title="风云港澳台🌏",民视
-http://iptv.4666888.xyz/iptv2A.php?id=55
-#EXTINF:-1 tvg-id="华艺中文台" tvg-name="华艺中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华艺MBC综合.png" group-title="风云港澳台🌏",华艺中文台
-http://iptv.4666888.xyz/iptv2A.php?id=37
-#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/iQIYI.png" group-title="风云港澳台🌏",爱奇艺
-http://iptv.4666888.xyz/iptv2A.php?id=21
-#EXTINF:-1 tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖洋戏剧.png" group-title="风云港澳台🌏",靖洋戏剧台
-http://iptv.4666888.xyz/iptv2A.php?id=42
-#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天电影.png" group-title="风云港澳台🌏",靖天电影台
-http://iptv.4666888.xyz/iptv2A.php?id=56
-#EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="风云港澳台🌏",东森电影台
-http://iptv.4666888.xyz/iptv2A.php?id=48
-#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="风云港澳台🌏",龙华电影
-http://iptv.4666888.xyz/iptv2A.php?id=45
-#EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视综艺.png" group-title="风云港澳台🌏",民视综艺台
-http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1 tvg-id="TVBS精采台HD" tvg-name="TVBS精采台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS精采.png" group-title="风云港澳台🌏",TVBS精采台HD
-http://iptv.4666888.xyz/iptv2A.php?id=47
-#EXTINF:-1 tvg-id="爱尔达综合台HD" tvg-name="爱尔达综合台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达综合.png" group-title="风云港澳台🌏",爱尔达综合台HD
-http://iptv.4666888.xyz/iptv2A.php?id=49
-#EXTINF:-1 tvg-id="ROCK ACTION (HD)" tvg-name="ROCK ACTION (HD)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKACTION.png" group-title="风云港澳台🌏",ROCKACTION
-http://iptv.4666888.xyz/iptv2A.php?id=50
-#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视综合.png" group-title="风云港澳台🌏",台视综合
-http://iptv.4666888.xyz/iptv2A.php?id=51
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png" group-title="风云港澳台🌏",8TV
-http://iptv.4666888.xyz/iptv2A.php?id=52
-#EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视影剧.png" group-title="风云港澳台🌏",民视影剧台
-http://iptv.4666888.xyz/iptv2A.php?id=53
-#EXTINF:-1 tvg-id="中视经典台HD" tvg-name="中视经典台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视经典.png" group-title="风云港澳台🌏",中视经典台HD
-http://iptv.4666888.xyz/iptv2A.php?id=54
-
-
 #judy推流
 #EXTINF:-1 tvg-id="爆谷台" tvg-name="爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="海外频道✈️",NOW爆谷台[GPT]
 https://tuiliu.go-iptv.ggff.net/baogutai/stream.m3u8
@@ -330,6 +221,53 @@ http://cdn10.163189.xyz/163189/typd
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="海外频道✈️",天映经典[新加坡]
 http://cdn10.163189.xyz/163189/ccm
 
+#judy体育
+#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHTSPORTSHD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/FIGHT SPORTS HD.png" group-title="海外频道✈️",FIGHT SPORTS HD
+https://012v4.goiptv.us.ci/stream/starhub/fightsportshd/
+#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="HUBSPORTS1HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 1 HD.png" group-title="海外频道✈️",Hub Sports 1 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports1hd/
+#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="HUBSPORTS2HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 2 HD.png" group-title="海外频道✈️",Hub Sports 2 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports2hd/
+#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="HUBSPORTS3HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 3 HD.png" group-title="海外频道✈️",Hub Sports 3 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports3hd/
+#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="HUBSPORTS4HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 4 HD.png" group-title="海外频道✈️",Hub Sports 4 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports4hd/
+#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="HUBSPORTS5HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 5 HD.png" group-title="海外频道✈️",Hub Sports 5 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports5hd/
+#EXTINF:-1 tvg-id="Hub Sports 6 HD" tvg-name="HUBSPORTS6" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 6.png" group-title="海外频道✈️",Hub Sports 6 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports6hd/
+#EXTINF:-1 tvg-id="Hub Sports 7 HD" tvg-name="HUBSPORTS7" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 7.png" group-title="海外频道✈️",Hub Sports 7 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports7hd/
+#EXTINF:-1 tvg-id="Hub Sports 8 HD" tvg-name="HUBSPORTS8" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 8.png" group-title="海外频道✈️",Hub Sports 8 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports8hd/
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="BEINSPORTSHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BEINSPORTSUSA.png" group-title="海外频道✈️",beIN Sports HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsportshd/
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="BEINSPORTS2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BEINSPORTSUSA.png" group-title="海外频道✈️",beIN Sports 2 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports2hd/
+#EXTINF:-1 tvg-id="beIN Sports 3 HD" tvg-name="BEINSPORTS3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BEINSPORTSUSA.png" group-title="海外频道✈️",beIN Sports 3 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports3hd/
+#EXTINF:-1 tvg-id="beIN Sports 4 HD" tvg-name="BEINSPORTS4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BEINSPORTSUSA.png" group-title="海外频道✈️",beIN Sports 4 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports4hd/
+#EXTINF:-1 tvg-id="beIN Sports 5 HD" tvg-name="BEINSPORTS5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN Sports 5.png" group-title="海外频道✈️",beIN Sports 5 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports5hd/
+#EXTINF:-1 tvg-id="Hub Premier 1 HD" tvg-name="HUBPREMIER1" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HUB Premier 1.png" group-title="海外频道✈️",Hub Premier 1 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier1hd/
+#EXTINF:-1 tvg-id="Hub Premier 2 HD" tvg-name="HUBPREMIER2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 2.png" group-title="海外频道✈️",Hub Premier 2 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier2hd/
+#EXTINF:-1 tvg-id="Hub Premier 2 4K" tvg-name="HUBPREMIER2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 2.png" group-title="海外频道✈️",Hub Premier 2 4K
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier24k/
+#EXTINF:-1 tvg-id="Hub Premier 3 HD" tvg-name="HUBPREMIER3" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 3.png" group-title="海外频道✈️",Hub Premier 3 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier3hd/
+#EXTINF:-1 tvg-id="Hub Premier 4 HD" tvg-name="HUBPREMIER4" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 4.png" group-title="海外频道✈️",Hub Premier 4 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier4hd/
+#EXTINF:-1 tvg-id="Hub Premier 5 HD" tvg-name="HUBPREMIER5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 5.png" group-title="海外频道✈️",Hub Premier 5 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier5hd/
+#EXTINF:-1 tvg-id="Hub Premier 6 HD" tvg-name="HUBPREMIER6" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 6.png" group-title="海外频道✈️",Hub Premier 6 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier6hd/
+#EXTINF:-1 tvg-id="Hub Premier 7 HD" tvg-name="HUBPREMIER7" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 7.png" group-title="海外频道✈️",Hub Premier 7 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier7hd/
+#EXTINF:-1 tvg-id="Hub Premier 8 HD" tvg-name="HUBPREMIER8" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 8.png" group-title="海外频道✈️",Hub Premier 8 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier8hd/
 
 #iill推流
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="iill推流&官方源🇭🇰🇲🇴",Now新聞台
