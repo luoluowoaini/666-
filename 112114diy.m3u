@@ -269,215 +269,215 @@ https://012v4.goiptv.us.ci/stream/starhub/hubpremier7hd/
 #EXTINF:-1 tvg-id="Hub Premier 8 HD" tvg-name="HUBPREMIER8" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 8.png" group-title="海外频道✈️",Hub Premier 8 HD
 https://012v4.goiptv.us.ci/stream/starhub/hubpremier8hd/
 
-#iill推流
-#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="iill推流&官方源🇭🇰🇲🇴",Now新聞台
-https://yang-1989.eu.org/live/now-332
-#EXTINF:-1 tvg-id="NOW财经台" tvg-name="NOW财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW财经.png" group-title="iill推流&官方源🇭🇰🇲🇴",Now財經台
-https://yang-1989.eu.org/live/now-333
-#EXTINF:-1 tvg-id="Now Sports 精选" tvg-name="Now Sports 精选" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Now Sports 精選.png" group-title="iill推流&官方源🇭🇰🇲🇴",Now Sports 精選
-https://yang-1989.eu.org/live/now-630
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="iill推流&官方源🇭🇰🇲🇴",ViuTV
-https://yang-1989.eu.org/live/ViuTV
-#EXTINF:-1 tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTVSIX.png" group-title="iill推流&官方源🇭🇰🇲🇴",ViuTVsix
-https://yang-1989.eu.org/live/ViuTVsix
-#EXTINF:-1 tvg-id="凰凰卫视中文台" tvg-name="凰凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="iill推流&官方源🇭🇰🇲🇴",凤凰卫视中文台
+
+
+#DIY-TV
+#diy
+#DIY-IILL
+#DIYIILL
+#iill
+#iill推流&官方源
+#🇭🇰🇲🇴-iill推流&官方源
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="🇭🇰🇲🇴iill官方源",鳳凰衛視·中文「回看」
 https://tv.iill.top/phenix/fhzw
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="iill推流&官方源🇭🇰🇲🇴",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="🇭🇰🇲🇴iill官方源",鳳凰衛視·資訊「回看」
 https://tv.iill.top/phenix/fhzx
-#EXTINF:-1 tvg-id="凤凰卫视香港台 (免费)" tvg-name="凤凰卫视香港台 (免费)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="iill推流&官方源🇭🇰🇲🇴",凤凰卫视香港台
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="🇭🇰🇲🇴iill官方源",鳳凰衛視·香港「回看」
 https://tv.iill.top/phenix/fhhk
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOY国际财经.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY 國際財經台
+
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Now新聞台.png" group-title="🇭🇰🇲🇴iill官方源",Now新聞台
+https://yang-1989.eu.org/live/now-332
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Now財經台.png" group-title="🇭🇰🇲🇴iill官方源",Now財經台
+https://yang-1989.eu.org/live/now-333
+#EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Now Sports 精選.png" group-title="🇭🇰🇲🇴iill官方源",Now Sports 精選
+https://yang-1989.eu.org/live/now-630
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTV.png" group-title="🇭🇰🇲🇴iill官方源",ViuTV
+https://yang-1989.eu.org/live/ViuTV
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTVsix.png" group-title="🇭🇰🇲🇴iill官方源",ViuTVsix
+https://yang-1989.eu.org/live/ViuTVsix
+
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="🇭🇰🇲🇴iill官方源",HOY 國際財經台「限HK」
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY TV
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="🇭🇰🇲🇴iill官方源",HOY TV「限HK」
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY 資訊台
+#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="🇭🇰🇲🇴iill官方源",HOY 資訊台「限HK」
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY 生活台
-https://tv.iill.top/hoy/8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY 劇集台
-https://tv.iill.top/hoy/9
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY 怪談台
-https://tv.iill.top/hoy/10
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="iill推流&官方源🇭🇰🇲🇴",HOY 體育台
-https://tv.iill.top/hoy/11
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="iill推流&官方源🇭🇰🇲🇴",RTHK31
+
+
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK31.png" group-title="🇭🇰🇲🇴iill官方源",RTHK 31「限HK」
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="iill推流&官方源🇭🇰🇲🇴",RTHK32
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK32.png" group-title="🇭🇰🇲🇴iill官方源",RTHK 32「限HK」
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK33.png" group-title="iill推流&官方源🇭🇰🇲🇴",RTHK33
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK33.png" group-title="🇭🇰🇲🇴iill官方源",RTHK 33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK34.png" group-title="iill推流&官方源🇭🇰🇲🇴",RTHK34
+#EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK34.png" group-title="🇭🇰🇲🇴iill官方源",RTHK 34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK35.png" group-title="iill推流&官方源🇭🇰🇲🇴",RTHK35
+#EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK35.png" group-title="🇭🇰🇲🇴iill官方源",RTHK 35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK36" tvg-name="RTHK36" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK36.png" group-title="iill推流&官方源🇭🇰🇲🇴",RTHK36
+#EXTINF:-1 tvg-id="RTHK36" tvg-name="RTHK36" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK36.png" group-title="🇭🇰🇲🇴iill官方源",RTHK 36
 https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
-#EXTINF:-1 tvg-id="澳门卫星" tvg-name="澳门卫星" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门Macau.png" group-title="iill推流&官方源🇭🇰🇲🇴",澳門Macau
+
+#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门莲花.png" group-title="🇭🇰🇲🇴iill官方源",澳門蓮花
+https://tv.iill.top/mo/lotustv&token=d69be6caf2bede4d3f6aaaa2b6093d96bd52c9fcaac6841e7bcdfdac12c1947a
+#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门Macau.png" group-title="🇭🇰🇲🇴iill官方源",澳門Macau
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳门葡萄牙" tvg-name="澳门葡萄牙" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳视葡文.png" group-title="iill推流&官方源🇭🇰🇲🇴",澳视葡文
+#EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳视葡文.png" group-title="🇭🇰🇲🇴iill官方源",澳門葡文
 https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="iill推流&官方源🇭🇰🇲🇴",澳視澳門
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳视澳门.png" group-title="🇭🇰🇲🇴iill官方源",澳視澳門
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门资讯.png" group-title="iill推流&官方源🇭🇰🇲🇴",澳門資訊
+#EXTINF:-1 tvg-id="澳视资讯" tvg-name="澳视资讯" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门资讯.png" group-title="🇭🇰🇲🇴iill官方源",澳門資訊
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门体育.png" group-title="iill推流&官方源🇭🇰🇲🇴",澳門體育
+#EXTINF:-1 tvg-id="澳视体育" tvg-name="澳视体育" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门体育.png" group-title="🇭🇰🇲🇴iill官方源",澳門體育
 https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门综艺.png" group-title="iill推流&官方源🇭🇰🇲🇴",澳門綜藝
+#EXTINF:-1 tvg-id="澳视综艺" tvg-name="澳视综艺" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门综艺.png" group-title="🇭🇰🇲🇴iill官方源",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
-#iill测试
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png" group-title="iill测试🛠️",BBC Earth
-https://hls.iill.top/api/BBC-Earth/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCLIFESTYLE.png" group-title="iill测试🛠️",BBC Lifestyle
-https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL (HD)" tvg-name="DISCOVERY CHANNEL (HD)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERYCHANNEL.png" group-title="iill测试🛠️",Discovery Channel
-https://hls.iill.top/api/Discovery/playlist.m3u8
-#EXTINF:-1 tvg-id="CELESTIAL" tvg-name="CELESTIAL" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映频道.png" group-title="iill测试🛠️",CELESTIAL
-https://tv.iill.top/x/typd
-#EXTINF:-1 tvg-id="动物星球频道" tvg-name="动物星球频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动物星球.png" group-title="iill测试🛠️",动物星球频道
-https://tv.iill.top/x/dwxq
-#EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来日本.png" group-title="iill测试🛠️",緯來日本
-https://tv.iill.top/x/wlrb
-#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来体育.png" group-title="iill测试🛠️",緯來體育
-https://tv.iill.top/x/wlty
-#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="iill测试🛠️",緯來電影
-https://tv.iill.top/x/wldy
-#EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="iill测试🛠️",東森電影
-https://tv.iill.top/x/dsdy
-#EXTINF:-1 tvg-id="LSTIME电影台" tvg-name="LSTIME电影台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/龍翔時代.png" group-title="iill测试🛠️",LSTIME电影台
-https://tv.iill.top/x/lxsd
-#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS1.png" group-title="iill测试🛠️",TNT Sports 1 HD
-https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS1.png" group-title="iill测试🛠️",TNT Sports 2 HD
-https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS1.png" group-title="iill测试🛠️",TNT Sports 3 HD
-https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS1.png" group-title="iill测试🛠️",TNT Sports 4 HD
-https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BEINSPORTSUSA.png" group-title="iill测试🛠️",beIN Sports HD
-http://hls.iill.top/api/beIN-Sports-1/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BEINSPORTSUSA.png" group-title="iill测试🛠️",beIN Sports 2 HD
-http://hls.iill.top/api/beIN-Sports-2/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 3 HD" tvg-name="beIN Sports 3 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BEINSPORTSUSA.png" group-title="iill测试🛠️",beIN Sports 3 HD
-http://hls.iill.top/api/beIN-Sports-3/playlist.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS 4" tvg-name="BEIN SPORTS 4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BEINSPORTSUSA.png" group-title="iill测试🛠️",beIN Sports 4 HD
-http://hls.iill.top/api/beIN-Sports-4/playlist.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS 5" tvg-name="BEIN SPORTS 5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN Sports 5.png" group-title="iill测试🛠️",beIN Sports 5 HD
-http://hls.iill.top/api/beIN-Sports-5/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HUB Premier 1.png" group-title="iill测试🛠️",Hub Premier 1
-http://hls.iill.top/api/Hub-Premier-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 2.png" group-title="iill测试🛠️",Hub Premier 2
-http://hls.iill.top/api/Hub-Premier-2/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 3.png" group-title="iill测试🛠️",Hub Premier 3
-http://hls.iill.top/api/Hub-Premier-3/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 4.png" group-title="iill测试🛠️",Hub Premier 4
-http://hls.iill.top/api/Hub-Premier-4/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 5.png" group-title="iill测试🛠️",Hub Premier 5
-http://hls.iill.top/api/Hub-Premier-5/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 6.png" group-title="iill测试🛠️",Hub Premier 6
-http://hls.iill.top/api/Hub-Premier-6/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 7.png" group-title="iill测试🛠️",Hub Premier 7
-http://hls.iill.top/api/Hub-Premier-7/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 8.png" group-title="iill测试🛠️",Hub Premier 8
-http://hls.iill.top/api/Hub-Premier-8/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 1 HD.png" group-title="iill测试🛠️",Hub Sports 1 HD
-http://hls.iill.top/api/Hub-Sports-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 2 HD.png" group-title="iill测试🛠️",Hub Sports 2 HD
-http://hls.iill.top/api/Hub-Sports-2/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 3 HD.png" group-title="iill测试🛠️",Hub Sports 3 HD
-http://hls.iill.top/api/Hub-Sports-3/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 4 HD.png" group-title="iill测试🛠️",Hub Sports 4 HD
-http://hls.iill.top/api/Hub-Sports-4/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 5 HD.png" group-title="iill测试🛠️",Hub Sports 5 HD
-http://hls.iill.top/api/Hub-Sports-5/playlist.m3u8
-#EXTINF:-1 tvg-id="HUB SPORTS 6 HD" tvg-name="HUB SPORTS 6 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 6.png" group-title="iill测试🛠️",Hub Sports 6 HD
-http://hls.iill.top/api/Hub-Sports-6/playlist.m3u8
-#EXTINF:-1 tvg-id="HUB SPORTS 7 HD" tvg-name="HUB SPORTS 7 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 7.png" group-title="iill测试🛠️",Hub Sports 7 HD
-http://hls.iill.top/api/Hub-Sports-7/playlist.m3u8
-#EXTINF:-1 tvg-id="HUB SPORTS 8 HD" tvg-name="HUB SPORTS 8 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 8.png" group-title="iill测试🛠️",Hub Sports 8 HD
-http://hls.iill.top/api/Hub-Sports-8/playlist.m3u8
-#EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/FIGHTSPORTS.png" group-title="iill测试🛠️",Fight Sports
-http://hls.iill.top/api/Fight-Sports/playlist.m3u8
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Spotv-1.png" group-title="iill测试🛠️",Spotv 1
-http://hls.iill.top/api/Spotv-1/playlist.m3u8
-#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/SPOTV2.png" group-title="iill测试🛠️",Spotv 2
-http://hls.iill.top/api/Spotv-2/playlist.m3u8
 
+#iill测试
+#testiill
+#🛠️TEST-iill
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/BBC-Earth.png" group-title="🛠️TEST-iill",BBC Earth
+https://hls.iill.top/api/BBC-Earth/index.m3u8
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/BBC-Lifestyle.png" group-title="🛠️TEST-iill",BBC Lifestyle
+https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Discovery-Channel.png" group-title="🛠️TEST-iill",Discovery
+https://hls.iill.top/api/Discovery/index.m3u8
+#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/動物星球.png" group-title="🛠️TEST-iill",動物星球
+https://hls.iill.top/api/dwxq/index.m3u8
+#EXTINF:-1 tvg-id="緯來日本台" tvg-name=緯來日本台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/緯來日本.png" group-title="🛠️TEST-iill",緯來日本
+https://hls.iill.top/api/wlrb/index.m3u8
+#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/緯來體育.png" group-title="🛠️TEST-iill",緯來體育
+https://hls.iill.top/api/wlty/index.m3u8
+#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/緯來電影.png" group-title="🛠️TEST-iill",緯來電影
+https://hls.iill.top/api/wldy/index.m3u8
+#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/東森電影.png" group-title="🛠️TEST-iill",東森電影
+https://hls.iill.top/api/dsdy/index.m3u8
+#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@main/东森洋片台.png" group-title="🛠️TEST-iill",東森洋片
+https://hls.iill.top/api/dsyp/index.m3u8
+#EXTINF:-1 tvg-id="LS TIME电影台" tvg-name="LS TIME电影台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/龙祥时代.png" group-title="🛠️TEST-iill",LS TIME电影台
+https://hls.iill.top/api/lxsd/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/NBA.png"  group-title="🛠️TEST-iill", NBA TV
+https://hls.iill.top/api/NBA/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-1.png"  group-title="🛠️TEST-iill", TNT Sport 1
+https://hls.iill.top/api/TNT-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-2.png"  group-title="🛠️TEST-iill", TNT Sport 2
+https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-3.png" group-title="🛠️TEST-iill", TNT Sport 3
+https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-4.png" group-title="🛠️TEST-iill", TNT Sport 4
+https://hls.iill.top/api/TNT-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-1.png" group-title="🛠️TEST-iill",beIN Sports 1
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-2.png" group-title="🛠️TEST-iill",beIN Sports 2
+https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-3.png" group-title="🛠️TEST-iill",beIN Sports 3
+https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-4.png" group-title="🛠️TEST-iill",beIN Sports 4
+https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-5.png" group-title="🛠️TEST-iill",beIN Sports 5
+https://hls.iill.top/api/beIN-Sports-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-1.png" group-title="🛠️TEST-iill",Hub Premier 1
+https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 2 (HD)" tvg-name="Hub Premier 2 (HD)" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-2.png" group-title="🛠️TEST-iill",Hub Premier 2
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-3.png" group-title="🛠️TEST-iill",Hub Premier 3
+https://hls.iill.top/api/Hub-Premier-3/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-4.png" group-title="🛠️TEST-iill",Hub Premier 4
+https://hls.iill.top/api/Hub-Premier-4/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-5.png" group-title="🛠️TEST-iill",Hub Premier 5
+https://hls.iill.top/api/Hub-Premier-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-6.png" group-title="🛠️TEST-iill",Hub Premier 6
+https://hls.iill.top/api/Hub-Premier-6/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-7.png" group-title="🛠️TEST-iill",Hub Premier 7
+https://hls.iill.top/api/Hub-Premier-7/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-8.png" group-title="🛠️TEST-iill",Hub Premier 8
+https://hls.iill.top/api/Hub-Premier-8/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-1.png" group-title="🛠️TEST-iill",Hub Sports 1
+https://hls.iill.top/api/Hub-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-2.png" group-title="🛠️TEST-iill",Hub Sports 2
+https://hls.iill.top/api/Hub-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-3.png" group-title="🛠️TEST-iill",Hub Sports 3
+https://hls.iill.top/api/Hub-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-4.png" group-title="🛠️TEST-iill",Hub Sports 4
+https://hls.iill.top/api/Hub-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-5.png" group-title="🛠️TEST-iill",Hub Sports 5
+https://hls.iill.top/api/Hub-Sports-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="Hub Sports 6" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-6.png" group-title="🛠️TEST-iill",Hub Sports 6
+https://hls.iill.top/api/Hub-Sports-6/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 7" tvg-name="Hub Sports 7" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-7.png" group-title="🛠️TEST-iill",Hub Sports 7
+https://hls.iill.top/api/Hub-Sports-7/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-8.png" group-title="🛠️TEST-iill",Hub Sports 8
+https://hls.iill.top/api/Hub-Sports-8/index.m3u8
+#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Fight-Sports.png" group-title="🛠️TEST-iill",Fight Sports
+https://hls.iill.top/api/Fight-Sports/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Eurosport-1.png"  group-title="🛠️TEST-iill", Eurosport 1
+https://hls.iill.top/api/Eurosport-1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Eurosport-2.png"  group-title="🛠️TEST-iill", Eurosport 2
+https://hls.iill.top/api/Eurosport-2/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Spotv-1.png" group-title="🛠️TEST-iill",Spotv 1
+https://hls.iill.top/api/Spotv-1/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Spotv-2.png" group-title="🛠️TEST-iill",Spotv 2
+https://hls.iill.top/api/Spotv-2/index.m3u8
+
+
+#DIYIILL
+#DIYIILL大街
+#DIY大街源
+#iill大街「集合」
 #iill海外合集
-#EXTINF:-1 tvg-id="凰凰卫视中文台" tvg-name="凰凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="iill海外合集🌏",凤凰卫视中文台
+#iill
+#🌏iill海外合集
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png" group-title="🌏iill海外合集",鳳凰衛視·中文
 http://r.jdshipin.com/cCCzW
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="iill海外合集🌏",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="🌏iill海外合集",鳳凰衛視·資訊
 http://r.jdshipin.com/0Rp07
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="iill海外合集🌏",凤凰卫视香港台
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰香港.png" group-title="🌏iill海外合集",鳳凰衛視·香港
 http://r.jdshipin.com/yDoTN
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="iill海外合集🌏",翡翠台 4K
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="🌏iill海外合集", 翡翠台 4K
 https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="iill海外合集🌏",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="🌏iill海外合集", 翡翠台「字幕」
 https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="iill海外合集🌏",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/明珠台.png" group-title="🌏iill海外合集", 明珠台「字幕」
 https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="iill海外合集🌏",TVB Plus
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBPlus.png" group-title="🌏iill海外合集",TVB Plus
 http://r.jdshipin.com/ndGgS
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="iill海外合集🌏",無綫新聞台
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/無綫新聞台.png" group-title="🌏iill海外合集",無綫新聞台
 http://r.jdshipin.com/CkuBd
-#EXTINF:-1 tvg-id="now新闻" tvg-name="now新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="iill海外合集🌏",Now新聞台
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Now新聞台.png" group-title="🌏iill海外合集",Now新聞台
 https://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Red Bull TV.png" group-title="iill海外合集🌏",Red Bull TV
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RedBull.png" group-title="🌏iill海外合集",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="iill海外合集🌏",娛樂新聞台
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/娛樂新聞.png" group-title="🌏iill海外合集",娛樂新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="iill海外合集🌏",TVB 星河
+#EXTINF:-1 tvg-id="TVB XING HE" tvg-name="TVB XING HE" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/星河台.png" group-title="🌏iill海外合集",TVB 星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB功夫.png" group-title="iill海外合集🌏",TVB功夫台
+#EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/亞洲武俠.png" group-title="🌏iill海外合集",亞洲武俠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="iill海外合集🌏",Astro AOD
+#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="🌏iill海外合集",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AEC.png" group-title="iill海外合集🌏",Astro AEC
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AEC.png" group-title="🌏iill海外合集",Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/QJ.png" group-title="iill海外合集🌏",Astro QJ
+#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/全佳.png" group-title="🌏iill海外合集",Astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-id="HuaHeeDai" tvg-name="HuaHeeDai" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ASTRO欢喜台.png" group-title="iill海外合集🌏",Astro 欢喜台
+#EXTINF:-1 tvg-id="HUA HEE DAI" tvg-name="HUA HEE DAI" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/欢喜台.png" group-title="🌏iill海外合集",Astro 欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/iQIYI.png" group-title="iill海外合集🌏",iQIYI
+#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/爱奇艺.png" group-title="🌏iill海外合集",iQIYI
 http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png" group-title="iill海外合集🌏",八度空間
+#EXTINF:-1 tvg-id="8tv" tvg-name="8TV" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/八度空間.png" group-title="🌏iill海外合集",八度空間
 http://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNEL5.png" group-title="iill海外合集🌏",Channel 5
+#EXTINF:-1 tvg-id="Ch 5 (HD)" tvg-name="Ch 5 (HD)" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Channel5.png" group-title="🌏iill海外合集",Channel 5
 http://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNEL8.png" group-title="iill海外合集🌏",Channel 8
+#EXTINF:-1 tvg-id="Ch 8 (HD)" tvg-name="Ch 8 (HD)" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Channel8.png" group-title="🌏iill海外合集",Channel 8
 http://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNELU.png" group-title="iill海外合集🌏",Channel U
+#EXTINF:-1 tvg-id="Ch U (HD)" tvg-name="Ch U (HD)" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ChannelU.png" group-title="🌏iill海外合集",Channel U
 http://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="iill海外合集🌏",五星体育
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/五星体育.png" group-title="🌏iill海外合集",五星体育
 https://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一财经.png" group-title="iill海外合集🌏",第一财经
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/第一财经.png" group-title="🌏iill海外合集",第一财经
 https://cdn3.163189.xyz/163189/dycj
 
-#BXTV
-#EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER18.png" group-title="冰雪📺",myTV SUPER 18台
-http://bxtv.3a.ink/api.php?id=18
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="冰雪📺",TVB Plus
-http://bxtv.3a.ink/api.php?id=tvbp
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="冰雪📺",明珠台
-http://bxtv.3a.ink/api.php?id=mz
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="冰雪📺",無線新聞台
-http://bxtv.3a.ink/api.php?id=wxxw
-#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="冰雪📺",美亞電影台
-http://bxtv.3a.ink/api.php?id=meiya
-#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="冰雪📺",千禧經典台
-http://bxtv.3a.ink/api.php?id=qxjd
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="冰雪📺",翡翠台
-http://bxtv.3a.ink/api.php?id=fct
-#EXTINF:-1 tvg-id="凰凰卫视中文台" tvg-name="凰凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="冰雪📺",鳳凰衛視中文台
-http://bxtv.3a.ink/api.php?id=fhzw
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="冰雪📺",鳳凰衛視資訊台
-http://bxtv.3a.ink/api.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="冰雪📺",鳳凰衛視香港台
-http://bxtv.3a.ink/api.php?id=fhhk
-#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="冰雪📺",POPC
-http://bxtv.3a.ink/api.php?id=popc
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png" group-title="冰雪📺",中天新聞台
-http://bxtv.3a.ink/api.php?id=ztxw
+
 
 #JULI
 #JULI
