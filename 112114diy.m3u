@@ -1,9 +1,5 @@
 #EXTM3U
 #judy推流
-#EXTINF:-1 tvg-id="爆谷台" tvg-name="爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="海外频道✈️",NOW爆谷台[GPT]
-https://tuiliu.go-iptv.ggff.net/baogutai/stream.m3u8
-#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="海外频道✈️",NOW爆谷星影台
-https://tuiliu.go-iptv.ggff.net/xingyingtai/stream.m3u8
 #EXTINF:-1 tvg-id="LSTIME电影台" tvg-name="LS TIME电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LSTIME电影.png" group-title="海外频道✈️",LS TIME电影台
 https://tuiliu.goiptv.us.ci/lungxiangtime/lungxiangtime.m3u8
 #EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="海外频道✈️",纬来电影
