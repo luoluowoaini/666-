@@ -703,22 +703,6 @@ http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/嘉定综合.png" group-title="上海🇨🇳",嘉定综合
 http://5730.liveplay.myqcloud.com/live/JcmcTvNov.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海🇨🇳",东方卫视[iill]
-http://dxa.yiandrive.com:39319/sh/dfws
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一财经.png" group-title="上海🇨🇳",第一财经[iill]
-http://dxa.yiandrive.com:39319/sh/dycj
-#EXTINF:-1 tvg-id="都市频道" tvg-name="都市频道" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/上海都市频道.png" group-title="上海🇨🇳",上海都市频道[iill]
-http://dxa.yiandrive.com:39319/sh/dspd
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/新纪实.png" group-title="上海🇨🇳",新纪实[iill]
-http://dxa.yiandrive.com:39319/sh/xjs
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/魔都眼.png" group-title="上海🇨🇳",魔都眼[iill]
-http://dxa.yiandrive.com:39319/sh/mdy
-#EXTINF:-1 tvg-id="上海" tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/爱上海.png" group-title="上海🇨🇳",爱上海[iill]
-http://dxa.yiandrive.com:39319/sh/ash
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="上海🇨🇳",五星体育[juli]
-https://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一财经.png" group-title="上海🇨🇳",第一财经[juli]
-https://cdn3.163189.xyz/163189/dycj
 
 #CCTV
 #测试
