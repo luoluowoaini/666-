@@ -1,6 +1,6 @@
 #EXTM3U
 #judy推流
-#EXTINF:-1 tvg-id="LSTIME电影台" tvg-name="LSTIME电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LSTIME电影.png" group-title="海外频道✈️",LS TIME电影台
+#EXTINF:-1 tvg-id="LSTIME电影台" tvg-name="LSTIME电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LSTIME.png" group-title="海外频道✈️",LS TIME电影台
 https://tuiliu.goiptv.us.ci/lungxiangtime/lungxiangtime.m3u8
 #EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="海外频道✈️",纬来电影
 https://tuiliu.goiptv.us.ci/videolandmovie/videolandmovie.m3u8
