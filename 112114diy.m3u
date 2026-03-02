@@ -1307,3 +1307,197 @@ http://74.91.26.218:82/live/ttvzh.m3u8
 #EXTINF:-1 tvg-id="台视财经HD" tvg-name="台视财经HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视财经.png" group-title="⚙️ Kansas · 测试",台视财经
 http://74.91.26.218:82/live/ttvcj.m3u8
 
+
+#litv
+#judy
+# ===== 新闻财经 =====
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS新闻.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="TVBS新聞",TVBS新闻台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv072
+#EXTINF:-1 tvg-name="東森新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森新闻.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="東森新聞台",东森新闻
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv152
+#EXTINF:-1 tvg-name="東森財經新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森财经新闻.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="東森財經新聞台",东森财经新闻台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv153
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="中天新聞台",中天新闻台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv009
+#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视新闻.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="中視新聞",中视新闻
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv074
+#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华视新闻.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="華視新聞",华视新闻
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv052
+#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视新闻.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="台視新聞",台视新闻
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv051
+#EXTINF:-1 tvg-name="台視財經" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视财经.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="台視財經",台视财经
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv056
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寰宇新闻台湾.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="寰宇新聞台",寰宇新闻台
+https://litv.goiptv.de5.net/litv.php?id=litv-longturn14
+#EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寰宇新闻台湾.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="寰宇新聞台灣台",寰宇新闻台湾台
+https://litv.goiptv.de5.net/litv.php?id=litv-longturn15
+#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视新闻.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="民視新聞台",民视新闻台
+https://litv.goiptv.de5.net/litv.php?id=litv-ftv13
+#EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/镜电视新闻.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="鏡電視新聞台",镜电视新闻台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv075
+#EXTINF:-1 tvg-name="非凡新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/非凡新闻.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="非凡新聞台",非凡新闻台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv010
+#EXTINF:-1 tvg-name="第1财经" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/Taiwan-TV-LOGO@main/%E7%AC%AC1%E8%B2%A1%E7%B6%93.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="第1财经",第1財經
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv104
+#EXTINF:-1 tvg-name="非凡商業台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/非凡商业.png" group-title="🇹🇼 新闻财经 · LiTV" tvg-id="非凡商業台",非凡商业台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv048
+
+# ===== 电影戏剧 =====
+#EXTINF:-1 tvg-name="amc電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC电影.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="amc電影台",AMC电影台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv017
+#EXTINF:-1 tvg-name="公視戲劇" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公视戏剧.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="公視戲劇",公视戏剧
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv042
+#EXTINF:-1 tvg-name="台灣戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/台湾戏剧台.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="台灣戲劇台",台湾戏剧台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang22
+#EXTINF:-1 tvg-name="影迷數位電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/影迷数位电影.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="影迷數位電影台",影迷数位电影台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv011
+#EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/影迷數位紀實台.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="影迷數位紀實台",影迷数位纪实台
+https://litv.goiptv.de5.net/litv.php?id=litv-ftv15
+#EXTINF:-1 tvg-name="民視影劇台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视影剧.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="民視影劇台",民视影剧台
+https://litv.goiptv.de5.net/litv.php?id=litv-ftv09
+#EXTINF:-1 tvg-name="采昌影劇台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/采昌影剧.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="采昌影劇台",采昌影剧台HD
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv049
+#EXTINF:-1 tvg-name="靖天戲劇台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天戏剧.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="靖天戲劇台",靖天戏剧台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv058
+#EXTINF:-1 tvg-name="靖天映畫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天映画.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="靖天映畫",靖天映画
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv055
+#EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天电影.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="靖天電影台",靖天电影台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv061
+#EXTINF:-1 tvg-name="靖洋戲劇台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖洋戏剧.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="靖洋戲劇台",靖洋戏剧台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv045
+#EXTINF:-1 tvg-name="龍華偶像台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="龍華偶像台",龙华偶像
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang12
+#EXTINF:-1 tvg-name="龍華戲劇台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="龍華戲劇台",龙华戏剧
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang18
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="龍華電影台",龙华电影
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang03
+#EXTINF:-1 tvg-name="龍華卡通台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华卡通.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="龍華卡通台",龙华卡通台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang01
+#EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华日韩.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="龍華日韓台",龙华日韩台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang11
+#EXTINF:-1 tvg-name="龍華洋片台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="龍華洋片台",龙华洋片台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang02
+#EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华经典.png" group-title="🇹🇼 电影戏剧 · LiTV" tvg-id="龍華經典台",龙华经典台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang21
+
+# ===== 生活纪实 =====
+#EXTINF:-1 tvg-name="ELTV生活英语台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ELTV生活英语.png" group-title="🇹🇼 生活纪实 · LiTV" tvg-id="ELTV生活英语台",ELTV生活英语台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang20
+#EXTINF:-1 tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/SMART知识台.png" group-title="🇹🇼 生活纪实 · LiTV" tvg-id="Smart知識台",SMART知识台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang19
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲旅游.png" group-title="🇹🇼 生活纪实 · LiTV" tvg-id="亞洲旅遊台",亚洲旅游台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv076
+#EXTINF:-1 tvg-name="八大綜藝台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大综艺.png" group-title="🇹🇼 生活纪实 · LiTV" tvg-id="八大綜藝台",八大综艺台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv039
+#EXTINF:-1 tvg-name="民視旅遊台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视旅游.png" group-title="🇹🇼 生活纪实 · LiTV" tvg-id="民視旅遊台",民视旅游台
+https://litv.goiptv.de5.net/litv.php?id=litv-ftv07
+#EXTINF:-1 tvg-name="民視綜藝台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视综艺.png" group-title="🇹🇼 生活纪实 · LiTV" tvg-id="民視綜藝台",民视综艺台(免费)
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv004
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/猪哥亮歌厅秀.png" group-title="🇹🇼 生活纪实 · LiTV" tvg-id="豬哥亮歌廳秀",猪哥亮歌厅秀
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv006
+#EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/视纳华仁纪实.png" group-title="🇹🇼 生活纪实 · LiTV" tvg-id="視納華仁紀實頻道",视纳华仁纪实频道
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv013
+# ===== 体育竞技 =====
+#EXTINF:-1 tvg-name="trace sport star运动明星" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TRACEURBAN.png" group-title="🇹🇼 体育竞技 · LiTV" tvg-id="trace sport star运动明星",TRACESPORTSTAR运动明星
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv077
+#EXTINF:-1 tvg-name="trace sport star运动明星" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TRACEURBAN.png" group-title="🇹🇼 体育竞技 · LiTV" tvg-id="trace sport star运动明星",TRACESPORTSTAR运动明星
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv082
+#EXTINF:-1 tvg-name="博斯無限二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯无限2.png" group-title="🇹🇼 体育竞技 · LiTV" tvg-id="博斯無限二台",博斯无限二台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang13
+#EXTINF:-1 tvg-name="博斯無限台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯无限.png" group-title="🇹🇼 体育竞技 · LiTV" tvg-id="博斯無限台",博斯无限台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang10
+#EXTINF:-1 tvg-name="博斯網球台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯网球.png" group-title="🇹🇼 体育竞技 · LiTV" tvg-id="博斯網球台",博斯网球台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang09
+#EXTINF:-1 tvg-name="博斯運動一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯运动1.png" group-title="🇹🇼 体育竞技 · LiTV" tvg-id="博斯運動一台",博斯运动一台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang07
+#EXTINF:-1 tvg-name="博斯運動二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯运动2.png" group-title="🇹🇼 体育竞技 · LiTV" tvg-id="博斯運動二台",博斯运动二台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang08
+#EXTINF:-1 tvg-name="博斯高球一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯高球.png" group-title="🇹🇼 体育竞技 · LiTV" tvg-id="博斯高球一台",博斯高球一台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang05
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯高球二.png" group-title="🇹🇼 体育竞技 · LiTV" tvg-id="博斯高球二台",博斯高球二台
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang06
+#EXTINF:-1 tvg-name="博斯魅力网有线" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯魅力.png" group-title="🇹🇼 体育竞技 · LiTV" tvg-id="博斯魅力网有线",博斯魅力网有线
+https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang04
+#EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/时尚运动X.png" group-title="🇹🇼 体育竞技 · LiTV" tvg-id="時尚運動X",时尚运动X
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv014
+#EXTINF:-1 tvg-name="智林體育台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/智林体育.png" group-title="🇹🇼 体育竞技 · LiTV" tvg-id="智林體育台",智林体育台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv101
+# ===== 综合频道 =====
+#EXTINF:-1 tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANG.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="ARIRANG阿里郎頻道",ARIRANG阿里郎频道
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv079
+#EXTINF:-1 tvg-name="GinxTV电竞频道" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Ginx TV電競頻道.png" group-title="🇹🇼 体育竞技 · LiTV" tvg-id="GinxTV电竞频道",GINXTV电竞频道
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv053
+#EXTINF:-1 tvg-name="Globetrotter" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GLOBETROTTER环游旅行家.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="Globetrotter",GLOBETROTTER
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv016
+#EXTINF:-1 tvg-name="KLT-靖天國際台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天国际.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="KLT-靖天國際台",KLT靖天国际台HD
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv063
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="TVBS",TVBS
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv073
+#EXTINF:-1 tvg-name="TVBS歡樂台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS欢乐.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="TVBS歡樂台",TVBS欢乐台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv068
+#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS精采.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="TVBS精采台",TVBS精采台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv067
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="中視",中视
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv040
+#EXTINF:-1 tvg-name="中视经典台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视经典.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="中视经典台HD",中视经典台HD
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv080
+#EXTINF:-1 tvg-name="中视菁采台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视菁采.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="中视菁采台HD",中视菁采台HD
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv064
+#EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大精彩.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="八大精彩台",八大精彩台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv034
+#EXTINF:-1 tvg-name="半島電視台英語頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/半岛新闻.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="半島電視台英語頻道",半岛电视台英语频道
+https://litv.goiptv.de5.net/litv.php?id=litv-ftv10
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华视.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="華視",华视
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv041
+#EXTINF:-1 tvg-name="古典音乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/古典音乐.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="古典音乐台",古典音乐台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv059
+#EXTINF:-1 tvg-name="台視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="台視",台视
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv066
+#EXTINF:-1 tvg-name="國會頻道1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国会频道1.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="國會頻道1",国会频道1
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv084
+#EXTINF:-1 tvg-name="國會頻道2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国会频道2.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="國會頻道2",国会频道2
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv085
+#EXTINF:-1 tvg-name="好消息" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好消息.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="好消息",好消息
+https://litv.goiptv.de5.net/litv.php?id=litv-ftv16
+#EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好消息2.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="好消息2台",好消息2台
+https://litv.goiptv.de5.net/litv.php?id=litv-ftv17
+#EXTINF:-1 tvg-name="客家電視台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/客家电视.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="客家電視台",客家电视台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv043
+#EXTINF:-1 tvg-name="VOA美国之音" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美国之音.png" group-title="🇹🇼 综合频道 · LiTV",VOA美国之音
+https://litv.goiptv.de5.net/litv.php?id=litv-ftv03
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="民視",民视
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv002
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="民視",民视
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv155
+#EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视台湾.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="民視台灣台",民视台湾台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv001
+#EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视台湾.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="民視台灣台",民视台湾台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv156
+#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视第一.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="民視第一台",民视第一台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv003
+#EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达娱乐.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="愛爾達娛樂台",爱尔达娱乐台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv070
+#EXTINF:-1 tvg-name="第1商業" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/第1商业台.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="第1商業",第1商业台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv109
+#EXTINF:-1 tvg-name="達文西頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/达文西.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="達文西頻道",达文西频道
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv018
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天卡通.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="靖天卡通台",靖天卡通台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv044
+#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天日本.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="靖天日本台",靖天日本台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv047
+#EXTINF:-1 tvg-name="靖天欢乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天欢乐.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="靖天欢乐台",靖天欢乐台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv054
+#EXTINF:-1 tvg-name="靖天綜合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天综合.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="靖天綜合台",靖天综合台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv046
+#EXTINF:-1 tvg-name="靖天育樂台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天育乐.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="靖天育樂台",靖天育乐台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv062
+#EXTINF:-1 tvg-name="靖天資訊台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天资讯.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="靖天資訊台",靖天资讯台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv065
+#EXTINF:-1 tvg-name="靖洋卡通台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖洋卡通.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="靖洋卡通台",靖洋卡通台
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv057
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MEZZO.png" group-title="🇹🇼 综合频道 · LiTV" tvg-id="Mezzo Live HD",MEZZOLIVEHD
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv083
+
+
+
+
