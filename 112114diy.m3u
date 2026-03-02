@@ -48,9 +48,7 @@ http://m.061899.xyz/mg/cetv1
 #EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV2.png" group-title="CCTV🇨🇳",CETV2
 http://m.061899.xyz/mg/cetv2
 #EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV3.png" group-title="CCTV🇨🇳",CETV3
-http://m.061899.xyz/mg/cetv2
-#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV3.png" group-title="CCTV🇨🇳",CETV4
-http://m.061899.xyz/mg/cetv4
+http://m.061899.xyz/mg/cetv3
 
 
 # 卫视🇨🇳
@@ -114,6 +112,9 @@ http://m.061899.xyz/mg/jlws
 http://m.061899.xyz/mg/nmgws
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视🇨🇳",黑龙江卫视
 http://m.061899.xyz/mg/hljws
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视🇨🇳",辽宁卫视
+http://m.061899.xyz/mg/lnws
+
 
 
 
