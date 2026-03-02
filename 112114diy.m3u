@@ -118,7 +118,12 @@ http://m.061899.xyz/mg/nxws
 http://m.061899.xyz/mg/dnws
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · 主线",海峡卫视
 http://m.061899.xyz/mg/hxws
-
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · 主线",安多卫视
+http://m.061899.xyz/mg/adws
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · 主线",贵州卫视
+http://m.061899.xyz/mg/gzws
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · 主线",大湾区卫视
+http://m.061899.xyz/mg/dwqws
 
 #🇨🇳 央视 · K06
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🇨🇳 央视 · K06",CCTV1
@@ -236,6 +241,12 @@ http://k.061899.xyz/k.php?id=nxws
 http://k.061899.xyz/k.php?id=dnws
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · K06",海峡卫视
 http://k.061899.xyz/k.php?id=hxws
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · K06",安多卫视
+http://k.061899.xyz/k.php?id=adws
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · K06",贵州卫视
+http://k.061899.xyz/k.php?id=gzws
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · K06",大湾区卫视
+http://k.061899.xyz/k.php?id=dwqws
 
 
 
@@ -355,6 +366,12 @@ http://cdn6.bkpcp.top/tl/tuiliu.php?id=nxws
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · BK",海峡卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=hxws
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · BK",安多卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=adws
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · BK",贵州卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · BK",大湾区卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=dwqws
 
 
 #JULI
