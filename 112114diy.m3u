@@ -68,46 +68,45 @@ http://m.061899.xyz/mg/sdws
 http://m.061899.xyz/mg/gdws
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="🇨🇳 卫视 · 主线",天津卫视
 http://m.061899.xyz/mg/tjws
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="🇨🇳 卫视 · 主线",四川卫视
-http://m.061899.xyz/mg/scws
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="🇨🇳 卫视 · 主线",湖北卫视
-http://m.061899.xyz/mg/hubws
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="🇨🇳 卫视 · 主线",黑龙江卫视
-http://m.061899.xyz/mg/hljws
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="🇨🇳 卫视 · 主线",吉林卫视
-http://m.061899.xyz/mg/jlws
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="🇨🇳 卫视 · 主线",广西卫视
-http://m.061899.xyz/mg/gxws
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="🇨🇳 卫视 · 主线",山西卫视
-http://m.061899.xyz/mg/sxiws
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="🇨🇳 卫视 · 主线",东南卫视
-http://m.061899.xyz/mg/dnws
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="🇨🇳 卫视 · 主线",安徽卫视
 http://m.061899.xyz/mg/ahws
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="🇨🇳 卫视 · 主线",河南卫视
-http://m.061899.xyz/mg/hnws
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="🇨🇳 卫视 · 主线",四川卫视
+http://m.061899.xyz/mg/scws
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="🇨🇳 卫视 · 主线",重庆卫视
+http://m.061899.xyz/mg/cqws
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="🇨🇳 卫视 · 主线",湖北卫视
+http://m.061899.xyz/mg/hubws
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="🇨🇳 卫视 · 主线",广西卫视
+http://m.061899.xyz/mg/gxws
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="🇨🇳 卫视 · 主线",贵州卫视
+http://m.061899.xyz/mg/gzws
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="🇨🇳 卫视 · 主线",海南卫视
 http://m.061899.xyz/mg/hinws
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="🇨🇳 卫视 · 主线",宁夏卫视
-http://m.061899.xyz/mg/nxws
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="🇨🇳 卫视 · 主线",甘肃卫视
+http://m.061899.xyz/mg/gsws
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="🇨🇳 卫视 · 主线",青海卫视
 http://m.061899.xyz/mg/qhws
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="🇨🇳 卫视 · 主线",陕西卫视
+http://m.061899.xyz/mg/sxws
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="🇨🇳 卫视 · 主线",宁夏卫视
+http://m.061899.xyz/mg/nxws
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="🇨🇳 卫视 · 主线",新疆卫视
 http://m.061899.xyz/mg/xjws
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="🇨🇳 卫视 · 主线",西藏卫视
 http://m.061899.xyz/mg/xzws
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="🇨🇳 卫视 · 主线",云南卫视
-http://m.061899.xyz/mg/ynws
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="🇨🇳 卫视 · 主线",重庆卫视
-http://m.061899.xyz/mg/cqws
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="🇨🇳 卫视 · 主线",内蒙古卫视
-http://m.061899.xyz/mg/nmgws
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="🇨🇳 卫视 · 主线",兵团卫视
-http://m.061899.xyz/mg/btws
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="🇨🇳 卫视 · 主线",吉林卫视
 http://m.061899.xyz/mg/jlws
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="🇨🇳 卫视 · 主线",内蒙古卫视
+http://m.061899.xyz/mg/nmgws
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="🇨🇳 卫视 · 主线",黑龙江卫视
+http://m.061899.xyz/mg/hljws
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="🇨🇳 卫视 · 主线",辽宁卫视
 http://m.061899.xyz/mg/lnws
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="🇨🇳 卫视 · 主线",云南卫视
+http://m.061899.xyz/mg/ynws
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="🇨🇳 卫视 · 主线",山西卫视
+http://m.061899.xyz/mg/sxiws
+
 
 
 #🇨🇳 央视 · K06
@@ -176,50 +175,48 @@ http://k.061899.xyz/k.php?id=sdws
 http://k.061899.xyz/k.php?id=gdws
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="🇨🇳 卫视 · K06",天津卫视
 http://k.061899.xyz/k.php?id=tjws
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="🇨🇳 卫视 · K06",四川卫视
-http://k.061899.xyz/k.php?id=scws
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="🇨🇳 卫视 · K06",湖北卫视
-http://k.061899.xyz/k.php?id=hubws
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="🇨🇳 卫视 · K06",黑龙江卫视
-http://k.061899.xyz/k.php?id=hljws
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="🇨🇳 卫视 · K06",吉林卫视
-http://k.061899.xyz/k.php?id=jlws
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="🇨🇳 卫视 · K06",广西卫视
-http://k.061899.xyz/k.php?id=gxws
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="🇨🇳 卫视 · K06",山西卫视
-http://k.061899.xyz/k.php?id=sxiws
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="🇨🇳 卫视 · K06",东南卫视
-http://k.061899.xyz/k.php?id=dnws
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="🇨🇳 卫视 · K06",安徽卫视
 http://k.061899.xyz/k.php?id=ahws
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="🇨🇳 卫视 · K06",河南卫视
-http://k.061899.xyz/k.php?id=hnws
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="🇨🇳 卫视 · K06",四川卫视
+http://k.061899.xyz/k.php?id=scws
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="🇨🇳 卫视 · K06",重庆卫视
+http://k.061899.xyz/k.php?id=cqws
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="🇨🇳 卫视 · K06",湖北卫视
+http://k.061899.xyz/k.php?id=hubws
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="🇨🇳 卫视 · K06",广西卫视
+http://k.061899.xyz/k.php?id=gxws
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="🇨🇳 卫视 · K06",贵州卫视
+http://k.061899.xyz/k.php?id=gzws
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="🇨🇳 卫视 · K06",海南卫视
 http://k.061899.xyz/k.php?id=hinws
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="🇨🇳 卫视 · K06",宁夏卫视
-http://k.061899.xyz/k.php?id=nxws
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="🇨🇳 卫视 · K06",甘肃卫视
+http://k.061899.xyz/k.php?id=gsws
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="🇨🇳 卫视 · K06",青海卫视
 http://k.061899.xyz/k.php?id=qhws
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="🇨🇳 卫视 · K06",陕西卫视
+http://k.061899.xyz/k.php?id=sxws
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="🇨🇳 卫视 · K06",宁夏卫视
+http://k.061899.xyz/k.php?id=nxws
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="🇨🇳 卫视 · K06",新疆卫视
 http://k.061899.xyz/k.php?id=xjws
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="🇨🇳 卫视 · K06",西藏卫视
 http://k.061899.xyz/k.php?id=xzws
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="🇨🇳 卫视 · K06",云南卫视
-http://k.061899.xyz/k.php?id=ynws
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="🇨🇳 卫视 · K06",重庆卫视
-http://k.061899.xyz/k.php?id=cqws
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="🇨🇳 卫视 · K06",内蒙古卫视
-http://k.061899.xyz/k.php?id=nmgws
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="🇨🇳 卫视 · K06",兵团卫视
-http://k.061899.xyz/k.php?id=btws
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="🇨🇳 卫视 · K06",吉林卫视
 http://k.061899.xyz/k.php?id=jlws
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="🇨🇳 卫视 · K06",内蒙古卫视
+http://k.061899.xyz/k.php?id=nmgws
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="🇨🇳 卫视 · K06",黑龙江卫视
+http://k.061899.xyz/k.php?id=hljws
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="🇨🇳 卫视 · K06",辽宁卫视
 http://k.061899.xyz/k.php?id=lnws
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="🇨🇳 卫视 · K06",云南卫视
+http://k.061899.xyz/k.php?id=ynws
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="🇨🇳 卫视 · K06",山西卫视
+http://k.061899.xyz/k.php?id=sxiws
 
 
 
-#央视
+#🇨🇳 央视 · BK
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🇨🇳 央视 · BK",CCTV1
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="🇨🇳 央视 · BK",CCTV2
@@ -285,53 +282,51 @@ http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="🇨🇳 卫视 · BK",天津卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="🇨🇳 卫视 · BK",四川卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="🇨🇳 卫视 · BK",湖北卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="🇨🇳 卫视 · BK",黑龙江卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="🇨🇳 卫视 · BK",吉林卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="🇨🇳 卫视 · BK",广西卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="🇨🇳 卫视 · BK",山西卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=sxiws
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="🇨🇳 卫视 · BK",东南卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="🇨🇳 卫视 · BK",安徽卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="🇨🇳 卫视 · BK",河南卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="🇨🇳 卫视 · BK",四川卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="🇨🇳 卫视 · BK",重庆卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="🇨🇳 卫视 · BK",湖北卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="🇨🇳 卫视 · BK",广西卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="🇨🇳 卫视 · BK",贵州卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="🇨🇳 卫视 · BK",海南卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="🇨🇳 卫视 · BK",宁夏卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=nxws
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="🇨🇳 卫视 · BK",甘肃卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=gsws
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="🇨🇳 卫视 · BK",青海卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="🇨🇳 卫视 · BK",陕西卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=sxws
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="🇨🇳 卫视 · BK",宁夏卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=nxws
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="🇨🇳 卫视 · BK",新疆卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=xjws
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="🇨🇳 卫视 · BK",西藏卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=xzws
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="🇨🇳 卫视 · BK",云南卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=ynws
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="🇨🇳 卫视 · BK",重庆卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="🇨🇳 卫视 · BK",内蒙古卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=nmgws
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="🇨🇳 卫视 · BK",兵团卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=btws
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="🇨🇳 卫视 · BK",吉林卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="🇨🇳 卫视 · BK",内蒙古卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=nmgws
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="🇨🇳 卫视 · BK",黑龙江卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="🇨🇳 卫视 · BK",辽宁卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
-
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="🇨🇳 卫视 · BK",云南卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=ynws
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="🇨🇳 卫视 · BK",山西卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=sxiws
 
 
 #JULI
 #JULI
 #iilljuli精选
 #juli精选
+#🌏 精选 · JuLi
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png" group-title="🌏 精选 · JuLi",鳳凰衛視·中文
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="🌏 精选 · JuLi",鳳凰衛視·資訊
@@ -396,6 +391,7 @@ https://ytb.178.indevs.in/?id=o_-hSMgpAzs
 
 #JULI
 #JULI
+#🌏 精选 · JuLi
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="🌏 精选 · JuLi",翡翠台[线路1]
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="🌏 精选 · JuLi",翡翠台[线路2]
