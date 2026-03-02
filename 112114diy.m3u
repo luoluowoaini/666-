@@ -1026,7 +1026,7 @@ https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门综艺.png" group-title="🇭🇰 港澳 · YG",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
-
+#iill地方
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RedBull.png" group-title="🏝️ 地方 · YG",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东体育.png" group-title="🏝️ 地方 · YG",广东体育
@@ -1084,6 +1084,7 @@ https://tv.iill.top/CGTN/cgtn_espanol
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CGTN阿拉伯语.png" group-title="🏝️ 地方 · YG",CGTN العربية「回看」
 https://tv.iill.top/CGTN/cgtn_arabic
 
+#iill游戏赛事
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/哔哩哔哩.png" group-title="🎮 游戏 · YG",「B站」热门赛事
 https://live.iill.top/bilibili/10
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/哔哩哔哩.png" group-title="🎮 游戏 · YG",「B站」CS 2
