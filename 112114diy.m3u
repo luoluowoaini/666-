@@ -113,7 +113,7 @@ http://m.061899.xyz/mg/xjws
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="🇨🇳 卫视 · 主线",兵团卫视
 http://m.061899.xyz/mg/btws
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/农林卫视.png" group-title="🇨🇳 卫视 · 主线",宁夏卫视
-http://m.061899.xyz/mg/nonglinws
+http://m.061899.xyz/mg/nxws
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="🇨🇳 卫视 · 主线",东南卫视
 http://m.061899.xyz/mg/dnws
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · 主线",海峡卫视
@@ -231,7 +231,7 @@ http://k.061899.xyz/k.php?id=xjws
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="🇨🇳 卫视 · K06",兵团卫视
 http://k.061899.xyz/k.php?id=btws
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/农林卫视.png" group-title="🇨🇳 卫视 · K06",宁夏卫视
-http://k.061899.xyz/k.php?id=nonglinws
+http://k.061899.xyz/k.php?id=nxws
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="🇨🇳 卫视 · K06",东南卫视
 http://k.061899.xyz/k.php?id=dnws
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · K06",海峡卫视
@@ -350,7 +350,7 @@ http://cdn6.bkpcp.top/tl/tuiliu.php?id=xjws
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="🇨🇳 卫视 · BK",兵团卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=btws
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/农林卫视.png" group-title="🇨🇳 卫视 · BK",宁夏卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=nonglinws
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=nxws
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="🇨🇳 卫视 · BK",东南卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="🇨🇳 卫视 · BK",海峡卫视
