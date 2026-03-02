@@ -116,6 +116,10 @@ http://m.061899.xyz/mg/hljws
 http://m.061899.xyz/mg/lnws
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="🇨🇳 卫视 · 主线",云南卫视
 http://m.061899.xyz/mg/ynws
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="🇨🇳 卫视 · 主线",陕西卫视
+http://m.061899.xyz/mg/sxws
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="🇨🇳 卫视 · 主线",山西卫视
+http://m.061899.xyz/mg/sxiws
 
 
 
@@ -233,7 +237,10 @@ http://k.061899.xyz/k.php?id=hljws
 http://k.061899.xyz/k.php?id=lnws
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="🇨🇳 卫视 · K06",云南卫视
 http://k.061899.xyz/k.php?id=ynws
-
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="🇨🇳 卫视 · K06",陕西卫视
+http://k.061899.xyz/k.php?id=sxws
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="🇨🇳 卫视 · K06",山西卫视
+http://k.061899.xyz/k.php?id=sxiws
 
 #央卫
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🇨🇳 央视 · BK",CCTV1
@@ -349,6 +356,10 @@ http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="🇨🇳 卫视 · BK",云南卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=ynws
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="🇨🇳 卫视 · BK",陕西卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=sxws
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="🇨🇳 卫视 · BK",山西卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=sxiws
 
 
 
@@ -389,9 +400,9 @@ https://cdn6.163189.xyz/163189/yzwx
 https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="🌏 精选 · JuLi",Astro AOD「多音轨字幕」
 https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-id="AEC" tvg-name="regex:/.*AEC(\(.*?\))?.*/i" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AEC.png" group-title="🌏 精选 · JuLi",Astro AEC「多音轨字幕」
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AEC.png" group-title="🌏 精选 · JuLi",Astro AEC「多音轨字幕」
 https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-id="QJ" tvg-name="regex:/.*QJ(\(.*?\))?.*/i" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/全佳.png" group-title="🌏 精选 · JuLi",Astro QJ
+#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/全佳.png" group-title="🌏 精选 · JuLi",Astro QJ
 https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
 #EXTINF:-1 tvg-id="HUA HEE DAI" tvg-name="HUA HEE DAI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/欢喜台.png" group-title="🌏 精选 · JuLi",Astro 欢喜台
 https://o11.163189.xyz/stream/live/hxt/
@@ -554,9 +565,9 @@ http://m.061899.xyz/mg/gdzj
 http://m.061899.xyz/mg/cwjd
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="🇨🇳 广东 · 合集",凤凰中文
 http://m.061899.xyz/mg/fhzw
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="🇨🇳 广东 · 合集",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="🇨🇳 广东 · 合集",凤凰资讯
 http://m.061899.xyz/mg/fhzx
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="🇨🇳 广东 · 合集",凤凰香港
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="🇨🇳 广东 · 合集",凤凰香港
 http://m.061899.xyz/mg/fhhk
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="🇨🇳 广东 · 合集",CHC影迷电影
 http://m.061899.xyz/mg/ymdy
@@ -723,15 +734,15 @@ http://cdn.163189.xyz/163189/hoyjj
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="✈️ 海外 · JuDy",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="✈️ 海外 · JuDy",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="✈️ 海外 · JuDy",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="✈️ 海外 · JuDy",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="✈️ 海外 · JuDy",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="✈️ 海外 · JuDy",凤凰香港
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="✈️ 海外 · JuDy",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="✈️ 海外 · JuDy",凤凰香港
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="✈️ 海外 · JuDy",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="✈️ 海外 · JuDy",美亚电影
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="✈️ 海外 · JuDy",美亚电影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="重温经典频道" tvg-name="重温经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="✈️ 海外 · JuDy",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
@@ -755,7 +766,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="中央电视台综合频道 (港澳版) (免费)" tvg-name="中央电视台综合频道 (港澳版) (免费)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中央电视台综合频道港澳版.png" group-title="✈️ 海外 · JuDy",中央电视台综合频道 (港澳版) (免费)
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-id="8TV" tvg-name="regex:/^八度空间$/i" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png" group-title="✈️ 海外 · JuDy",8TV
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png" group-title="✈️ 海外 · JuDy",8TV
 http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNEL5.png" group-title="✈️ 海外 · JuDy",Channel 5
 http://cdn6.163189.xyz/163189/ch5
@@ -785,16 +796,16 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali
 http://php.jdshipin.com/smt.php?id=inews_twn
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="✈️ 海外 · JuDy",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧經典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="✈️ 海外 · JuDy",千禧经典台
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="✈️ 海外 · JuDy",千禧经典台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="regex:/^TVB娱乐新闻台$/i" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="✈️ 海外 · JuDy",TVB娱乐新闻台
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="✈️ 海外 · JuDy",TVB娱乐新闻台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
 #EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="✈️ 海外 · JuDy",HOY 资讯台
 http://php.jdshipin.com:8880/smt.php?id=hoycaijing_twn
 
 #EXTINF:-1 tvg-id="天映马来西亚" tvg-name="天映马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映频道.png" group-title="✈️ 海外 · JuDy",天映频道[马来西亚]
 http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 tvg-id="天映经典频道" tvg-name="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="✈️ 海外 · JuDy",天映经典频道[马来西亚]
+#EXTINF:-1 tvg-id="天映经典频道" tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="✈️ 海外 · JuDy",天映经典频道[马来西亚]
 http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="✈️ 海外 · JuDy",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
@@ -802,11 +813,11 @@ http://php.jdshipin.com/TVOD/iptv.php?id=aod
 http://php.jdshipin.com/smt.php?id=AEC
 #EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/QJ.png" group-title="✈️ 海外 · JuDy",Astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-id="Astro_Hua_Hee_Dai" tvg-name="Astro Hua Hee Dai" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Astro Hua Hee Dai.png" group-title="✈️ 海外 · JuDy",Astro Hua Hee Dai
+#EXTINF:-1 tvg-id="Astro_Hua_Hee_Dai" tvg-name="Astro_Hua_Hee_Dai" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Astro Hua Hee Dai.png" group-title="✈️ 海外 · JuDy",Astro Hua Hee Dai
 http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/iQIYI.png" group-title="✈️ 海外 · JuDy",爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 tvg-id="8TV" tvg-name="八度空间" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png" group-title="✈️ 海外 · JuDy",八度空间
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png" group-title="✈️ 海外 · JuDy",八度空间
 http://php.jdshipin.com/smt.php?id=TV8
 #EXTINF:-1 tvg-id="TVBJADEHD" tvg-name="TVBJADEHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="✈️ 海外 · JuDy",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
@@ -814,7 +825,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-id="TVB生活台" tvg-name="TVB生活台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/tvb生活台.png" group-title="✈️ 海外 · JuDy",TVB生活台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="✈️ 海外 · JuDy",TVB娱乐新闻台
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="✈️ 海外 · JuDy",TVB娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-id="无线新闻台 (免费)" tvg-name="无线新闻台 (免费)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="✈️ 海外 · JuDy",无线新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
@@ -844,7 +855,7 @@ http://cdn3.163189.xyz/163189/hxws
 http://cdn10.163189.xyz/163189/xinghe
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映频道.png" group-title="✈️ 海外 · JuDy",天映频道[新加坡]
 https://o11.163189.xyz/stream/live/typd/
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="✈️ 海外 · JuDy" tvg-id="天映经典频道" tvg-name="天映经典",天映经典[新加坡]
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="✈️ 海外 · JuDy" tvg-id="天映经典频道" tvg-name="天映经典频道",天映经典[新加坡]
 https://o11.163189.xyz/stream/live/ccm/
 
 
@@ -983,7 +994,7 @@ https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
 
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="🇭🇰 港澳 · YG",HOY 國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY 77" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="🇭🇰 港澳 · YG",HOY TV
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="🇭🇰 港澳 · YG",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="🇭🇰 港澳 · YG",HOY 資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
@@ -1025,7 +1036,7 @@ https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东体育.png" group-title="🏝️ 地方 · YG",广东体育
 http://r.jdshipin.com/LiYdg
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="珠江台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东珠江.png" group-title="🏝️ 地方 · YG",广东珠江
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东珠江.png" group-title="🏝️ 地方 · YG",广东珠江
 http://r.jdshipin.com/sE5vO
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广州综合.png" group-title="🏝️ 地方 · YG",广州综合
 http://dxa.yiandrive.com:39191/gztv/zhonghe
@@ -1065,7 +1076,7 @@ https://tv.iill.top/migu/chcym
 https://tv.iill.top/migu/chcdz
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/家庭影院.png" group-title="🏝️ 地方 · YG",CHC 家庭影院「回看」
 https://tv.iill.top/migu/chcjt
-#EXTINF:-1 tvg-id="CGTN"  tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CGTN.png" group-title="🏝️ 地方 · YG",CGTN「回看」
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CGTN.png" group-title="🏝️ 地方 · YG",CGTN「回看」
 https://tv.iill.top/CGTN/cgtn
 #EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CGTN纪录.png" group-title="🏝️ 地方 · YG",CGTN Documentary「回看」
 https://tv.iill.top/CGTN/cgtn_doc
