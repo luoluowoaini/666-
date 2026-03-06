@@ -385,9 +385,9 @@ http://101.35.240.114:88/live.php?id=湖南卫视4K
 http://101.35.240.114:88/live.php?id=浙江卫视4K
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/江苏卫视4K.png" http-user-agent="aliplayer" group-title="🇨🇳 4K · 频道",江苏卫视4K
 http://8.138.7.223/tv/jsws4k.php
-#http://101.35.240.114:88/live.php?id=江苏卫视4K
+
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东卫视4K.png" http-user-agent="aliplayer" group-title="🇨🇳 4K · 频道",广东卫视4K
-http://101.35.240.114:88/live.php?id=广东卫视4K
+http://8.138.7.223/tv/gdws4k.php
 http://nn.7x9d.cn/深圳最新.php?id=szws4k
 #EXTINF:-1 tvg-id="苏州" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/苏州4K.png" group-title="🇨🇳 4K · 频道",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
@@ -395,8 +395,6 @@ https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/浙江卫视.png" group-title="🇨🇳 4K · 频道",浙江卫视
 https://play-qukan.cztv.com/live/1746687519046362.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/深圳卫视.png" http-user-agent="AptvPlayer-UA" group-title="🇨🇳 4K · 频道",深圳卫视
-#http://101.35.240.114:88/live.php?id=深圳卫视
 
 # ──────────────────────────────────────
 #iilljuli精选
