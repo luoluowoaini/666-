@@ -1423,51 +1423,6 @@ https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv083
 
 
 
-#jacktv测试
-#杰克测试
-#测试
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV1.png" group-title="⚙️ 杰克 · 测试",CCTV1
-https://test.tvbjack.de5.net/proxy/4c2041de649b8d62
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV13.png" group-title="⚙️ 杰克 · 测试",CCTV13
-https://test.tvbjack.de5.net/proxy/45c773c969c03fff
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="⚙️ 杰克 · 测试",翡翠台
-https://test.tvbjack.de5.net/proxy/710ae6d16ac94653
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="⚙️ 杰克 · 测试",翡翠台
-https://test.tvbjack.de5.net/proxy/8b9ee802e2a09311
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="⚙️ 杰克 · 测试",翡翠台广电
-https://test.tvbjack.de5.net/proxy/6337d3dffd2f31f1
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台 4K.png" group-title="⚙️ 杰克 · 测试",翡翠台4K
-https://test.tvbjack.de5.net/proxy/f84b1671b8531433
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻台.png" group-title="⚙️ 杰克 · 测试",无线新闻台
-https://test.tvbjack.de5.net/proxy/4a1c945d9212c4a1
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻台.png" group-title="⚙️ 杰克 · 测试",无线新闻台
-https://test.tvbjack.de5.net/proxy/82fb638916e90cf0
-#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/Now新闻台.png" group-title="⚙️ 杰克 · 测试",NOW新闻台
-https://test.tvbjack.de5.net/proxy/b9afaff2e8ad98c9
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png" group-title="⚙️ 杰克 · 测试",凤凰中文
-https://test.tvbjack.de5.net/proxy/b27f23f12104eeaf
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="⚙️ 杰克 · 测试",凤凰资讯
-https://test.tvbjack.de5.net/proxy/87d2cd4e4b944f78
-#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png" group-title="⚙️ 杰克 · 测试",凤凰香港
-https://test.tvbjack.de5.net/proxy/ea5f9b5f693cc12c
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东珠江.png" group-title="⚙️ 杰克 · 测试",广东珠江
-https://test.tvbjack.de5.net/proxy/d42e7bab94c99ec4
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东体育.png" group-title="⚙️ 杰克 · 测试",广东体育
-https://test.tvbjack.de5.net/proxy/9a88df847e512abc
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS新闻.png" group-title="⚙️ 杰克 · 测试",TVBS新聞
-https://test.tvbjack.de5.net/proxy/261753fcffb40d2b
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS.png" group-title="⚙️ 杰克 · 测试",TVBS
-https://test.tvbjack.de5.net/proxy/d8044d65a7171e5e
-#EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/东森财经新闻台.png" group-title="⚙️ 杰克 · 测试",東森財經新聞台
-https://test.tvbjack.de5.net/proxy/9f571bb352c56d71
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/中视新闻.png" group-title="⚙️ 杰克 · 测试",中視新聞
-https://test.tvbjack.de5.net/proxy/52d1a7ce19368f4d
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/中天新闻台.png" group-title="⚙️ 杰克 · 测试",中天新聞台
-https://test.tvbjack.de5.net/proxy/323c11c0b043e86e
-#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/寰宇新闻台.png" group-title="⚙️ 杰克 · 测试",寰宇新聞台
-https://test.tvbjack.de5.net/proxy/a64907bd9691cc2a
-#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/寰宇新闻台湾台.png" group-title="⚙️ 杰克 · 测试",寰宇新聞台灣台
-https://test.tvbjack.de5.net/proxy/a5ab6c789204a70f
 
 
 
