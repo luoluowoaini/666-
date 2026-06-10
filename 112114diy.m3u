@@ -12,6 +12,17 @@ http://82.156.243.185:36888/av3a/cctv4kn.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/CCTV8K.png" group-title="⚽世界杯",CCTV8K
 http://82.156.243.185:36888/av3a/cctv8kn.m3u8
 
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV5.png" group-title="⚽世界杯",CCTV5体育[av3a]
+http://82.156.243.185:36888/av3a/cctv5.m3u8
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV5.png" group-title="⚽世界杯",CCTV5+体育赛事[av3a]
+http://82.156.243.185:36888/av3a/cctv5p.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV16.png" group-title="⚽世界杯",CCTV16奥运频道[av3a]
+http://82.156.243.185:36888/av3a/cctv16.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/CCTV4K.png" group-title="⚽世界杯",CCTV4K[av3a]
+http://82.156.243.185:36888/av3a/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/CCTV8K.png" group-title="⚽世界杯",CCTV8K[av3a]
+http://82.156.243.185:36888/av3a/cctv8k.m3u8
+
 #CCTV
 #测试
 #央卫
